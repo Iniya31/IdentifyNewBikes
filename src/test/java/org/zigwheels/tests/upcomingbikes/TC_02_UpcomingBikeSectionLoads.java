@@ -1,4 +1,4 @@
 package org.zigwheels.tests.upcomingbikes;
 
-public class TC_03_UpcomingBikeSectionLoads {
+public class TC_02_UpcomingBikeSectionLoads {
 }
