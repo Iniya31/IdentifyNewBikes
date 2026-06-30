@@ -5,7 +5,7 @@
     <test name="TitleValidationTest">
         <parameter name="browser" value="chrome"/>
         <classes>
-            <class name="org.zigwheels.tests.upcomingbikes.TC_01_TitleValidation"/>
+            <class name="org.zigwheels.tests.googlelogin.TC_15_LoginPopupDisplayValidation"/>
         </classes>
     </test>
 </suite>
