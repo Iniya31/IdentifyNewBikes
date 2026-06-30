@@ -1,4 +1,4 @@
 package org.zigwheels.tests.googlelogin;
 
-public class TC_18_InvalidEmailValidation {
+public class TC_16_InvalidEmailValidation {
 }
