@@ -2,10 +2,25 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 
 <suite name="ZigWheelsSuite">
-    <test name="TitleValidationTest">
-        <parameter name="browser" value="chrome"/>
+    <parameter name="browser" value="chrome"/>
+    <test name="AllTests">
         <classes>
             <class name="org.zigwheels.tests.upcomingbikes.TC_01_TitleValidation"/>
+            <class name="org.zigwheels.tests.usedcars.TC_09_UsedCarsSectionLoadValidation"/>
+            <class name="org.zigwheels.tests.usedcars.TC_10_ChennaiCitySelectionValidation"/>
+            <class name="org.zigwheels.tests.usedcars.TC_11_PopularModelSectionAndDisplayValidation"/>
+            <class name="org.zigwheels.tests.usedcars.TC_12_CarPriceFilterValidation"/>
+            <class name="org.zigwheels.tests.usedcars.TC_13_PriceLowToHighSortingValidation"/>
+            <class name="org.zigwheels.tests.usedcars.TC_14_KmDrivenFilterValidation"/>
+            <class name="org.zigwheels.tests.googlelogin.TC_15_GoogleLoginButtonValidation"/>
+            <class name="org.zigwheels.tests.googlelogin.TC_16_InvalidEmailValidation"/>
+            <class name="org.zigwheels.tests.googlelogin.TC_17_InvalidPhnValidation"/>
+            <class name="org.zigwheels.tests.googlelogin.TC_18_ValidEmailValidation"/>
+            <class name="org.zigwheels.tests.googlelogin.TC_19_InvalidPasswordValidation"/>
+            <class name="org.zigwheels.tests.googlelogin.TC_20_ValidPasswordValidation"/>
+
+
+
         </classes>
     </test>
 </suite>
