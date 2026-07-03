@@ -1,0 +1,889 @@
+03-07-2026 11:41:59 INFO  ============= Test Suite Started =============
+03-07-2026 11:42:16 INFO  Browser Launched Successfully
+03-07-2026 11:42:16 INFO  Browser : chrome
+03-07-2026 11:42:16 INFO  Title Validation Started
+03-07-2026 11:42:16 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+03-07-2026 11:42:16 INFO  Title Validation Passed
+03-07-2026 11:42:16 INFO  Used Cars Validation Started
+03-07-2026 11:42:30 INFO  Current URL : https://www.zigwheels.com/used-car
+03-07-2026 11:42:30 INFO  Used Cars Section Loaded Successfully
+03-07-2026 11:42:30 INFO  Chennai City Selection Validation Started
+03-07-2026 11:42:51 INFO  Popular Models Validation Started
+03-07-2026 11:43:11 INFO  Price Low To High Filter Validation Started
+03-07-2026 11:43:11 INFO  Price Low To High Filter Applied Successfully
+03-07-2026 11:43:14 INFO  ===== First 4 Cars After Sorting =====
+03-07-2026 11:43:14 INFO  Price Low To High Sorting Validation Passed
+03-07-2026 11:43:14 INFO  KM Driven Filter Validation Started
+03-07-2026 11:43:14 INFO  Price Low To High Filter Already Applied
+03-07-2026 11:43:15 INFO  Less Than 5K Filter Applied Successfully
+03-07-2026 11:43:15 INFO  KM Driven Filter Validation Passed
+03-07-2026 11:43:16 INFO  Google Login Button Validation Started
+03-07-2026 11:43:17 INFO  Invalid Email Validation Started
+03-07-2026 11:43:18 INFO  Login/Register Button Clicked Successfully
+03-07-2026 11:43:18 INFO  Invalid Phone Number Validation Started
+03-07-2026 11:43:25 INFO  ============= Test Suite Started =============
+03-07-2026 11:43:37 INFO  Browser Launched Successfully
+03-07-2026 11:43:37 INFO  Browser : chrome
+03-07-2026 11:43:37 INFO  Title Validation Started
+03-07-2026 11:43:37 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+03-07-2026 11:43:37 INFO  Title Validation Passed
+03-07-2026 11:43:37 INFO  Used Cars Validation Started
+03-07-2026 11:43:44 INFO  Current URL : https://www.zigwheels.com/used-car
+03-07-2026 11:43:44 INFO  Used Cars Section Loaded Successfully
+03-07-2026 11:43:44 INFO  Chennai City Selection Validation Started
+03-07-2026 11:43:45 INFO  Chennai City Selected Successfully
+03-07-2026 11:43:45 INFO  Popular Models Validation Started
+03-07-2026 11:44:24 INFO  Error : FileNotFoundException
+03-07-2026 11:44:24 INFO  Error : FileNotFoundException
+03-07-2026 11:44:24 INFO  Error : FileNotFoundException
+03-07-2026 11:44:24 INFO  Error : FileNotFoundException
+03-07-2026 11:44:24 INFO  Error : FileNotFoundException
+03-07-2026 11:44:24 INFO  Error : FileNotFoundException
+03-07-2026 11:44:24 INFO  Error : FileNotFoundException
+03-07-2026 11:44:24 INFO  Error : FileNotFoundException
+03-07-2026 11:44:24 INFO  Error : FileNotFoundException
+03-07-2026 11:44:24 INFO  Error : FileNotFoundException
+03-07-2026 11:44:24 INFO  Error : FileNotFoundException
+03-07-2026 11:44:24 INFO  Error : FileNotFoundException
+03-07-2026 11:44:24 INFO  Error : FileNotFoundException
+03-07-2026 11:44:24 INFO  Error : FileNotFoundException
+03-07-2026 11:44:24 INFO  Error : FileNotFoundException
+03-07-2026 11:44:24 INFO  Error : FileNotFoundException
+03-07-2026 11:44:24 INFO  Error : FileNotFoundException
+03-07-2026 11:44:25 INFO  Error : FileNotFoundException
+03-07-2026 11:44:25 INFO  Error : FileNotFoundException
+03-07-2026 11:44:25 INFO  Error : FileNotFoundException
+03-07-2026 11:44:25 INFO  Error : FileNotFoundException
+03-07-2026 11:44:25 INFO  Error : FileNotFoundException
+03-07-2026 11:44:25 INFO  Error : FileNotFoundException
+03-07-2026 11:44:25 INFO  Error : FileNotFoundException
+03-07-2026 11:44:25 INFO  Error : FileNotFoundException
+03-07-2026 11:44:25 INFO  Error : FileNotFoundException
+03-07-2026 11:44:25 INFO  Error : FileNotFoundException
+03-07-2026 11:44:25 INFO  Error : FileNotFoundException
+03-07-2026 11:44:25 INFO  Error : FileNotFoundException
+03-07-2026 11:44:25 INFO  Error : FileNotFoundException
+03-07-2026 11:44:25 INFO  Error : FileNotFoundException
+03-07-2026 11:44:25 INFO  Error : FileNotFoundException
+03-07-2026 11:44:25 INFO  Error : FileNotFoundException
+03-07-2026 11:44:25 INFO  Error : FileNotFoundException
+03-07-2026 11:44:25 INFO  Error : FileNotFoundException
+03-07-2026 11:44:25 INFO  Error : FileNotFoundException
+03-07-2026 11:44:26 INFO  Error : FileNotFoundException
+03-07-2026 11:44:26 INFO  Error : FileNotFoundException
+03-07-2026 11:44:26 INFO  Error : FileNotFoundException
+03-07-2026 11:44:26 INFO  Error : FileNotFoundException
+03-07-2026 11:44:26 INFO  Error : FileNotFoundException
+03-07-2026 11:44:26 INFO  Error : FileNotFoundException
+03-07-2026 11:44:26 INFO  Error : FileNotFoundException
+03-07-2026 11:44:26 INFO  Error : FileNotFoundException
+03-07-2026 11:44:26 INFO  Error : FileNotFoundException
+03-07-2026 11:44:26 INFO  Error : FileNotFoundException
+03-07-2026 11:44:26 INFO  Error : FileNotFoundException
+03-07-2026 11:44:26 INFO  Error : FileNotFoundException
+03-07-2026 11:44:26 INFO  Error : FileNotFoundException
+03-07-2026 11:44:26 INFO  Error : FileNotFoundException
+03-07-2026 11:44:26 INFO  Error : FileNotFoundException
+03-07-2026 11:44:26 INFO  Error : FileNotFoundException
+03-07-2026 11:44:26 INFO  Error : FileNotFoundException
+03-07-2026 11:44:26 INFO  Error : FileNotFoundException
+03-07-2026 11:44:26 INFO  Error : FileNotFoundException
+03-07-2026 11:44:26 INFO  Error : FileNotFoundException
+03-07-2026 11:44:27 INFO  Error : FileNotFoundException
+03-07-2026 11:44:27 INFO  Error : FileNotFoundException
+03-07-2026 11:44:27 INFO  Error : FileNotFoundException
+03-07-2026 11:44:27 INFO  Error : FileNotFoundException
+03-07-2026 11:44:27 INFO  Error : FileNotFoundException
+03-07-2026 11:44:27 INFO  Error : FileNotFoundException
+03-07-2026 11:44:27 INFO  Error : FileNotFoundException
+03-07-2026 11:44:27 INFO  Error : FileNotFoundException
+03-07-2026 11:44:27 INFO  Error : FileNotFoundException
+03-07-2026 11:44:27 INFO  Error : FileNotFoundException
+03-07-2026 11:44:27 INFO  Error : FileNotFoundException
+03-07-2026 11:44:27 INFO  Error : FileNotFoundException
+03-07-2026 11:44:27 INFO  Error : FileNotFoundException
+03-07-2026 11:44:27 INFO  Error : FileNotFoundException
+03-07-2026 11:44:27 INFO  Error : FileNotFoundException
+03-07-2026 11:44:27 INFO  Error : FileNotFoundException
+03-07-2026 11:44:27 INFO  Error : FileNotFoundException
+03-07-2026 11:44:27 INFO  Error : FileNotFoundException
+03-07-2026 11:44:27 INFO  Error : FileNotFoundException
+03-07-2026 11:44:27 INFO  Error : FileNotFoundException
+03-07-2026 11:44:28 INFO  Error : FileNotFoundException
+03-07-2026 11:44:28 INFO  Error : FileNotFoundException
+03-07-2026 11:44:28 INFO  Error : FileNotFoundException
+03-07-2026 11:44:28 INFO  Error : FileNotFoundException
+03-07-2026 11:44:28 INFO  Error : FileNotFoundException
+03-07-2026 11:44:28 INFO  Error : FileNotFoundException
+03-07-2026 11:44:28 INFO  Error : FileNotFoundException
+03-07-2026 11:44:28 INFO  Error : FileNotFoundException
+03-07-2026 11:44:28 INFO  Error : FileNotFoundException
+03-07-2026 11:44:28 INFO  Error : FileNotFoundException
+03-07-2026 11:44:28 INFO  Error : FileNotFoundException
+03-07-2026 11:44:28 INFO  Error : FileNotFoundException
+03-07-2026 11:44:28 INFO  Error : FileNotFoundException
+03-07-2026 11:44:28 INFO  Error : FileNotFoundException
+03-07-2026 11:44:28 INFO  Error : FileNotFoundException
+03-07-2026 11:44:28 INFO  Error : FileNotFoundException
+03-07-2026 11:44:28 INFO  Error : FileNotFoundException
+03-07-2026 11:44:28 INFO  Error : FileNotFoundException
+03-07-2026 11:44:28 INFO  Error : FileNotFoundException
+03-07-2026 11:44:28 INFO  Error : FileNotFoundException
+03-07-2026 11:44:28 INFO  Error : FileNotFoundException
+03-07-2026 11:44:29 INFO  Error : FileNotFoundException
+03-07-2026 11:44:29 INFO  Error : FileNotFoundException
+03-07-2026 11:44:29 INFO  Error : FileNotFoundException
+03-07-2026 11:44:29 INFO  Error : FileNotFoundException
+03-07-2026 11:44:29 INFO  Error : FileNotFoundException
+03-07-2026 11:44:29 INFO  Error : FileNotFoundException
+03-07-2026 11:44:29 INFO  Error : FileNotFoundException
+03-07-2026 11:44:29 INFO  Error : FileNotFoundException
+03-07-2026 11:44:29 INFO  Error : FileNotFoundException
+03-07-2026 11:44:29 INFO  Error : FileNotFoundException
+03-07-2026 11:44:29 INFO  Error : FileNotFoundException
+03-07-2026 11:44:29 INFO  Error : FileNotFoundException
+03-07-2026 11:44:29 INFO  Error : FileNotFoundException
+03-07-2026 11:44:29 INFO  Error : FileNotFoundException
+03-07-2026 11:44:29 INFO  Error : FileNotFoundException
+03-07-2026 11:44:29 INFO  Error : FileNotFoundException
+03-07-2026 11:44:29 INFO  Error : FileNotFoundException
+03-07-2026 11:44:29 INFO  Error : FileNotFoundException
+03-07-2026 11:44:29 INFO  Error : FileNotFoundException
+03-07-2026 11:44:30 INFO  Error : FileNotFoundException
+03-07-2026 11:44:30 INFO  Error : FileNotFoundException
+03-07-2026 11:44:30 INFO  Error : FileNotFoundException
+03-07-2026 11:44:30 INFO  Error : FileNotFoundException
+03-07-2026 11:44:30 INFO  Error : FileNotFoundException
+03-07-2026 11:44:30 INFO  Error : FileNotFoundException
+03-07-2026 11:44:30 INFO  Error : FileNotFoundException
+03-07-2026 11:44:30 INFO  Error : FileNotFoundException
+03-07-2026 11:44:30 INFO  Error : FileNotFoundException
+03-07-2026 11:44:30 INFO  Error : FileNotFoundException
+03-07-2026 11:44:30 INFO  Error : FileNotFoundException
+03-07-2026 11:44:30 INFO  Error : FileNotFoundException
+03-07-2026 11:44:30 INFO  Error : FileNotFoundException
+03-07-2026 11:44:30 INFO  Error : FileNotFoundException
+03-07-2026 11:44:30 INFO  Error : FileNotFoundException
+03-07-2026 11:44:30 INFO  Error : FileNotFoundException
+03-07-2026 11:44:30 INFO  Error : FileNotFoundException
+03-07-2026 11:44:30 INFO  Error : FileNotFoundException
+03-07-2026 11:44:30 INFO  Error : FileNotFoundException
+03-07-2026 11:44:30 INFO  Error : FileNotFoundException
+03-07-2026 11:44:31 INFO  Error : FileNotFoundException
+03-07-2026 11:44:31 INFO  Error : FileNotFoundException
+03-07-2026 11:44:31 INFO  Error : FileNotFoundException
+03-07-2026 11:44:31 INFO  Car Details Written To Excel Successfully
+03-07-2026 11:44:31 INFO  Price Low To High Filter Validation Started
+03-07-2026 11:44:31 INFO  Price Low To High Filter Applied Successfully
+03-07-2026 11:44:34 INFO  ===== First 4 Cars After Sorting =====
+03-07-2026 11:44:34 INFO  Car Name : Hyundai i10 Asta
+03-07-2026 11:44:34 INFO  Price : Rs. 80,000
+03-07-2026 11:44:34 INFO  =================================
+03-07-2026 11:44:34 INFO  Car Name : Honda City 1.5 GXI
+03-07-2026 11:44:34 INFO  Price : Rs. 1.60 Lakh
+03-07-2026 11:44:34 INFO  =================================
+03-07-2026 11:44:34 INFO  Car Name : Hyundai Santro Xing XO eRLX Euro II
+03-07-2026 11:44:34 INFO  Price : Rs. 1.85 Lakh
+03-07-2026 11:44:34 INFO  =================================
+03-07-2026 11:44:34 INFO  Car Name : Hyundai i10 Magna
+03-07-2026 11:44:34 INFO  Price : Rs. 1.85 Lakh
+03-07-2026 11:44:34 INFO  =================================
+03-07-2026 11:44:34 INFO  Price Low To High Sorting Validation Passed
+03-07-2026 11:44:34 INFO  KM Driven Filter Validation Started
+03-07-2026 11:44:34 INFO  Price Low To High Filter Already Applied
+03-07-2026 11:44:35 INFO  Less Than 5K Filter Applied Successfully
+03-07-2026 11:44:35 INFO  KM Driven Filter Validation Passed
+03-07-2026 11:44:38 INFO  ZigWheels Logo Clicked Successfully
+03-07-2026 11:44:38 INFO  Google Login Button Validation Started
+03-07-2026 11:44:38 INFO  Login/Register Button Clicked Successfully
+03-07-2026 11:44:39 INFO  Google Sign-In Button Displayed Successfully
+03-07-2026 11:44:39 INFO  Google Login Button Validation Passed
+03-07-2026 11:44:39 INFO  Returned To Main Application Window Successfully
+03-07-2026 11:44:39 INFO  Invalid Email Validation Started
+03-07-2026 11:44:40 INFO  Login/Register Button Clicked Successfully
+03-07-2026 11:44:40 INFO  Google Login Button Clicked And Switched To OAuth Window
+03-07-2026 11:44:52 INFO  Invalid Email Entered Successfully
+03-07-2026 11:44:53 INFO  Captured Error Message : Enter a valid email or phone number
+03-07-2026 11:44:53 INFO  Invalid Email Error Message Validated Successfully
+03-07-2026 11:44:53 INFO  Returned To Main Application Window Successfully
+03-07-2026 11:44:53 INFO  Invalid Email Validation Passed
+03-07-2026 11:44:53 INFO  Invalid Phone Number Validation Started
+03-07-2026 11:44:54 INFO  Login/Register Button Clicked Successfully
+03-07-2026 11:44:54 INFO  Google Login Button Clicked And Switched To OAuth Window
+03-07-2026 11:44:55 INFO  Invalid Phone Number Entered Successfully
+03-07-2026 11:45:16 INFO  Captured Error Message : Error Message Not Found
+03-07-2026 11:45:16 INFO  Returned To Main Application Window Successfully
+03-07-2026 11:45:16 INFO  Valid Email Validation Started
+03-07-2026 11:45:17 INFO  Login/Register Button Clicked Successfully
+03-07-2026 11:45:17 INFO  Google Login Window Opened Successfully
+03-07-2026 11:45:20 INFO  Valid Email Entered Successfully
+03-07-2026 11:45:20 INFO  Returned To Main Application Window Successfully
+03-07-2026 11:45:20 INFO  Valid Email Validation Passed
+03-07-2026 11:45:20 INFO  Invalid Password Validation Started
+03-07-2026 11:45:21 INFO  Login/Register Button Clicked Successfully
+03-07-2026 11:45:21 INFO  Google Login Window Opened Successfully
+03-07-2026 11:45:23 INFO  Valid Email Entered Successfully
+03-07-2026 11:45:26 INFO  Invalid Password Entered Successfully
+03-07-2026 11:45:36 INFO  Captured Error Message : Wrong password. Try again or click "Try another way" for more options.
+03-07-2026 11:45:36 INFO  Invalid Password Error Message Validated Successfully
+03-07-2026 11:45:37 INFO  Returned To Main Application Window Successfully
+03-07-2026 11:45:37 INFO  Invalid Password Validation Passed
+03-07-2026 11:45:37 INFO  Valid Password Validation Started
+03-07-2026 11:45:37 INFO  Login/Register Button Clicked Successfully
+03-07-2026 11:45:38 INFO  Google Login Window Opened Successfully
+03-07-2026 11:45:40 INFO  Valid Email Entered Successfully
+03-07-2026 11:45:43 INFO  Valid Password Entered Successfully
+03-07-2026 11:45:44 INFO  Returned To Main Application Window Successfully
+03-07-2026 11:45:44 INFO  Valid Password Validation Passed
+03-07-2026 11:45:44 INFO  ============= Test Suite Execution Completed =============
+03-07-2026 11:45:49 INFO  Browser Closed Successfully
+03-07-2026 11:46:09 INFO  ============= Test Suite Started =============
+03-07-2026 11:46:18 INFO  Browser Launched Successfully
+03-07-2026 11:46:18 INFO  Browser : chrome
+03-07-2026 11:46:18 INFO  Title Validation Started
+03-07-2026 11:46:18 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+03-07-2026 11:46:18 INFO  Title Validation Passed
+03-07-2026 11:46:18 INFO  Used Cars Validation Started
+03-07-2026 11:46:22 INFO  Current URL : https://www.zigwheels.com/used-car
+03-07-2026 11:46:22 INFO  Used Cars Section Loaded Successfully
+03-07-2026 11:46:22 INFO  Chennai City Selection Validation Started
+03-07-2026 11:46:23 INFO  Chennai City Selected Successfully
+03-07-2026 11:46:23 INFO  Popular Models Validation Started
+03-07-2026 11:47:00 INFO  Error : FileNotFoundException
+03-07-2026 11:47:00 INFO  Error : FileNotFoundException
+03-07-2026 11:47:00 INFO  Error : FileNotFoundException
+03-07-2026 11:47:00 INFO  Error : FileNotFoundException
+03-07-2026 11:47:00 INFO  Error : FileNotFoundException
+03-07-2026 11:47:00 INFO  Error : FileNotFoundException
+03-07-2026 11:47:00 INFO  Error : FileNotFoundException
+03-07-2026 11:47:00 INFO  Error : FileNotFoundException
+03-07-2026 11:47:00 INFO  Error : FileNotFoundException
+03-07-2026 11:47:00 INFO  Error : FileNotFoundException
+03-07-2026 11:47:00 INFO  Error : FileNotFoundException
+03-07-2026 11:47:00 INFO  Error : FileNotFoundException
+03-07-2026 11:47:00 INFO  Error : FileNotFoundException
+03-07-2026 11:47:00 INFO  Error : FileNotFoundException
+03-07-2026 11:47:00 INFO  Error : FileNotFoundException
+03-07-2026 11:47:00 INFO  Error : FileNotFoundException
+03-07-2026 11:47:00 INFO  Error : FileNotFoundException
+03-07-2026 11:47:01 INFO  Error : FileNotFoundException
+03-07-2026 11:47:01 INFO  Error : FileNotFoundException
+03-07-2026 11:47:01 INFO  Error : FileNotFoundException
+03-07-2026 11:47:01 INFO  Error : FileNotFoundException
+03-07-2026 11:47:01 INFO  Error : FileNotFoundException
+03-07-2026 11:47:01 INFO  Error : FileNotFoundException
+03-07-2026 11:47:01 INFO  Error : FileNotFoundException
+03-07-2026 11:47:01 INFO  Error : FileNotFoundException
+03-07-2026 11:47:01 INFO  Error : FileNotFoundException
+03-07-2026 11:47:01 INFO  Error : FileNotFoundException
+03-07-2026 11:47:01 INFO  Error : FileNotFoundException
+03-07-2026 11:47:01 INFO  Error : FileNotFoundException
+03-07-2026 11:47:01 INFO  Error : FileNotFoundException
+03-07-2026 11:47:01 INFO  Error : FileNotFoundException
+03-07-2026 11:47:01 INFO  Error : FileNotFoundException
+03-07-2026 11:47:01 INFO  Error : FileNotFoundException
+03-07-2026 11:47:01 INFO  Error : FileNotFoundException
+03-07-2026 11:47:02 INFO  Error : FileNotFoundException
+03-07-2026 11:47:02 INFO  Error : FileNotFoundException
+03-07-2026 11:47:02 INFO  Error : FileNotFoundException
+03-07-2026 11:47:02 INFO  Error : FileNotFoundException
+03-07-2026 11:47:02 INFO  Error : FileNotFoundException
+03-07-2026 11:47:02 INFO  Error : FileNotFoundException
+03-07-2026 11:47:02 INFO  Error : FileNotFoundException
+03-07-2026 11:47:02 INFO  Error : FileNotFoundException
+03-07-2026 11:47:02 INFO  Error : FileNotFoundException
+03-07-2026 11:47:02 INFO  Error : FileNotFoundException
+03-07-2026 11:47:02 INFO  Error : FileNotFoundException
+03-07-2026 11:47:02 INFO  Error : FileNotFoundException
+03-07-2026 11:47:02 INFO  Error : FileNotFoundException
+03-07-2026 11:47:02 INFO  Error : FileNotFoundException
+03-07-2026 11:47:02 INFO  Error : FileNotFoundException
+03-07-2026 11:47:02 INFO  Error : FileNotFoundException
+03-07-2026 11:47:02 INFO  Error : FileNotFoundException
+03-07-2026 11:47:03 INFO  Error : FileNotFoundException
+03-07-2026 11:47:03 INFO  Error : FileNotFoundException
+03-07-2026 11:47:03 INFO  Error : FileNotFoundException
+03-07-2026 11:47:03 INFO  Error : FileNotFoundException
+03-07-2026 11:47:03 INFO  Error : FileNotFoundException
+03-07-2026 11:47:03 INFO  Error : FileNotFoundException
+03-07-2026 11:47:03 INFO  Error : FileNotFoundException
+03-07-2026 11:47:03 INFO  Error : FileNotFoundException
+03-07-2026 11:47:03 INFO  Error : FileNotFoundException
+03-07-2026 11:47:03 INFO  Error : FileNotFoundException
+03-07-2026 11:47:03 INFO  Error : FileNotFoundException
+03-07-2026 11:47:03 INFO  Error : FileNotFoundException
+03-07-2026 11:47:03 INFO  Error : FileNotFoundException
+03-07-2026 11:47:03 INFO  Error : FileNotFoundException
+03-07-2026 11:47:03 INFO  Error : FileNotFoundException
+03-07-2026 11:47:03 INFO  Error : FileNotFoundException
+03-07-2026 11:47:03 INFO  Error : FileNotFoundException
+03-07-2026 11:47:03 INFO  Error : FileNotFoundException
+03-07-2026 11:47:04 INFO  Error : FileNotFoundException
+03-07-2026 11:47:04 INFO  Error : FileNotFoundException
+03-07-2026 11:47:04 INFO  Error : FileNotFoundException
+03-07-2026 11:47:04 INFO  Error : FileNotFoundException
+03-07-2026 11:47:04 INFO  Error : FileNotFoundException
+03-07-2026 11:47:04 INFO  Error : FileNotFoundException
+03-07-2026 11:47:04 INFO  Error : FileNotFoundException
+03-07-2026 11:47:04 INFO  Error : FileNotFoundException
+03-07-2026 11:47:04 INFO  Error : FileNotFoundException
+03-07-2026 11:47:04 INFO  Error : FileNotFoundException
+03-07-2026 11:47:04 INFO  Error : FileNotFoundException
+03-07-2026 11:47:04 INFO  Error : FileNotFoundException
+03-07-2026 11:47:04 INFO  Error : FileNotFoundException
+03-07-2026 11:47:04 INFO  Error : FileNotFoundException
+03-07-2026 11:47:04 INFO  Error : FileNotFoundException
+03-07-2026 11:47:04 INFO  Error : FileNotFoundException
+03-07-2026 11:47:04 INFO  Error : FileNotFoundException
+03-07-2026 11:47:04 INFO  Error : FileNotFoundException
+03-07-2026 11:47:05 INFO  Error : FileNotFoundException
+03-07-2026 11:47:05 INFO  Error : FileNotFoundException
+03-07-2026 11:47:05 INFO  Error : FileNotFoundException
+03-07-2026 11:47:05 INFO  Error : FileNotFoundException
+03-07-2026 11:47:05 INFO  Error : FileNotFoundException
+03-07-2026 11:47:05 INFO  Error : FileNotFoundException
+03-07-2026 11:47:05 INFO  Error : FileNotFoundException
+03-07-2026 11:47:05 INFO  Error : FileNotFoundException
+03-07-2026 11:47:05 INFO  Error : FileNotFoundException
+03-07-2026 11:47:05 INFO  Error : FileNotFoundException
+03-07-2026 11:47:05 INFO  Error : FileNotFoundException
+03-07-2026 11:47:05 INFO  Error : FileNotFoundException
+03-07-2026 11:47:05 INFO  Error : FileNotFoundException
+03-07-2026 11:47:05 INFO  Error : FileNotFoundException
+03-07-2026 11:47:05 INFO  Error : FileNotFoundException
+03-07-2026 11:47:05 INFO  Error : FileNotFoundException
+03-07-2026 11:47:06 INFO  Error : FileNotFoundException
+03-07-2026 11:47:06 INFO  Error : FileNotFoundException
+03-07-2026 11:47:06 INFO  Error : FileNotFoundException
+03-07-2026 11:47:06 INFO  Error : FileNotFoundException
+03-07-2026 11:47:06 INFO  Error : FileNotFoundException
+03-07-2026 11:47:06 INFO  Error : FileNotFoundException
+03-07-2026 11:47:06 INFO  Error : FileNotFoundException
+03-07-2026 11:47:06 INFO  Error : FileNotFoundException
+03-07-2026 11:47:06 INFO  Error : FileNotFoundException
+03-07-2026 11:47:06 INFO  Error : FileNotFoundException
+03-07-2026 11:47:06 INFO  Error : FileNotFoundException
+03-07-2026 11:47:06 INFO  Error : FileNotFoundException
+03-07-2026 11:47:06 INFO  Error : FileNotFoundException
+03-07-2026 11:47:06 INFO  Error : FileNotFoundException
+03-07-2026 11:47:06 INFO  Error : FileNotFoundException
+03-07-2026 11:47:06 INFO  Error : FileNotFoundException
+03-07-2026 11:47:07 INFO  Error : FileNotFoundException
+03-07-2026 11:47:07 INFO  Error : FileNotFoundException
+03-07-2026 11:47:07 INFO  Error : FileNotFoundException
+03-07-2026 11:47:07 INFO  Error : FileNotFoundException
+03-07-2026 11:47:07 INFO  Error : FileNotFoundException
+03-07-2026 11:47:07 INFO  Error : FileNotFoundException
+03-07-2026 11:47:07 INFO  Error : FileNotFoundException
+03-07-2026 11:47:07 INFO  Error : FileNotFoundException
+03-07-2026 11:47:07 INFO  Error : FileNotFoundException
+03-07-2026 11:47:07 INFO  Error : FileNotFoundException
+03-07-2026 11:47:07 INFO  Error : FileNotFoundException
+03-07-2026 11:47:07 INFO  Error : FileNotFoundException
+03-07-2026 11:47:07 INFO  Error : FileNotFoundException
+03-07-2026 11:47:07 INFO  Error : FileNotFoundException
+03-07-2026 11:47:07 INFO  Error : FileNotFoundException
+03-07-2026 11:47:07 INFO  Error : FileNotFoundException
+03-07-2026 11:47:07 INFO  Error : FileNotFoundException
+03-07-2026 11:47:08 INFO  Error : FileNotFoundException
+03-07-2026 11:47:08 INFO  Error : FileNotFoundException
+03-07-2026 11:47:08 INFO  Error : FileNotFoundException
+03-07-2026 11:47:08 INFO  Car Details Written To Excel Successfully
+03-07-2026 11:47:08 INFO  Price Low To High Filter Validation Started
+03-07-2026 11:47:08 INFO  Price Low To High Filter Applied Successfully
+03-07-2026 11:47:11 INFO  ===== First 4 Cars After Sorting =====
+03-07-2026 11:47:11 INFO  Car Name : Hyundai i10 Asta
+03-07-2026 11:47:11 INFO  Price : Rs. 80,000
+03-07-2026 11:47:11 INFO  =================================
+03-07-2026 11:47:11 INFO  Car Name : Honda City 1.5 GXI
+03-07-2026 11:47:11 INFO  Price : Rs. 1.60 Lakh
+03-07-2026 11:47:11 INFO  =================================
+03-07-2026 11:47:11 INFO  Car Name : Hyundai Santro Xing XO eRLX Euro II
+03-07-2026 11:47:11 INFO  Price : Rs. 1.85 Lakh
+03-07-2026 11:47:11 INFO  =================================
+03-07-2026 11:47:11 INFO  Car Name : Hyundai i10 Magna
+03-07-2026 11:47:11 INFO  Price : Rs. 1.85 Lakh
+03-07-2026 11:47:11 INFO  =================================
+03-07-2026 11:47:11 INFO  Price Low To High Sorting Validation Passed
+03-07-2026 11:47:11 INFO  KM Driven Filter Validation Started
+03-07-2026 11:47:11 INFO  Price Low To High Filter Already Applied
+03-07-2026 11:47:12 INFO  Less Than 5K Filter Applied Successfully
+03-07-2026 11:47:12 INFO  KM Driven Filter Validation Passed
+03-07-2026 11:47:13 INFO  ZigWheels Logo Clicked Successfully
+03-07-2026 11:47:13 INFO  Google Login Button Validation Started
+03-07-2026 11:47:13 INFO  Login/Register Button Clicked Successfully
+03-07-2026 11:47:13 INFO  Google Sign-In Button Displayed Successfully
+03-07-2026 11:47:13 INFO  Google Login Button Validation Passed
+03-07-2026 11:47:14 INFO  Returned To Main Application Window Successfully
+03-07-2026 11:47:14 INFO  Invalid Email Validation Started
+03-07-2026 11:47:14 INFO  Login/Register Button Clicked Successfully
+03-07-2026 11:47:25 INFO  Invalid Phone Number Validation Started
+03-07-2026 11:47:26 INFO  Valid Email Validation Started
+03-07-2026 11:47:27 INFO  Invalid Password Validation Started
+03-07-2026 11:47:28 INFO  Valid Password Validation Started
+03-07-2026 11:47:29 INFO  ============= Test Suite Execution Completed =============
+03-07-2026 11:47:34 INFO  Browser Closed Successfully
+03-07-2026 11:56:01 INFO  ============= Test Suite Started =============
+03-07-2026 11:56:16 INFO  Browser Launched Successfully
+03-07-2026 11:56:16 INFO  Browser : chrome
+03-07-2026 11:56:16 INFO  Title Validation Started
+03-07-2026 11:56:16 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+03-07-2026 11:56:16 INFO  Title Validation Passed
+03-07-2026 11:56:16 INFO  Used Cars Validation Started
+03-07-2026 11:56:24 INFO  Current URL : https://www.zigwheels.com/used-car
+03-07-2026 11:56:24 INFO  Used Cars Section Loaded Successfully
+03-07-2026 11:56:24 INFO  Chennai City Selection Validation Started
+03-07-2026 11:56:24 INFO  Chennai City Selected Successfully
+03-07-2026 11:56:24 INFO  Popular Models Validation Started
+03-07-2026 11:57:03 INFO  Error : FileNotFoundException
+03-07-2026 11:57:03 INFO  Error : FileNotFoundException
+03-07-2026 11:57:03 INFO  Error : FileNotFoundException
+03-07-2026 11:57:03 INFO  Error : FileNotFoundException
+03-07-2026 11:57:03 INFO  Error : FileNotFoundException
+03-07-2026 11:57:03 INFO  Error : FileNotFoundException
+03-07-2026 11:57:03 INFO  Error : FileNotFoundException
+03-07-2026 11:57:03 INFO  Error : FileNotFoundException
+03-07-2026 11:57:03 INFO  Error : FileNotFoundException
+03-07-2026 11:57:03 INFO  Error : FileNotFoundException
+03-07-2026 11:57:03 INFO  Error : FileNotFoundException
+03-07-2026 11:57:04 INFO  Error : FileNotFoundException
+03-07-2026 11:57:04 INFO  Error : FileNotFoundException
+03-07-2026 11:57:04 INFO  Error : FileNotFoundException
+03-07-2026 11:57:04 INFO  Error : FileNotFoundException
+03-07-2026 11:57:04 INFO  Error : FileNotFoundException
+03-07-2026 11:57:04 INFO  Error : FileNotFoundException
+03-07-2026 11:57:04 INFO  Error : FileNotFoundException
+03-07-2026 11:57:04 INFO  Error : FileNotFoundException
+03-07-2026 11:57:04 INFO  Error : FileNotFoundException
+03-07-2026 11:57:04 INFO  Error : FileNotFoundException
+03-07-2026 11:57:04 INFO  Error : FileNotFoundException
+03-07-2026 11:57:04 INFO  Error : FileNotFoundException
+03-07-2026 11:57:04 INFO  Error : FileNotFoundException
+03-07-2026 11:57:04 INFO  Error : FileNotFoundException
+03-07-2026 11:57:04 INFO  Error : FileNotFoundException
+03-07-2026 11:57:04 INFO  Error : FileNotFoundException
+03-07-2026 11:57:04 INFO  Error : FileNotFoundException
+03-07-2026 11:57:04 INFO  Error : FileNotFoundException
+03-07-2026 11:57:04 INFO  Error : FileNotFoundException
+03-07-2026 11:57:04 INFO  Error : FileNotFoundException
+03-07-2026 11:57:04 INFO  Error : FileNotFoundException
+03-07-2026 11:57:05 INFO  Error : FileNotFoundException
+03-07-2026 11:57:05 INFO  Error : FileNotFoundException
+03-07-2026 11:57:05 INFO  Error : FileNotFoundException
+03-07-2026 11:57:05 INFO  Error : FileNotFoundException
+03-07-2026 11:57:05 INFO  Error : FileNotFoundException
+03-07-2026 11:57:05 INFO  Error : FileNotFoundException
+03-07-2026 11:57:05 INFO  Error : FileNotFoundException
+03-07-2026 11:57:05 INFO  Error : FileNotFoundException
+03-07-2026 11:57:05 INFO  Error : FileNotFoundException
+03-07-2026 11:57:05 INFO  Error : FileNotFoundException
+03-07-2026 11:57:05 INFO  Error : FileNotFoundException
+03-07-2026 11:57:05 INFO  Error : FileNotFoundException
+03-07-2026 11:57:05 INFO  Error : FileNotFoundException
+03-07-2026 11:57:05 INFO  Error : FileNotFoundException
+03-07-2026 11:57:05 INFO  Error : FileNotFoundException
+03-07-2026 11:57:05 INFO  Error : FileNotFoundException
+03-07-2026 11:57:05 INFO  Error : FileNotFoundException
+03-07-2026 11:57:05 INFO  Error : FileNotFoundException
+03-07-2026 11:57:05 INFO  Error : FileNotFoundException
+03-07-2026 11:57:05 INFO  Error : FileNotFoundException
+03-07-2026 11:57:05 INFO  Error : FileNotFoundException
+03-07-2026 11:57:06 INFO  Error : FileNotFoundException
+03-07-2026 11:57:06 INFO  Error : FileNotFoundException
+03-07-2026 11:57:06 INFO  Error : FileNotFoundException
+03-07-2026 11:57:06 INFO  Error : FileNotFoundException
+03-07-2026 11:57:06 INFO  Error : FileNotFoundException
+03-07-2026 11:57:06 INFO  Error : FileNotFoundException
+03-07-2026 11:57:06 INFO  Error : FileNotFoundException
+03-07-2026 11:57:06 INFO  Error : FileNotFoundException
+03-07-2026 11:57:06 INFO  Error : FileNotFoundException
+03-07-2026 11:57:06 INFO  Error : FileNotFoundException
+03-07-2026 11:57:06 INFO  Error : FileNotFoundException
+03-07-2026 11:57:06 INFO  Error : FileNotFoundException
+03-07-2026 11:57:06 INFO  Error : FileNotFoundException
+03-07-2026 11:57:06 INFO  Error : FileNotFoundException
+03-07-2026 11:57:06 INFO  Error : FileNotFoundException
+03-07-2026 11:57:06 INFO  Error : FileNotFoundException
+03-07-2026 11:57:06 INFO  Error : FileNotFoundException
+03-07-2026 11:57:06 INFO  Error : FileNotFoundException
+03-07-2026 11:57:06 INFO  Error : FileNotFoundException
+03-07-2026 11:57:06 INFO  Error : FileNotFoundException
+03-07-2026 11:57:07 INFO  Error : FileNotFoundException
+03-07-2026 11:57:07 INFO  Error : FileNotFoundException
+03-07-2026 11:57:07 INFO  Error : FileNotFoundException
+03-07-2026 11:57:07 INFO  Error : FileNotFoundException
+03-07-2026 11:57:07 INFO  Error : FileNotFoundException
+03-07-2026 11:57:07 INFO  Error : FileNotFoundException
+03-07-2026 11:57:07 INFO  Error : FileNotFoundException
+03-07-2026 11:57:07 INFO  Error : FileNotFoundException
+03-07-2026 11:57:07 INFO  Error : FileNotFoundException
+03-07-2026 11:57:07 INFO  Error : FileNotFoundException
+03-07-2026 11:57:07 INFO  Error : FileNotFoundException
+03-07-2026 11:57:07 INFO  Error : FileNotFoundException
+03-07-2026 11:57:07 INFO  Error : FileNotFoundException
+03-07-2026 11:57:07 INFO  Error : FileNotFoundException
+03-07-2026 11:57:07 INFO  Error : FileNotFoundException
+03-07-2026 11:57:07 INFO  Error : FileNotFoundException
+03-07-2026 11:57:07 INFO  Error : FileNotFoundException
+03-07-2026 11:57:07 INFO  Error : FileNotFoundException
+03-07-2026 11:57:07 INFO  Error : FileNotFoundException
+03-07-2026 11:57:07 INFO  Error : FileNotFoundException
+03-07-2026 11:57:08 INFO  Error : FileNotFoundException
+03-07-2026 11:57:08 INFO  Error : FileNotFoundException
+03-07-2026 11:57:08 INFO  Error : FileNotFoundException
+03-07-2026 11:57:08 INFO  Error : FileNotFoundException
+03-07-2026 11:57:08 INFO  Error : FileNotFoundException
+03-07-2026 11:57:08 INFO  Error : FileNotFoundException
+03-07-2026 11:57:08 INFO  Error : FileNotFoundException
+03-07-2026 11:57:08 INFO  Error : FileNotFoundException
+03-07-2026 11:57:08 INFO  Error : FileNotFoundException
+03-07-2026 11:57:08 INFO  Error : FileNotFoundException
+03-07-2026 11:57:08 INFO  Error : FileNotFoundException
+03-07-2026 11:57:08 INFO  Error : FileNotFoundException
+03-07-2026 11:57:08 INFO  Error : FileNotFoundException
+03-07-2026 11:57:08 INFO  Error : FileNotFoundException
+03-07-2026 11:57:08 INFO  Error : FileNotFoundException
+03-07-2026 11:57:08 INFO  Error : FileNotFoundException
+03-07-2026 11:57:08 INFO  Error : FileNotFoundException
+03-07-2026 11:57:08 INFO  Error : FileNotFoundException
+03-07-2026 11:57:08 INFO  Error : FileNotFoundException
+03-07-2026 11:57:08 INFO  Error : FileNotFoundException
+03-07-2026 11:57:08 INFO  Error : FileNotFoundException
+03-07-2026 11:57:08 INFO  Error : FileNotFoundException
+03-07-2026 11:57:09 INFO  Error : FileNotFoundException
+03-07-2026 11:57:09 INFO  Error : FileNotFoundException
+03-07-2026 11:57:09 INFO  Error : FileNotFoundException
+03-07-2026 11:57:09 INFO  Error : FileNotFoundException
+03-07-2026 11:57:09 INFO  Error : FileNotFoundException
+03-07-2026 11:57:09 INFO  Error : FileNotFoundException
+03-07-2026 11:57:09 INFO  Error : FileNotFoundException
+03-07-2026 11:57:09 INFO  Error : FileNotFoundException
+03-07-2026 11:57:09 INFO  Error : FileNotFoundException
+03-07-2026 11:57:09 INFO  Error : FileNotFoundException
+03-07-2026 11:57:09 INFO  Error : FileNotFoundException
+03-07-2026 11:57:09 INFO  Error : FileNotFoundException
+03-07-2026 11:57:09 INFO  Car Details Written To Excel Successfully
+03-07-2026 11:57:09 INFO  Price Low To High Filter Validation Started
+03-07-2026 11:57:09 INFO  Price Low To High Filter Applied Successfully
+03-07-2026 11:57:12 INFO  ===== First 4 Cars After Sorting =====
+03-07-2026 11:57:12 INFO  Car Name : Hyundai i10 Asta
+03-07-2026 11:57:12 INFO  Price : Rs. 80,000
+03-07-2026 11:57:12 INFO  =================================
+03-07-2026 11:57:12 INFO  Car Name : Honda City 1.5 GXI
+03-07-2026 11:57:12 INFO  Price : Rs. 1.60 Lakh
+03-07-2026 11:57:12 INFO  =================================
+03-07-2026 11:57:12 INFO  Car Name : Hyundai Santro Xing XO eRLX Euro II
+03-07-2026 11:57:12 INFO  Price : Rs. 1.85 Lakh
+03-07-2026 11:57:12 INFO  =================================
+03-07-2026 11:57:12 INFO  Car Name : Hyundai i10 Magna
+03-07-2026 11:57:12 INFO  Price : Rs. 1.85 Lakh
+03-07-2026 11:57:12 INFO  =================================
+03-07-2026 11:57:12 INFO  Price Low To High Sorting Validation Passed
+03-07-2026 11:57:12 INFO  KM Driven Filter Validation Started
+03-07-2026 11:57:12 INFO  Price Low To High Filter Already Applied
+03-07-2026 11:57:14 INFO  Less Than 5K Filter Applied Successfully
+03-07-2026 11:57:14 INFO  KM Driven Filter Validation Passed
+03-07-2026 11:57:15 INFO  ZigWheels Logo Clicked Successfully
+03-07-2026 11:57:15 INFO  Google Login Button Validation Started
+03-07-2026 11:57:15 INFO  Login/Register Button Clicked Successfully
+03-07-2026 11:57:16 INFO  Google Sign-In Button Displayed Successfully
+03-07-2026 11:57:16 INFO  Google Login Button Validation Passed
+03-07-2026 11:57:16 INFO  Returned To Main Application Window Successfully
+03-07-2026 11:57:16 INFO  Invalid Email Validation Started
+03-07-2026 11:57:16 INFO  Login/Register Button Clicked Successfully
+03-07-2026 11:57:17 INFO  Google Login Button Clicked And Switched To OAuth Window
+03-07-2026 11:57:22 INFO  Invalid Email Entered Successfully
+03-07-2026 11:57:22 INFO  Captured Error Message : Enter a valid email or phone number
+03-07-2026 11:57:22 INFO  Invalid Email Error Message Validated Successfully
+03-07-2026 11:57:23 INFO  Returned To Main Application Window Successfully
+03-07-2026 11:57:23 INFO  Invalid Email Validation Passed
+03-07-2026 11:57:23 INFO  Invalid Phone Number Validation Started
+03-07-2026 11:57:23 INFO  Login/Register Button Clicked Successfully
+03-07-2026 11:57:24 INFO  Google Login Button Clicked And Switched To OAuth Window
+03-07-2026 11:57:25 INFO  Invalid Phone Number Entered Successfully
+03-07-2026 11:57:34 INFO  Captured Error Message : Enter a valid email or phone number
+03-07-2026 11:57:35 INFO  Returned To Main Application Window Successfully
+03-07-2026 11:57:35 INFO  Valid Email Validation Started
+03-07-2026 11:57:35 INFO  Login/Register Button Clicked Successfully
+03-07-2026 11:57:36 INFO  Google Login Window Opened Successfully
+03-07-2026 11:57:38 INFO  Valid Email Entered Successfully
+03-07-2026 11:57:38 INFO  Returned To Main Application Window Successfully
+03-07-2026 11:57:38 INFO  Valid Email Validation Passed
+03-07-2026 11:57:38 INFO  Invalid Password Validation Started
+03-07-2026 11:57:39 INFO  Login/Register Button Clicked Successfully
+03-07-2026 11:57:39 INFO  Google Login Window Opened Successfully
+03-07-2026 11:57:44 INFO  Valid Email Entered Successfully
+03-07-2026 11:57:47 INFO  Invalid Password Entered Successfully
+03-07-2026 11:57:57 INFO  Captured Error Message : Wrong password. Try again or click "Try another way" for more options.
+03-07-2026 11:57:57 INFO  Invalid Password Error Message Validated Successfully
+03-07-2026 11:58:04 INFO  Returned To Main Application Window Successfully
+03-07-2026 11:58:04 INFO  Invalid Password Validation Passed
+03-07-2026 11:58:04 INFO  Valid Password Validation Started
+03-07-2026 11:58:04 INFO  Login/Register Button Clicked Successfully
+03-07-2026 11:58:05 INFO  Google Login Window Opened Successfully
+03-07-2026 11:58:07 INFO  Valid Email Entered Successfully
+03-07-2026 11:58:10 INFO  Valid Password Entered Successfully
+03-07-2026 11:58:10 INFO  Returned To Main Application Window Successfully
+03-07-2026 11:58:10 INFO  Valid Password Validation Passed
+03-07-2026 11:58:10 INFO  ============= Test Suite Execution Completed =============
+03-07-2026 11:58:15 INFO  Browser Closed Successfully
+03-07-2026 11:59:33 INFO  ============= Test Suite Started =============
+03-07-2026 12:00:04 INFO  Browser Launched Successfully
+03-07-2026 12:00:04 INFO  Browser : chrome
+03-07-2026 12:00:04 INFO  Title Validation Started
+03-07-2026 12:00:04 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+03-07-2026 12:00:04 INFO  Title Validation Passed
+03-07-2026 12:00:04 INFO  Used Cars Validation Started
+03-07-2026 12:00:58 INFO  Current URL : https://www.zigwheels.com/used-car
+03-07-2026 12:00:58 INFO  Used Cars Section Loaded Successfully
+03-07-2026 12:00:58 INFO  Chennai City Selection Validation Started
+03-07-2026 12:00:59 INFO  Chennai City Selected Successfully
+03-07-2026 12:00:59 INFO  Popular Models Validation Started
+03-07-2026 12:01:51 INFO  Error : EmptyFileException
+03-07-2026 12:01:51 INFO  Error : EmptyFileException
+03-07-2026 12:01:51 INFO  Error : EmptyFileException
+03-07-2026 12:01:51 INFO  Error : EmptyFileException
+03-07-2026 12:01:51 INFO  Error : EmptyFileException
+03-07-2026 12:01:52 INFO  Error : EmptyFileException
+03-07-2026 12:01:52 INFO  Error : EmptyFileException
+03-07-2026 12:01:52 INFO  Error : EmptyFileException
+03-07-2026 12:01:52 INFO  Error : EmptyFileException
+03-07-2026 12:01:52 INFO  Error : EmptyFileException
+03-07-2026 12:01:52 INFO  Error : EmptyFileException
+03-07-2026 12:01:52 INFO  Error : EmptyFileException
+03-07-2026 12:01:52 INFO  Error : EmptyFileException
+03-07-2026 12:01:52 INFO  Error : EmptyFileException
+03-07-2026 12:01:52 INFO  Error : EmptyFileException
+03-07-2026 12:01:52 INFO  Error : EmptyFileException
+03-07-2026 12:01:52 INFO  Error : EmptyFileException
+03-07-2026 12:01:52 INFO  Error : EmptyFileException
+03-07-2026 12:01:52 INFO  Error : EmptyFileException
+03-07-2026 12:01:52 INFO  Error : EmptyFileException
+03-07-2026 12:01:52 INFO  Error : EmptyFileException
+03-07-2026 12:01:52 INFO  Error : EmptyFileException
+03-07-2026 12:01:52 INFO  Error : EmptyFileException
+03-07-2026 12:01:52 INFO  Error : EmptyFileException
+03-07-2026 12:01:53 INFO  Error : EmptyFileException
+03-07-2026 12:01:53 INFO  Error : EmptyFileException
+03-07-2026 12:01:53 INFO  Error : EmptyFileException
+03-07-2026 12:01:53 INFO  Error : EmptyFileException
+03-07-2026 12:01:53 INFO  Error : EmptyFileException
+03-07-2026 12:01:53 INFO  Error : EmptyFileException
+03-07-2026 12:01:53 INFO  Error : EmptyFileException
+03-07-2026 12:01:53 INFO  Error : EmptyFileException
+03-07-2026 12:01:53 INFO  Error : EmptyFileException
+03-07-2026 12:01:53 INFO  Error : EmptyFileException
+03-07-2026 12:01:53 INFO  Error : EmptyFileException
+03-07-2026 12:01:53 INFO  Error : EmptyFileException
+03-07-2026 12:01:53 INFO  Error : EmptyFileException
+03-07-2026 12:01:53 INFO  Error : EmptyFileException
+03-07-2026 12:01:53 INFO  Error : EmptyFileException
+03-07-2026 12:01:53 INFO  Error : EmptyFileException
+03-07-2026 12:01:53 INFO  Error : EmptyFileException
+03-07-2026 12:01:53 INFO  Error : EmptyFileException
+03-07-2026 12:01:53 INFO  Error : EmptyFileException
+03-07-2026 12:01:53 INFO  Error : EmptyFileException
+03-07-2026 12:01:53 INFO  Error : EmptyFileException
+03-07-2026 12:01:53 INFO  Error : EmptyFileException
+03-07-2026 12:01:53 INFO  Error : EmptyFileException
+03-07-2026 12:01:54 INFO  Error : EmptyFileException
+03-07-2026 12:01:54 INFO  Error : EmptyFileException
+03-07-2026 12:01:54 INFO  Error : EmptyFileException
+03-07-2026 12:01:54 INFO  Error : EmptyFileException
+03-07-2026 12:01:54 INFO  Error : EmptyFileException
+03-07-2026 12:01:54 INFO  Error : EmptyFileException
+03-07-2026 12:01:54 INFO  Error : EmptyFileException
+03-07-2026 12:01:54 INFO  Error : EmptyFileException
+03-07-2026 12:01:54 INFO  Error : EmptyFileException
+03-07-2026 12:01:54 INFO  Error : EmptyFileException
+03-07-2026 12:01:54 INFO  Error : EmptyFileException
+03-07-2026 12:01:54 INFO  Error : EmptyFileException
+03-07-2026 12:01:54 INFO  Error : EmptyFileException
+03-07-2026 12:01:54 INFO  Error : EmptyFileException
+03-07-2026 12:01:54 INFO  Error : EmptyFileException
+03-07-2026 12:01:54 INFO  Error : EmptyFileException
+03-07-2026 12:01:54 INFO  Error : EmptyFileException
+03-07-2026 12:01:54 INFO  Error : EmptyFileException
+03-07-2026 12:01:54 INFO  Error : EmptyFileException
+03-07-2026 12:01:54 INFO  Error : EmptyFileException
+03-07-2026 12:01:54 INFO  Error : EmptyFileException
+03-07-2026 12:01:55 INFO  Error : EmptyFileException
+03-07-2026 12:01:55 INFO  Error : EmptyFileException
+03-07-2026 12:01:55 INFO  Error : EmptyFileException
+03-07-2026 12:01:55 INFO  Error : EmptyFileException
+03-07-2026 12:01:55 INFO  Error : EmptyFileException
+03-07-2026 12:01:55 INFO  Error : EmptyFileException
+03-07-2026 12:01:55 INFO  Error : EmptyFileException
+03-07-2026 12:01:55 INFO  Error : EmptyFileException
+03-07-2026 12:01:55 INFO  Error : EmptyFileException
+03-07-2026 12:01:55 INFO  Error : EmptyFileException
+03-07-2026 12:01:55 INFO  Error : EmptyFileException
+03-07-2026 12:01:55 INFO  Error : EmptyFileException
+03-07-2026 12:01:55 INFO  Error : EmptyFileException
+03-07-2026 12:01:55 INFO  Error : EmptyFileException
+03-07-2026 12:01:55 INFO  Error : EmptyFileException
+03-07-2026 12:01:55 INFO  Error : EmptyFileException
+03-07-2026 12:01:55 INFO  Error : EmptyFileException
+03-07-2026 12:01:55 INFO  Error : EmptyFileException
+03-07-2026 12:01:55 INFO  Error : EmptyFileException
+03-07-2026 12:01:55 INFO  Error : EmptyFileException
+03-07-2026 12:01:56 INFO  Error : EmptyFileException
+03-07-2026 12:01:56 INFO  Error : EmptyFileException
+03-07-2026 12:01:56 INFO  Error : EmptyFileException
+03-07-2026 12:01:56 INFO  Error : EmptyFileException
+03-07-2026 12:01:56 INFO  Error : EmptyFileException
+03-07-2026 12:01:56 INFO  Error : EmptyFileException
+03-07-2026 12:01:56 INFO  Error : EmptyFileException
+03-07-2026 12:01:56 INFO  Error : EmptyFileException
+03-07-2026 12:01:56 INFO  Error : EmptyFileException
+03-07-2026 12:01:56 INFO  Error : EmptyFileException
+03-07-2026 12:01:56 INFO  Error : EmptyFileException
+03-07-2026 12:01:56 INFO  Error : EmptyFileException
+03-07-2026 12:01:56 INFO  Error : EmptyFileException
+03-07-2026 12:01:56 INFO  Error : EmptyFileException
+03-07-2026 12:01:56 INFO  Error : EmptyFileException
+03-07-2026 12:01:56 INFO  Error : EmptyFileException
+03-07-2026 12:01:56 INFO  Error : EmptyFileException
+03-07-2026 12:01:56 INFO  Error : EmptyFileException
+03-07-2026 12:01:56 INFO  Error : EmptyFileException
+03-07-2026 12:01:56 INFO  Error : EmptyFileException
+03-07-2026 12:01:56 INFO  Error : EmptyFileException
+03-07-2026 12:01:57 INFO  Error : EmptyFileException
+03-07-2026 12:01:57 INFO  Error : EmptyFileException
+03-07-2026 12:01:57 INFO  Error : EmptyFileException
+03-07-2026 12:01:57 INFO  Error : EmptyFileException
+03-07-2026 12:01:57 INFO  Error : EmptyFileException
+03-07-2026 12:01:57 INFO  Error : EmptyFileException
+03-07-2026 12:01:57 INFO  Error : EmptyFileException
+03-07-2026 12:01:57 INFO  Error : EmptyFileException
+03-07-2026 12:01:57 INFO  Error : EmptyFileException
+03-07-2026 12:01:57 INFO  Error : EmptyFileException
+03-07-2026 12:01:57 INFO  Error : EmptyFileException
+03-07-2026 12:01:57 INFO  Error : EmptyFileException
+03-07-2026 12:01:57 INFO  Error : EmptyFileException
+03-07-2026 12:01:57 INFO  Error : EmptyFileException
+03-07-2026 12:01:57 INFO  Error : EmptyFileException
+03-07-2026 12:01:57 INFO  Error : EmptyFileException
+03-07-2026 12:01:57 INFO  Error : EmptyFileException
+03-07-2026 12:01:57 INFO  Error : EmptyFileException
+03-07-2026 12:01:57 INFO  Error : EmptyFileException
+03-07-2026 12:01:57 INFO  Error : EmptyFileException
+03-07-2026 12:01:57 INFO  Error : EmptyFileException
+03-07-2026 12:01:58 INFO  Error : EmptyFileException
+03-07-2026 12:01:58 INFO  Error : EmptyFileException
+03-07-2026 12:01:58 INFO  Error : EmptyFileException
+03-07-2026 12:01:58 INFO  Error : EmptyFileException
+03-07-2026 12:01:58 INFO  Error : EmptyFileException
+03-07-2026 12:01:58 INFO  Error : EmptyFileException
+03-07-2026 12:01:58 INFO  Error : EmptyFileException
+03-07-2026 12:01:58 INFO  Error : EmptyFileException
+03-07-2026 12:01:58 INFO  Error : EmptyFileException
+03-07-2026 12:01:58 INFO  Error : EmptyFileException
+03-07-2026 12:01:58 INFO  Error : EmptyFileException
+03-07-2026 12:01:58 INFO  Error : EmptyFileException
+03-07-2026 12:01:58 INFO  Error : EmptyFileException
+03-07-2026 12:01:58 INFO  Error : EmptyFileException
+03-07-2026 12:01:58 INFO  Error : EmptyFileException
+03-07-2026 12:01:58 INFO  Error : EmptyFileException
+03-07-2026 12:01:58 INFO  Error : EmptyFileException
+03-07-2026 12:01:58 INFO  Error : EmptyFileException
+03-07-2026 12:01:58 INFO  Error : EmptyFileException
+03-07-2026 12:01:58 INFO  Error : EmptyFileException
+03-07-2026 12:01:58 INFO  Error : EmptyFileException
+03-07-2026 12:01:58 INFO  Car Details Written To Excel Successfully
+03-07-2026 12:01:58 INFO  Price Low To High Filter Validation Started
+03-07-2026 12:01:59 INFO  Price Low To High Filter Applied Successfully
+03-07-2026 12:02:02 INFO  ===== First 4 Cars After Sorting =====
+03-07-2026 12:02:02 INFO  Car Name : Hyundai i10 Asta
+03-07-2026 12:02:02 INFO  Price : Rs. 80,000
+03-07-2026 12:02:02 INFO  =================================
+03-07-2026 12:02:02 INFO  Car Name : Honda City 1.5 GXI
+03-07-2026 12:02:02 INFO  Price : Rs. 1.60 Lakh
+03-07-2026 12:02:02 INFO  =================================
+03-07-2026 12:02:02 INFO  Car Name : Hyundai Santro Xing XO eRLX Euro II
+03-07-2026 12:02:02 INFO  Price : Rs. 1.85 Lakh
+03-07-2026 12:02:02 INFO  =================================
+03-07-2026 12:02:02 INFO  Car Name : Hyundai i10 Magna
+03-07-2026 12:02:02 INFO  Price : Rs. 1.85 Lakh
+03-07-2026 12:02:02 INFO  =================================
+03-07-2026 12:02:02 INFO  Price Low To High Sorting Validation Passed
+03-07-2026 12:02:02 INFO  KM Driven Filter Validation Started
+03-07-2026 12:02:02 INFO  Price Low To High Filter Already Applied
+03-07-2026 12:02:03 INFO  Less Than 5K Filter Applied Successfully
+03-07-2026 12:02:03 INFO  KM Driven Filter Validation Passed
+03-07-2026 12:02:08 INFO  ZigWheels Logo Clicked Successfully
+03-07-2026 12:02:08 INFO  Google Login Button Validation Started
+03-07-2026 12:02:08 INFO  Login/Register Button Clicked Successfully
+03-07-2026 12:02:09 INFO  Google Sign-In Button Displayed Successfully
+03-07-2026 12:02:09 INFO  Google Login Button Validation Passed
+03-07-2026 12:02:09 INFO  Returned To Main Application Window Successfully
+03-07-2026 12:02:09 INFO  Invalid Email Validation Started
+03-07-2026 12:02:10 INFO  Login/Register Button Clicked Successfully
+03-07-2026 12:02:10 INFO  Google Login Button Clicked And Switched To OAuth Window
+03-07-2026 12:02:22 INFO  Invalid Email Entered Successfully
+03-07-2026 12:02:23 INFO  Captured Error Message : Enter a valid email or phone number
+03-07-2026 12:02:23 INFO  Invalid Email Error Message Validated Successfully
+03-07-2026 12:02:23 INFO  Returned To Main Application Window Successfully
+03-07-2026 12:02:23 INFO  Invalid Email Validation Passed
+03-07-2026 12:02:23 INFO  Invalid Phone Number Validation Started
+03-07-2026 12:02:24 INFO  Login/Register Button Clicked Successfully
+03-07-2026 12:02:24 INFO  Google Login Button Clicked And Switched To OAuth Window
+03-07-2026 12:02:28 INFO  Invalid Phone Number Entered Successfully
+03-07-2026 12:02:38 INFO  Captured Error Message : Enter a valid email or phone number
+03-07-2026 12:02:39 INFO  Returned To Main Application Window Successfully
+03-07-2026 12:02:39 INFO  Valid Email Validation Started
+03-07-2026 12:02:39 INFO  Login/Register Button Clicked Successfully
+03-07-2026 12:02:40 INFO  Google Login Window Opened Successfully
+03-07-2026 12:02:42 INFO  Valid Email Entered Successfully
+03-07-2026 12:02:44 INFO  Returned To Main Application Window Successfully
+03-07-2026 12:02:44 INFO  Valid Email Validation Passed
+03-07-2026 12:02:44 INFO  Invalid Password Validation Started
+03-07-2026 12:02:44 INFO  Login/Register Button Clicked Successfully
+03-07-2026 12:02:45 INFO  Google Login Window Opened Successfully
+03-07-2026 12:02:46 INFO  Valid Email Entered Successfully
+03-07-2026 12:02:49 INFO  Invalid Password Entered Successfully
+03-07-2026 12:02:59 INFO  Captured Error Message : Wrong password. Try again or click "Try another way" for more options.
+03-07-2026 12:02:59 INFO  Invalid Password Error Message Validated Successfully
+03-07-2026 12:03:01 INFO  Returned To Main Application Window Successfully
+03-07-2026 12:03:01 INFO  Invalid Password Validation Passed
+03-07-2026 12:03:01 INFO  Valid Password Validation Started
+03-07-2026 12:03:01 INFO  Login/Register Button Clicked Successfully
+03-07-2026 12:03:02 INFO  Google Login Window Opened Successfully
+03-07-2026 12:03:04 INFO  Valid Email Entered Successfully
+03-07-2026 12:03:07 INFO  Valid Password Entered Successfully
+03-07-2026 12:03:11 INFO  Returned To Main Application Window Successfully
+03-07-2026 12:03:11 INFO  Valid Password Validation Passed
+03-07-2026 12:03:11 INFO  ============= Test Suite Execution Completed =============
+03-07-2026 12:03:15 INFO  Browser Closed Successfully
+03-07-2026 12:05:08 INFO  ============= Test Suite Started =============
+03-07-2026 12:05:20 INFO  Browser Launched Successfully
+03-07-2026 12:05:20 INFO  Browser : chrome
+03-07-2026 12:05:20 INFO  Title Validation Started
+03-07-2026 12:05:20 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+03-07-2026 12:05:20 INFO  Title Validation Passed
+03-07-2026 12:05:20 INFO  Used Cars Validation Started
+03-07-2026 12:05:30 INFO  Current URL : https://www.zigwheels.com/used-car
+03-07-2026 12:05:30 INFO  Used Cars Section Loaded Successfully
+03-07-2026 12:05:30 INFO  Chennai City Selection Validation Started
+03-07-2026 12:05:31 INFO  Chennai City Selected Successfully
+03-07-2026 12:05:31 INFO  Popular Models Validation Started
+03-07-2026 12:06:26 INFO  Car Details Written To Excel Successfully
+03-07-2026 12:06:27 INFO  Under 3 Lakh Car : Hyundai i10 Sportz AT
+03-07-2026 12:06:29 INFO  Under 3 Lakh Car : Hyundai i10 Sportz
+03-07-2026 12:06:29 INFO  Under 3 Lakh Car : Hyundai i10 Magna 1.2
+03-07-2026 12:06:29 INFO  Under 3 Lakh Car : Hyundai i10 Asta
+03-07-2026 12:06:30 INFO  Under 3 Lakh Car : Honda City 1.5 EXI S
+03-07-2026 12:06:30 INFO  Under 3 Lakh Car : Hyundai i10 Sportz
+03-07-2026 12:06:30 INFO  Under 3 Lakh Car : Hyundai i10 Sportz
+03-07-2026 12:06:31 INFO  Under 3 Lakh Car : Honda City 1.5 GXI
+03-07-2026 12:06:31 INFO  Under 3 Lakh Car : Maruti Swift LDI
+03-07-2026 12:06:31 INFO  Under 3 Lakh Car : Honda City 1.5 V AT
+03-07-2026 12:06:32 INFO  Under 3 Lakh Car : Hyundai i10 Magna 1.1L
+03-07-2026 12:06:32 INFO  Under 3 Lakh Car : Hyundai Santro Xing XO eRLX Euro II
+03-07-2026 12:06:32 INFO  Under 3 Lakh Car : Hyundai i10 Sportz 1.2 AT
+03-07-2026 12:06:32 INFO  Under 3 Lakh Car : Hyundai i10 Magna
+03-07-2026 12:06:32 INFO  Under 3 Lakh Car : Hyundai i10 Asta
+03-07-2026 12:06:32 INFO  Under 3 Lakh Car : Toyota Innova 2.5 G (Diesel) 7 Seater BS III
+03-07-2026 12:06:32 INFO  Under3LakhCars Sheet Created Successfully
+03-07-2026 12:06:32 INFO  ============= Test Suite Execution Completed =============
+03-07-2026 12:06:37 INFO  Browser Closed Successfully
