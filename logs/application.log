@@ -887,3 +887,123 @@
 03-07-2026 12:06:32 INFO  Under3LakhCars Sheet Created Successfully
 03-07-2026 12:06:32 INFO  ============= Test Suite Execution Completed =============
 03-07-2026 12:06:37 INFO  Browser Closed Successfully
+03-07-2026 12:28:41 INFO  ============= Test Suite Started =============
+03-07-2026 12:28:54 INFO  Browser Launched Successfully
+03-07-2026 12:28:54 INFO  Browser : chrome
+03-07-2026 12:28:54 INFO  Title Validation Started
+03-07-2026 12:28:54 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+03-07-2026 12:28:54 INFO  Title Validation Passed
+03-07-2026 12:28:54 INFO  Used Cars Validation Started
+03-07-2026 12:29:15 INFO  Chennai City Selection Validation Started
+03-07-2026 12:29:24 INFO  Popular Models Validation Started
+03-07-2026 12:29:29 INFO  Under 3 Lakh Car : Hyundai i10 Sportz AT
+03-07-2026 12:29:53 INFO  ============= Test Suite Started =============
+03-07-2026 12:30:23 INFO  Browser Launched Successfully
+03-07-2026 12:30:23 INFO  Browser : chrome
+03-07-2026 12:30:24 INFO  Title Validation Started
+03-07-2026 12:30:24 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+03-07-2026 12:30:24 INFO  Title Validation Passed
+03-07-2026 12:30:24 INFO  Used Cars Validation Started
+03-07-2026 12:31:04 INFO  Current URL : https://www.zigwheels.com/used-car
+03-07-2026 12:31:04 INFO  Used Cars Section Loaded Successfully
+03-07-2026 12:31:04 INFO  Chennai City Selection Validation Started
+03-07-2026 12:31:05 INFO  Chennai City Selected Successfully
+03-07-2026 12:31:05 INFO  Popular Models Validation Started
+03-07-2026 12:32:16 INFO  Car Details Written To Excel Successfully
+03-07-2026 12:32:18 INFO  Under 3 Lakh Car : Hyundai i10 Sportz AT
+03-07-2026 12:32:20 INFO  Under 3 Lakh Car : Hyundai i10 Sportz
+03-07-2026 12:32:20 INFO  Under 3 Lakh Car : Hyundai i10 Magna 1.2
+03-07-2026 12:32:20 INFO  Under 3 Lakh Car : Hyundai i10 Asta
+03-07-2026 12:32:21 INFO  Under 3 Lakh Car : Honda City 1.5 EXI S
+03-07-2026 12:32:21 INFO  Under 3 Lakh Car : Hyundai i10 Sportz
+03-07-2026 12:32:21 INFO  Under 3 Lakh Car : Hyundai i10 Sportz
+03-07-2026 12:32:22 INFO  Under 3 Lakh Car : Honda City 1.5 GXI
+03-07-2026 12:32:22 INFO  Under 3 Lakh Car : Maruti Swift LDI
+03-07-2026 12:32:22 INFO  Under 3 Lakh Car : Honda City 1.5 V AT
+03-07-2026 12:32:23 INFO  Under 3 Lakh Car : Hyundai i10 Magna 1.1L
+03-07-2026 12:32:23 INFO  Under 3 Lakh Car : Hyundai Santro Xing XO eRLX Euro II
+03-07-2026 12:32:23 INFO  Under 3 Lakh Car : Hyundai i10 Sportz 1.2 AT
+03-07-2026 12:32:23 INFO  Under 3 Lakh Car : Hyundai i10 Magna
+03-07-2026 12:32:23 INFO  Under 3 Lakh Car : Hyundai i10 Asta
+03-07-2026 12:32:23 INFO  Under 3 Lakh Car : Toyota Innova 2.5 G (Diesel) 7 Seater BS III
+03-07-2026 12:32:25 INFO  Under 3 Lakh Car : Hyundai i10 Sportz
+03-07-2026 12:32:25 INFO  Under 3 Lakh Car : Hyundai i10 Sportz AT
+03-07-2026 12:32:26 INFO  Under 3 Lakh Car : Hyundai i10 Magna 1.2
+03-07-2026 12:32:26 INFO  Under 3 Lakh Car : Hyundai i10 Asta
+03-07-2026 12:32:27 INFO  Under 3 Lakh Car : Honda City 1.5 EXI S
+03-07-2026 12:32:27 INFO  Under 3 Lakh Car : Hyundai i10 Sportz
+03-07-2026 12:32:27 INFO  Under 3 Lakh Car : Hyundai i10 Sportz
+03-07-2026 12:32:28 INFO  Under 3 Lakh Car : Honda City 1.5 GXI
+03-07-2026 12:32:28 INFO  Under 3 Lakh Car : Maruti Swift LDI
+03-07-2026 12:32:28 INFO  Under 3 Lakh Car : Honda City 1.5 V AT
+03-07-2026 12:32:29 INFO  Under 3 Lakh Car : Hyundai i10 Magna 1.1L
+03-07-2026 12:32:29 INFO  Under 3 Lakh Car : Hyundai Santro Xing XO eRLX Euro II
+03-07-2026 12:32:29 INFO  Under 3 Lakh Car : Hyundai i10 Sportz 1.2 AT
+03-07-2026 12:32:29 INFO  Under 3 Lakh Car : Hyundai i10 Magna
+03-07-2026 12:32:29 INFO  Under 3 Lakh Car : Hyundai i10 Asta
+03-07-2026 12:32:29 INFO  Under 3 Lakh Car : Toyota Innova 2.5 G (Diesel) 7 Seater BS III
+03-07-2026 12:32:29 INFO  Under3LakhCars Sheet Created Successfully
+03-07-2026 12:32:29 INFO  Price Low To High Filter Validation Started
+03-07-2026 12:32:30 INFO  Price Low To High Filter Applied Successfully
+03-07-2026 12:32:33 INFO  ===== First 4 Cars After Sorting =====
+03-07-2026 12:32:33 INFO  Car Name : Hyundai i10 Asta
+03-07-2026 12:32:33 INFO  Price : Rs. 80,000
+03-07-2026 12:32:33 INFO  =================================
+03-07-2026 12:32:33 INFO  Car Name : Honda City 1.5 GXI
+03-07-2026 12:32:33 INFO  Price : Rs. 1.60 Lakh
+03-07-2026 12:32:33 INFO  =================================
+03-07-2026 12:32:33 INFO  Car Name : Hyundai Santro Xing XO eRLX Euro II
+03-07-2026 12:32:33 INFO  Price : Rs. 1.85 Lakh
+03-07-2026 12:32:33 INFO  =================================
+03-07-2026 12:32:33 INFO  Car Name : Hyundai i10 Magna
+03-07-2026 12:32:33 INFO  Price : Rs. 1.85 Lakh
+03-07-2026 12:32:33 INFO  =================================
+03-07-2026 12:32:33 INFO  Price Low To High Sorting Validation Passed
+03-07-2026 12:32:33 INFO  KM Driven Filter Validation Started
+03-07-2026 12:32:33 INFO  Price Low To High Filter Already Applied
+03-07-2026 12:32:35 INFO  Less Than 5K Filter Applied Successfully
+03-07-2026 12:32:35 INFO  KM Driven Filter Validation Passed
+03-07-2026 12:32:38 INFO  ZigWheels Logo Clicked Successfully
+03-07-2026 12:32:38 INFO  Google Login Button Validation Started
+03-07-2026 12:32:39 INFO  Login/Register Button Clicked Successfully
+03-07-2026 12:32:39 INFO  Google Sign-In Button Displayed Successfully
+03-07-2026 12:32:39 INFO  Google Login Button Validation Passed
+03-07-2026 12:32:39 INFO  Returned To Main Application Window Successfully
+03-07-2026 12:32:39 INFO  Invalid Email Validation Started
+03-07-2026 12:32:40 INFO  Login/Register Button Clicked Successfully
+03-07-2026 12:32:40 INFO  Google Login Button Clicked And Switched To OAuth Window
+03-07-2026 12:32:50 INFO  Invalid Email Entered Successfully
+03-07-2026 12:32:50 INFO  Captured Error Message : Enter a valid email or phone number
+03-07-2026 12:32:50 INFO  Invalid Email Error Message Validated Successfully
+03-07-2026 12:32:51 INFO  Returned To Main Application Window Successfully
+03-07-2026 12:32:51 INFO  Invalid Email Validation Passed
+03-07-2026 12:32:51 INFO  Invalid Phone Number Validation Started
+03-07-2026 12:32:52 INFO  Login/Register Button Clicked Successfully
+03-07-2026 12:32:52 INFO  Google Login Button Clicked And Switched To OAuth Window
+03-07-2026 12:32:54 INFO  Invalid Phone Number Entered Successfully
+03-07-2026 12:33:14 INFO  Captured Error Message : Error Message Not Found
+03-07-2026 12:33:31 INFO  Returned To Main Application Window Successfully
+03-07-2026 12:33:31 INFO  Valid Email Validation Started
+03-07-2026 12:33:31 INFO  Login/Register Button Clicked Successfully
+03-07-2026 12:33:32 INFO  Google Login Window Opened Successfully
+03-07-2026 12:33:34 INFO  Valid Email Entered Successfully
+03-07-2026 12:33:46 INFO  Returned To Main Application Window Successfully
+03-07-2026 12:33:46 INFO  Valid Email Validation Passed
+03-07-2026 12:33:46 INFO  Invalid Password Validation Started
+03-07-2026 12:33:46 INFO  Login/Register Button Clicked Successfully
+03-07-2026 12:33:47 INFO  Google Login Window Opened Successfully
+03-07-2026 12:33:49 INFO  Valid Email Entered Successfully
+03-07-2026 12:33:52 INFO  Invalid Password Entered Successfully
+03-07-2026 12:34:02 INFO  Captured Error Message : Wrong password. Try again or click "Try another way" for more options.
+03-07-2026 12:34:02 INFO  Invalid Password Error Message Validated Successfully
+03-07-2026 12:34:05 INFO  Returned To Main Application Window Successfully
+03-07-2026 12:34:05 INFO  Invalid Password Validation Passed
+03-07-2026 12:34:05 INFO  Valid Password Validation Started
+03-07-2026 12:34:05 INFO  Login/Register Button Clicked Successfully
+03-07-2026 12:34:06 INFO  Google Login Window Opened Successfully
+03-07-2026 12:34:09 INFO  Valid Email Entered Successfully
+03-07-2026 12:34:12 INFO  Valid Password Entered Successfully
+03-07-2026 12:34:12 INFO  Returned To Main Application Window Successfully
+03-07-2026 12:34:12 INFO  Valid Password Validation Passed
+03-07-2026 12:34:12 INFO  ============= Test Suite Execution Completed =============
+03-07-2026 12:34:18 INFO  Browser Closed Successfully
