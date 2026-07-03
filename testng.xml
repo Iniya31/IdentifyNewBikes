@@ -12,12 +12,12 @@
             <class name="org.zigwheels.tests.usedcars.TC_12_CarPriceFilterValidation"/>
             <class name="org.zigwheels.tests.usedcars.TC_13_PriceLowToHighSortingValidation"/>
             <class name="org.zigwheels.tests.usedcars.TC_14_KmDrivenFilterValidation"/>
-<!--            <class name="org.zigwheels.tests.googlelogin.TC_15_GoogleLoginButtonValidation"/>-->
-<!--            <class name="org.zigwheels.tests.googlelogin.TC_16_InvalidEmailValidation"/>-->
-<!--            <class name="org.zigwheels.tests.googlelogin.TC_17_InvalidPhnValidation"/>-->
-<!--            <class name="org.zigwheels.tests.googlelogin.TC_18_ValidEmailValidation"/>-->
-<!--            <class name="org.zigwheels.tests.googlelogin.TC_19_InvalidPasswordValidation"/>-->
-<!--            <class name="org.zigwheels.tests.googlelogin.TC_20_ValidPasswordValidation"/>-->
+            <class name="org.zigwheels.tests.googlelogin.TC_15_GoogleLoginButtonValidation"/>
+            <class name="org.zigwheels.tests.googlelogin.TC_16_InvalidEmailValidation"/>
+            <class name="org.zigwheels.tests.googlelogin.TC_17_InvalidPhnValidation"/>
+            <class name="org.zigwheels.tests.googlelogin.TC_18_ValidEmailValidation"/>
+            <class name="org.zigwheels.tests.googlelogin.TC_19_InvalidPasswordValidation"/>
+            <class name="org.zigwheels.tests.googlelogin.TC_20_ValidPasswordValidation"/>
         </classes>
     </test>
 </suite>
