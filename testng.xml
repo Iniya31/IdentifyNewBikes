@@ -18,9 +18,6 @@
             <class name="org.zigwheels.tests.googlelogin.TC_18_ValidEmailValidation"/>
             <class name="org.zigwheels.tests.googlelogin.TC_19_InvalidPasswordValidation"/>
             <class name="org.zigwheels.tests.googlelogin.TC_20_ValidPasswordValidation"/>
-
-
-
         </classes>
     </test>
 </suite>
