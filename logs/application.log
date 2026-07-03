@@ -1,0 +1,50 @@
+03-07-2026 12:39:03 INFO  ============= Test Suite Started =============
+03-07-2026 12:39:11 INFO  Browser Launched Successfully
+03-07-2026 12:39:11 INFO  Browser : chrome
+03-07-2026 12:39:23 INFO  Used Cars Validation Started
+03-07-2026 12:39:39 INFO  Current URL : https://www.zigwheels.com/used-car
+03-07-2026 12:39:39 INFO  Used Cars Section Loaded Successfully
+03-07-2026 12:39:39 INFO  Chennai City Selection Validation Started
+03-07-2026 12:39:40 INFO  Chennai City Selected Successfully
+03-07-2026 12:39:40 INFO  Popular Models Validation Started
+03-07-2026 12:40:59 INFO  Car Details Written To Excel Successfully
+03-07-2026 12:41:01 INFO  Under 3 Lakh Car : Hyundai i10 Sportz
+03-07-2026 12:41:02 INFO  Under 3 Lakh Car : Hyundai i10 Sportz AT
+03-07-2026 12:41:03 INFO  Under 3 Lakh Car : Hyundai i10 Magna 1.2
+03-07-2026 12:41:03 INFO  Under 3 Lakh Car : Hyundai i10 Asta
+03-07-2026 12:41:03 INFO  Under 3 Lakh Car : Honda City 1.5 EXI S
+03-07-2026 12:41:04 INFO  Under 3 Lakh Car : Hyundai i10 Sportz
+03-07-2026 12:41:04 INFO  Under 3 Lakh Car : Hyundai i10 Sportz
+03-07-2026 12:41:05 INFO  Under 3 Lakh Car : Honda City 1.5 GXI
+03-07-2026 12:41:05 INFO  Under 3 Lakh Car : Maruti Swift LDI
+03-07-2026 12:41:05 INFO  Under 3 Lakh Car : Honda City 1.5 V AT
+03-07-2026 12:41:06 INFO  Under 3 Lakh Car : Hyundai i10 Magna 1.1L
+03-07-2026 12:41:06 INFO  Under 3 Lakh Car : Hyundai Santro Xing XO eRLX Euro II
+03-07-2026 12:41:06 INFO  Under 3 Lakh Car : Hyundai i10 Sportz 1.2 AT
+03-07-2026 12:41:06 INFO  Under 3 Lakh Car : Hyundai i10 Magna
+03-07-2026 12:41:06 INFO  Under 3 Lakh Car : Hyundai i10 Asta
+03-07-2026 12:41:06 INFO  Under 3 Lakh Car : Toyota Innova 2.5 G (Diesel) 7 Seater BS III
+03-07-2026 12:41:07 INFO  Under3LakhCars Sheet Created Successfully
+03-07-2026 12:41:07 INFO  Price Low To High Filter Validation Started
+03-07-2026 12:41:07 INFO  Price Low To High Filter Applied Successfully
+03-07-2026 12:41:10 INFO  ===== First 4 Cars After Sorting =====
+03-07-2026 12:41:11 INFO  Car Name : Hyundai i10 Asta
+03-07-2026 12:41:11 INFO  Price : Rs. 80,000
+03-07-2026 12:41:11 INFO  =================================
+03-07-2026 12:41:11 INFO  Car Name : Honda City 1.5 GXI
+03-07-2026 12:41:11 INFO  Price : Rs. 1.60 Lakh
+03-07-2026 12:41:11 INFO  =================================
+03-07-2026 12:41:11 INFO  Car Name : Hyundai Santro Xing XO eRLX Euro II
+03-07-2026 12:41:11 INFO  Price : Rs. 1.85 Lakh
+03-07-2026 12:41:11 INFO  =================================
+03-07-2026 12:41:11 INFO  Car Name : Hyundai i10 Magna
+03-07-2026 12:41:11 INFO  Price : Rs. 1.85 Lakh
+03-07-2026 12:41:11 INFO  =================================
+03-07-2026 12:41:11 INFO  Price Low To High Sorting Validation Passed
+03-07-2026 12:41:11 INFO  KM Driven Filter Validation Started
+03-07-2026 12:41:11 INFO  Price Low To High Filter Already Applied
+03-07-2026 12:41:12 INFO  Less Than 5K Filter Applied Successfully
+03-07-2026 12:41:12 INFO  KM Driven Filter Validation Passed
+03-07-2026 12:41:19 INFO  ZigWheels Logo Clicked Successfully
+03-07-2026 12:41:19 INFO  ============= Test Suite Execution Completed =============
+03-07-2026 12:41:25 INFO  Browser Closed Successfully
