@@ -37,10 +37,8 @@ public class LoginPage {
     @FindBy(xpath = "//div[contains(@class,'Ekjuhf')]")
     private WebElement validationErrorContainer;
 
-    @FindBy(xpath = "//span[contains(text(),'Wrong password')]")
+    @FindBy(xpath = "//div[@jsname='B34EJ']/span")
     private WebElement passwordErrorMessage;
-
-
 
     public LoginPage(WebDriver driver) {
         this.driver = driver;

@@ -1,0 +1,86 @@
+04-07-2026 10:23:56 INFO  ============= Test Suite Started =============
+04-07-2026 10:24:01 INFO  Browser Launched Successfully
+04-07-2026 10:24:01 INFO  Browser : chrome
+04-07-2026 10:24:06 INFO  Used Cars Validation Started
+04-07-2026 10:24:12 INFO  Current URL : https://www.zigwheels.com/used-car
+04-07-2026 10:24:12 INFO  Used Cars Section Loaded Successfully
+04-07-2026 10:24:12 INFO  Chennai City Selection Validation Started
+04-07-2026 10:24:14 INFO  Chennai City Selected Successfully
+04-07-2026 10:24:14 INFO  Popular Models Validation Started
+04-07-2026 10:24:29 INFO  Error : StaleElementReferenceException
+04-07-2026 10:24:32 INFO  Car Details Written To Excel Successfully
+04-07-2026 10:24:34 INFO  Under3LakhCars Sheet Created Successfully
+04-07-2026 10:24:34 INFO  Price Low To High Filter Validation Started
+04-07-2026 10:24:34 INFO  Price Low To High Filter Applied Successfully
+04-07-2026 10:24:38 INFO  ===== First 4 Cars After Sorting =====
+04-07-2026 10:24:38 INFO  Car Name : Hyundai i10 Asta
+04-07-2026 10:24:38 INFO  Price : Rs. 80,000
+04-07-2026 10:24:38 INFO  =================================
+04-07-2026 10:24:38 INFO  Car Name : Honda City 1.5 GXI
+04-07-2026 10:24:38 INFO  Price : Rs. 1.60 Lakh
+04-07-2026 10:24:38 INFO  =================================
+04-07-2026 10:24:38 INFO  Car Name : Hyundai Santro Xing XO eRLX Euro II
+04-07-2026 10:24:38 INFO  Price : Rs. 1.85 Lakh
+04-07-2026 10:24:38 INFO  =================================
+04-07-2026 10:24:38 INFO  Car Name : Hyundai i10 Magna
+04-07-2026 10:24:38 INFO  Price : Rs. 1.85 Lakh
+04-07-2026 10:24:38 INFO  =================================
+04-07-2026 10:24:38 INFO  Price Low To High Sorting Validation Passed
+04-07-2026 10:24:38 INFO  KM Driven Filter Validation Started
+04-07-2026 10:24:38 INFO  Price Low To High Filter Already Applied
+04-07-2026 10:24:40 INFO  Less Than 5K Filter Applied Successfully
+04-07-2026 10:24:40 INFO  KM Driven Filter Validation Passed
+04-07-2026 10:24:41 INFO  ZigWheels Logo Clicked Successfully
+04-07-2026 10:24:41 INFO  Google Login Button Validation Started
+04-07-2026 10:24:43 INFO  Login/Register Button Clicked Successfully
+04-07-2026 10:24:43 INFO  Google Sign-In Button Displayed Successfully
+04-07-2026 10:24:43 INFO  Google Login Button Validation Passed
+04-07-2026 10:24:44 INFO  Returned To Main Application Window Successfully
+04-07-2026 10:24:44 INFO  Invalid Email Validation Started
+04-07-2026 10:24:45 INFO  Login/Register Button Clicked Successfully
+04-07-2026 10:24:46 INFO  Google Login Button Clicked And Switched To OAuth Window
+04-07-2026 10:24:51 INFO  Invalid Email Entered Successfully
+04-07-2026 10:24:52 INFO  Captured Error Message : Enter a valid email or phone number
+04-07-2026 10:24:52 INFO  Invalid Email Error Message Validated Successfully
+04-07-2026 10:24:53 INFO  Returned To Main Application Window Successfully
+04-07-2026 10:24:53 INFO  Invalid Email Validation Passed
+04-07-2026 10:24:53 INFO  Invalid Phone Number Validation Started
+04-07-2026 10:24:54 INFO  Login/Register Button Clicked Successfully
+04-07-2026 10:24:54 INFO  Google Login Button Clicked And Switched To OAuth Window
+04-07-2026 10:24:57 INFO  Invalid Phone Number Entered Successfully
+04-07-2026 10:25:04 INFO  Captured Error Message : Please re-enter the characters you see in the image above
+04-07-2026 10:25:04 INFO  Phone Validation Message Captured Successfully
+04-07-2026 10:25:05 INFO  Returned To Main Application Window Successfully
+04-07-2026 10:25:05 INFO  Valid Email Validation Started
+04-07-2026 10:25:06 INFO  Login/Register Button Clicked Successfully
+04-07-2026 10:25:07 INFO  Google Login Window Opened Successfully
+04-07-2026 10:25:09 INFO  Valid Email Entered Successfully
+04-07-2026 10:25:10 INFO  Returned To Main Application Window Successfully
+04-07-2026 10:25:10 INFO  Valid Email Validation Passed
+04-07-2026 10:25:10 INFO  Invalid Password Validation Started
+04-07-2026 10:25:11 INFO  Login/Register Button Clicked Successfully
+04-07-2026 10:25:12 INFO  Google Login Window Opened Successfully
+04-07-2026 10:25:15 INFO  Valid Email Entered Successfully
+04-07-2026 10:25:39 INFO  Alternate Google Screen Encountered : Error Message Not Found
+04-07-2026 10:25:39 INFO  Exception Message : stale element reference: stale element not found in the current frame
+  (Session info: chrome=149.0.7827.103)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b186743d0826213b0604891c2fce98fc, isElementDisplayed {id=f.39C9F431C1B1EB612E96DA4C1EB4368D.d.703882FDC9BBE6081DD9AD3411743740.e.7}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.103, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\2497760\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60389}, goog:processID: 28436, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60389/devtoo..., se:cdpVersion: 149.0.7827.103, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (b186743d0826213b0604891c2fce98fc)] -> xpath: //input[@type='password'] | //input[@name='password'] | //div[@id='password']//input]
+Session ID: b186743d0826213b0604891c2fce98fc
+04-07-2026 10:25:39 INFO  Handled Alternate Google Verification Flow
+04-07-2026 10:25:39 INFO  Returned To Main Application Window Successfully
+04-07-2026 10:25:39 INFO  Invalid Password Validation Passed
+04-07-2026 10:25:39 INFO  Valid Password Validation Started
+04-07-2026 10:25:41 INFO  Login/Register Button Clicked Successfully
+04-07-2026 10:25:41 INFO  Google Login Window Opened Successfully
+04-07-2026 10:25:44 INFO  Valid Email Entered Successfully
+04-07-2026 10:25:47 INFO  Valid Password Entered Successfully
+04-07-2026 10:25:48 INFO  Returned To Main Application Window Successfully
+04-07-2026 10:25:48 INFO  Valid Password Validation Passed
+04-07-2026 10:25:48 INFO  ============= Test Suite Execution Completed =============
+04-07-2026 10:25:57 INFO  Browser Closed Successfully
