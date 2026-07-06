@@ -1007,3 +1007,145 @@
 03-07-2026 12:34:12 INFO  Valid Password Validation Passed
 03-07-2026 12:34:12 INFO  ============= Test Suite Execution Completed =============
 03-07-2026 12:34:18 INFO  Browser Closed Successfully
+06-07-2026 08:57:02 INFO  ============= Test Suite Started =============
+06-07-2026 08:57:12 INFO  Browser Launched Successfully
+06-07-2026 08:57:12 INFO  Browser : chrome
+06-07-2026 08:57:12 INFO  Title Validation Started
+06-07-2026 08:57:12 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+06-07-2026 08:57:12 INFO  Title Validation Passed
+06-07-2026 08:57:12 INFO  Upcoming Bikes Validation Started
+06-07-2026 08:57:15 INFO  Upcoming Bikes Menu Clicked Successfully
+06-07-2026 08:57:15 INFO  Upcoming Bikes Page Loaded Successfully
+06-07-2026 08:57:15 INFO  Honda Manufacturer Filter Validation Started
+06-07-2026 08:57:16 INFO  Scrolled To Upcoming Bikes By Brand Section
+06-07-2026 08:57:19 INFO  Honda Brand Clicked Successfully
+06-07-2026 08:57:19 INFO  Honda Bikes Page Loaded Successfully
+06-07-2026 08:57:28 INFO  Honda Bike Details Written To Excel Successfully
+06-07-2026 08:57:28 INFO  Under 4 Lakhs Bikes Validation Started
+06-07-2026 08:57:32 INFO  Under 4 Lakhs Bikes Written To Excel Successfully
+06-07-2026 08:57:32 INFO  Popular Bikes Validation Started
+06-07-2026 08:57:33 INFO  Bike Name : Hero Splendor Plus
+06-07-2026 08:57:33 INFO  Price : Rs. 77,557
+06-07-2026 08:57:33 INFO  =================================
+06-07-2026 08:57:33 INFO  Bike Name : Yamaha R15 V4
+06-07-2026 08:57:33 INFO  Price : Rs. 1.71 Lakh
+06-07-2026 08:57:33 INFO  =================================
+06-07-2026 08:57:33 INFO  Bike Name : Royal Enfield Classic 350
+06-07-2026 08:57:33 INFO  Price : Rs. 1.87 Lakh
+06-07-2026 08:57:33 INFO  =================================
+06-07-2026 08:57:33 INFO  Bike Name : TVS Raider
+06-07-2026 08:57:33 INFO  Price : Rs. 82,860
+06-07-2026 08:57:33 INFO  =================================
+06-07-2026 08:57:33 INFO  Bike Name : TVS Apache RTR 160
+06-07-2026 08:57:33 INFO  Price : Rs. 1.13 Lakh
+06-07-2026 08:57:33 INFO  =================================
+06-07-2026 08:57:33 INFO  Popular Bikes Printed Successfully
+06-07-2026 08:57:33 INFO  Used Cars Validation Started
+06-07-2026 08:57:37 INFO  Current URL : https://www.zigwheels.com/used-car
+06-07-2026 08:57:37 INFO  Used Cars Section Loaded Successfully
+06-07-2026 08:57:37 INFO  Chennai City Selection Validation Started
+06-07-2026 08:57:39 INFO  Chennai City Selected Successfully
+06-07-2026 08:57:39 INFO  Popular Models Validation Started
+06-07-2026 08:57:40 INFO  Under 3 Lakh Car : Hyundai i10 Sportz AT
+06-07-2026 08:57:43 INFO  Under 3 Lakh Car : Hyundai i10 Sportz
+06-07-2026 08:57:43 INFO  Under 3 Lakh Car : Hyundai i10 Magna 1.2
+06-07-2026 08:57:43 INFO  Under 3 Lakh Car : Hyundai i10 Asta
+06-07-2026 08:57:43 INFO  Under 3 Lakh Car : Honda City 1.5 EXI S
+06-07-2026 08:57:44 INFO  Under 3 Lakh Car : Hyundai i10 Sportz
+06-07-2026 08:57:44 INFO  Under 3 Lakh Car : Hyundai i10 Sportz
+06-07-2026 08:57:44 INFO  Under 3 Lakh Car : Honda City 1.5 GXI
+06-07-2026 08:57:44 INFO  Under 3 Lakh Car : Maruti Swift LDI
+06-07-2026 08:57:45 INFO  Under 3 Lakh Car : Honda City 1.5 V AT
+06-07-2026 08:57:45 INFO  Under 3 Lakh Car : Hyundai i10 Magna 1.1L
+06-07-2026 08:57:45 INFO  Under 3 Lakh Car : Hyundai Santro Xing XO eRLX Euro II
+06-07-2026 08:57:45 INFO  Under 3 Lakh Car : Hyundai i10 Sportz 1.2 AT
+06-07-2026 08:57:46 INFO  Under 3 Lakh Car : Hyundai i10 Magna
+06-07-2026 08:57:46 INFO  Under 3 Lakh Car : Hyundai i10 Asta
+06-07-2026 08:57:46 INFO  Under 3 Lakh Car : Toyota Innova 2.5 G (Diesel) 7 Seater BS III
+06-07-2026 08:58:03 INFO  ============= Test Suite Started =============
+06-07-2026 08:58:13 INFO  Browser Launched Successfully
+06-07-2026 08:58:13 INFO  Browser : chrome
+06-07-2026 08:58:14 INFO  Title Validation Started
+06-07-2026 08:58:14 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+06-07-2026 08:58:14 INFO  Title Validation Passed
+06-07-2026 08:58:14 INFO  Upcoming Bikes Validation Started
+06-07-2026 08:58:16 INFO  Upcoming Bikes Menu Clicked Successfully
+06-07-2026 08:58:16 INFO  Upcoming Bikes Page Loaded Successfully
+06-07-2026 08:58:16 INFO  Honda Manufacturer Filter Validation Started
+06-07-2026 08:58:17 INFO  Scrolled To Upcoming Bikes By Brand Section
+06-07-2026 08:58:20 INFO  Honda Brand Clicked Successfully
+06-07-2026 08:58:20 INFO  Honda Bikes Page Loaded Successfully
+06-07-2026 08:58:30 INFO  Honda Bike Details Written To Excel Successfully
+06-07-2026 08:58:30 INFO  Under 4 Lakhs Bikes Validation Started
+06-07-2026 08:58:36 INFO  Under 4 Lakhs Bikes Written To Excel Successfully
+06-07-2026 08:58:36 INFO  Popular Bikes Validation Started
+06-07-2026 08:58:37 INFO  Bike Name : Hero Splendor Plus
+06-07-2026 08:58:37 INFO  Price : Rs. 77,557
+06-07-2026 08:58:37 INFO  =================================
+06-07-2026 08:58:37 INFO  Bike Name : Yamaha R15 V4
+06-07-2026 08:58:37 INFO  Price : Rs. 1.71 Lakh
+06-07-2026 08:58:37 INFO  =================================
+06-07-2026 08:58:37 INFO  Bike Name : Royal Enfield Classic 350
+06-07-2026 08:58:37 INFO  Price : Rs. 1.87 Lakh
+06-07-2026 08:58:37 INFO  =================================
+06-07-2026 08:58:37 INFO  Bike Name : TVS Raider
+06-07-2026 08:58:37 INFO  Price : Rs. 82,860
+06-07-2026 08:58:37 INFO  =================================
+06-07-2026 08:58:37 INFO  Bike Name : TVS Apache RTR 160
+06-07-2026 08:58:37 INFO  Price : Rs. 1.13 Lakh
+06-07-2026 08:58:37 INFO  =================================
+06-07-2026 08:58:37 INFO  Popular Bikes Printed Successfully
+06-07-2026 08:58:37 INFO  Used Cars Validation Started
+06-07-2026 08:58:37 INFO  Chennai City Selection Validation Started
+06-07-2026 08:58:58 INFO  Popular Models Validation Started
+06-07-2026 08:59:34 INFO  ============= Test Suite Started =============
+06-07-2026 08:59:45 INFO  Browser Launched Successfully
+06-07-2026 08:59:45 INFO  Browser : chrome
+06-07-2026 08:59:45 INFO  Title Validation Started
+06-07-2026 08:59:45 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+06-07-2026 08:59:45 INFO  Title Validation Passed
+06-07-2026 08:59:45 INFO  Upcoming Bikes Validation Started
+06-07-2026 08:59:48 INFO  Upcoming Bikes Menu Clicked Successfully
+06-07-2026 08:59:48 INFO  Upcoming Bikes Page Loaded Successfully
+06-07-2026 08:59:48 INFO  Honda Manufacturer Filter Validation Started
+06-07-2026 08:59:49 INFO  Scrolled To Upcoming Bikes By Brand Section
+06-07-2026 08:59:51 INFO  Honda Brand Clicked Successfully
+06-07-2026 08:59:51 INFO  Under 4 Lakhs Bikes Validation Started
+06-07-2026 09:00:05 INFO  Under 4 Lakhs Bikes Written To Excel Successfully
+06-07-2026 09:00:06 INFO  Popular Bikes Validation Started
+06-07-2026 09:00:07 INFO  ============= Test Suite Execution Completed =============
+06-07-2026 09:00:15 INFO  ============= Test Suite Started =============
+06-07-2026 09:00:26 INFO  Browser Launched Successfully
+06-07-2026 09:00:26 INFO  Browser : chrome
+06-07-2026 09:00:26 INFO  Title Validation Started
+06-07-2026 09:00:26 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+06-07-2026 09:00:26 INFO  Title Validation Passed
+06-07-2026 09:00:26 INFO  Upcoming Bikes Validation Started
+06-07-2026 09:00:29 INFO  Upcoming Bikes Menu Clicked Successfully
+06-07-2026 09:00:29 INFO  Upcoming Bikes Page Loaded Successfully
+06-07-2026 09:00:29 INFO  Honda Manufacturer Filter Validation Started
+06-07-2026 09:00:30 INFO  Scrolled To Upcoming Bikes By Brand Section
+06-07-2026 09:00:33 INFO  Honda Brand Clicked Successfully
+06-07-2026 09:00:33 INFO  Honda Bikes Page Loaded Successfully
+06-07-2026 09:00:43 INFO  Honda Bike Details Written To Excel Successfully
+06-07-2026 09:00:43 INFO  Under 4 Lakhs Bikes Validation Started
+06-07-2026 09:00:55 INFO  Under 4 Lakhs Bikes Written To Excel Successfully
+06-07-2026 09:00:55 INFO  Popular Bikes Validation Started
+06-07-2026 09:00:55 INFO  Bike Name : Hero Splendor Plus
+06-07-2026 09:00:55 INFO  Price : Rs. 77,557
+06-07-2026 09:00:55 INFO  =================================
+06-07-2026 09:00:55 INFO  Bike Name : Yamaha R15 V4
+06-07-2026 09:00:55 INFO  Price : Rs. 1.71 Lakh
+06-07-2026 09:00:55 INFO  =================================
+06-07-2026 09:00:55 INFO  Bike Name : Royal Enfield Classic 350
+06-07-2026 09:00:55 INFO  Price : Rs. 1.87 Lakh
+06-07-2026 09:00:55 INFO  =================================
+06-07-2026 09:00:55 INFO  Bike Name : TVS Raider
+06-07-2026 09:00:55 INFO  Price : Rs. 82,860
+06-07-2026 09:00:55 INFO  =================================
+06-07-2026 09:00:55 INFO  Bike Name : TVS Apache RTR 160
+06-07-2026 09:00:55 INFO  Price : Rs. 1.13 Lakh
+06-07-2026 09:00:55 INFO  =================================
+06-07-2026 09:00:55 INFO  Popular Bikes Printed Successfully
+06-07-2026 09:00:55 INFO  ============= Test Suite Execution Completed =============
+06-07-2026 09:01:02 INFO  Browser Closed Successfully
