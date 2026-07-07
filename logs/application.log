@@ -1149,3 +1149,38 @@
 06-07-2026 09:00:55 INFO  Popular Bikes Printed Successfully
 06-07-2026 09:00:55 INFO  ============= Test Suite Execution Completed =============
 06-07-2026 09:01:02 INFO  Browser Closed Successfully
+07-07-2026 11:21:04 INFO  ============= Test Suite Started =============
+07-07-2026 11:21:14 INFO  Browser Launched Successfully
+07-07-2026 11:21:14 INFO  Browser : chrome
+07-07-2026 11:21:14 INFO  Title Validation Started
+07-07-2026 11:21:14 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+07-07-2026 11:21:14 INFO  Title Validation Passed
+07-07-2026 11:21:14 INFO  Upcoming Bikes Validation Started
+07-07-2026 11:21:17 INFO  Upcoming Bikes Menu Clicked Successfully
+07-07-2026 11:21:17 INFO  Upcoming Bikes Page Loaded Successfully
+07-07-2026 11:21:17 INFO  Honda Manufacturer Filter Validation Started
+07-07-2026 11:21:17 INFO  Scrolled To Upcoming Bikes By Brand Section
+07-07-2026 11:21:21 INFO  Honda Brand Clicked Successfully
+07-07-2026 11:21:21 INFO  Honda Bikes Page Loaded Successfully
+07-07-2026 11:21:29 INFO  Honda Bike Details Written To Excel Successfully
+07-07-2026 11:21:29 INFO  Under 4 Lakhs Bikes Validation Started
+07-07-2026 11:21:40 INFO  Under 4 Lakhs Bikes Written To Excel Successfully
+07-07-2026 11:21:40 INFO  Popular Bikes Validation Started
+07-07-2026 11:21:40 INFO  Bike Name : Hero Splendor Plus
+07-07-2026 11:21:40 INFO  Price : Rs. 77,557
+07-07-2026 11:21:40 INFO  =================================
+07-07-2026 11:21:40 INFO  Bike Name : Yamaha R15 V4
+07-07-2026 11:21:40 INFO  Price : Rs. 1.71 Lakh
+07-07-2026 11:21:40 INFO  =================================
+07-07-2026 11:21:40 INFO  Bike Name : Royal Enfield Classic 350
+07-07-2026 11:21:40 INFO  Price : Rs. 1.87 Lakh
+07-07-2026 11:21:40 INFO  =================================
+07-07-2026 11:21:40 INFO  Bike Name : TVS Raider
+07-07-2026 11:21:40 INFO  Price : Rs. 82,860
+07-07-2026 11:21:40 INFO  =================================
+07-07-2026 11:21:40 INFO  Bike Name : Royal Enfield Bullet 350
+07-07-2026 11:21:40 INFO  Price : Rs. 1.66 Lakh
+07-07-2026 11:21:40 INFO  =================================
+07-07-2026 11:21:40 INFO  Popular Bikes Printed Successfully
+07-07-2026 11:21:41 INFO  ============= Test Suite Execution Completed =============
+07-07-2026 11:21:46 INFO  Browser Closed Successfully
