@@ -1,4 +1,5 @@
 package org.zigwheels.tests.bikevalidations;
 
-public class TC_06_ScootyOnlyValidation {
+public class TC_06_DuplicateBikesValidation {
+`
 }
