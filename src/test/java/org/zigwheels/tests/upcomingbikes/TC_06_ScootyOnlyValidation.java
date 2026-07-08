@@ -1,5 +1,4 @@
-//final
-
+//changed
 package org.zigwheels.tests.upcomingbikes;
 
 import basetest.BaseTest;
@@ -17,6 +16,15 @@ public class TC_06_ScootyOnlyValidation extends BaseTest {
     public void verifyScootersOnlyDetails() {
         Log.info("Scooters Only Validation Started");
         BikesPage bikesPage = new BikesPage(driver);
+        // TC_02 Methods
+        bikesPage.clickUpcomingBikes();
+        Log.info("Upcoming Bikes Menu Clicked Successfully");
+        // TC_03 Methods
+        bikesPage.scrollToUpcomingBikesByBrand();
+        Log.info("Scrolled To Upcoming Bikes By Brand Section");
+        bikesPage.clickHondaBrand();
+        Log.info("Honda Brand Clicked Successfully");
+        // TC_06 Validation
         bikesPage.clickScootersOnly();
         Log.info("Scooters Only Filter Clicked Successfully");
         List<WebElement> scooterCards = bikesPage.getScooterCards();
