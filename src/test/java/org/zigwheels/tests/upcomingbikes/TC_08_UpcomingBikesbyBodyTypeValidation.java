@@ -1,4 +1,5 @@
-package org.zigwheels.tests.bikevalidations;
+//final
+package org.zigwheels.tests.upcomingbikes;
 
 import basetest.BaseTest;
 import org.openqa.selenium.WebElement;
