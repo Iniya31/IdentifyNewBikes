@@ -1,3 +1,4 @@
+//changed
 package org.zigwheels.pages;
 
 import java.time.Duration;
@@ -19,28 +20,23 @@ public class LoginPage {
     @FindBy(id = "des_lIcon")
     private WebElement loginBtn;
 
-    @FindBy(xpath = "//*[@id='myModal3-modal-content']/div[1]/div/div[3]/div[6]/div")
-    private WebElement googleAuthBtn;
+    @FindBy(xpath = "//span[normalize-space()='Google']")
+    private WebElement googleBtn;
 
     @FindBy(id = "identifierId")
     private WebElement emailBox;
 
-    @FindBy(xpath = "//*[@id='identifierNext']/div/button/span")
+    @FindBy(xpath = "//span[normalize-space()='Next']")
     private WebElement nextBtn;
 
-    @FindBy(xpath = "//input[@type='password'] | //input[@name='password'] | //div[@id='password']//input")
+    @FindBy(xpath = "//input[@name='Passwd']")
     private WebElement passBox;
 
-    @FindBy(xpath = "//span[text()='Next'] | //div[@id='passwordNext']")
-    private WebElement passNextBtn;
-
-    @FindBy(xpath = "//div[contains(@class,'Ekjuhf')]")
+    @FindBy(xpath = "//div[@class='Ekjuhf Jj6Lae']")
     private WebElement validationErrorContainer;
 
-    @FindBy(xpath = "//span[contains(text(),'Wrong password')]")
+    @FindBy(xpath = "//span[contains(text(),'Wrong password. Try again or click \"Try another way')]")
     private WebElement passwordErrorMessage;
-
-
 
     public LoginPage(WebDriver driver) {
         this.driver = driver;
@@ -54,14 +50,14 @@ public class LoginPage {
     }
 
     public boolean isGoogleLoginButtonVisible() {
-        wait.until(ExpectedConditions.visibilityOf(googleAuthBtn));
-        return googleAuthBtn.isDisplayed();
+        wait.until(ExpectedConditions.visibilityOf(googleBtn));
+        return googleBtn.isDisplayed();
     }
 
     public void clickGoogleLoginAndSwitchWindow() {
         rootWindow = driver.getWindowHandle();
-        wait.until(ExpectedConditions.visibilityOf(googleAuthBtn));
-        googleAuthBtn.click();
+        wait.until(ExpectedConditions.visibilityOf(googleBtn));
+        googleBtn.click();
         wait.until(ExpectedConditions.numberOfWindowsToBe(2));
         Set<String> subWindows = driver.getWindowHandles();
         for (String contextWindow : subWindows) {
@@ -84,36 +80,22 @@ public class LoginPage {
         wait.until(ExpectedConditions.visibilityOf(passBox));
         passBox.clear();
         passBox.sendKeys(textPass);
-        wait.until(ExpectedConditions.elementToBeClickable(passNextBtn));
-        passNextBtn.click();
+        wait.until(ExpectedConditions.elementToBeClickable(nextBtn));
+        nextBtn.click();
     }
 
     public String getCapturedErrorMessage() {
 
         try {
-
-            wait.until(
-                    ExpectedConditions.visibilityOf(
-                            validationErrorContainer));
-
-            return validationErrorContainer
-                    .getText()
-                    .trim();
-
-        } catch (Exception e) {
-
+            wait.until(ExpectedConditions.visibilityOf(validationErrorContainer));
+            return validationErrorContainer.getText().trim();
+        }
+        catch (Exception e) {
             try {
-
-                wait.until(
-                        ExpectedConditions.visibilityOf(
-                                passwordErrorMessage));
-
-                return passwordErrorMessage
-                        .getText()
-                        .trim();
-
-            } catch (Exception ex) {
-
+                wait.until(ExpectedConditions.visibilityOf(passwordErrorMessage));
+                return passwordErrorMessage.getText().trim();
+            }
+            catch (Exception ex) {
                 return "Error Message Not Found";
             }
         }

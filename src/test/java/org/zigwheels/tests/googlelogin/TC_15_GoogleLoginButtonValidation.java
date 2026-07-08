@@ -1,3 +1,4 @@
+//final
 package org.zigwheels.tests.googlelogin;
 
 import basetest.BaseTest;
@@ -10,15 +11,21 @@ public class TC_15_GoogleLoginButtonValidation extends BaseTest {
 
     @Test
     public void verifyGoogleLoginButton() {
-        Log.info("Google Login Button Validation Started");
+        Log.info("Validating Google Login Button");
+
         LoginPage loginPage = new LoginPage(driver);
         loginPage.clickLoginRegister();
-        Log.info("Login/Register Button Clicked Successfully");
-        Assert.assertTrue(loginPage.isGoogleLoginButtonVisible(), "Google sign-in button is not visible!");
-        Log.info("Google Sign-In Button Displayed Successfully");
-        Log.info("Google Login Button Validation Passed");
-        loginPage.closeOAuthAndReturnHome();
-        Log.info("Returned To Main Application Window Successfully");
 
+        boolean isVisible = loginPage.isGoogleLoginButtonVisible();
+
+        if (isVisible) {
+            Log.info("Google Login Button validation PASSED");
+        } else {
+            Log.error("Google Login Button validation FAILED");
+        }
+
+        Assert.assertTrue(isVisible, "Google sign-in button is not visible!");
+
+        loginPage.closeOAuthAndReturnHome();
     }
 }
