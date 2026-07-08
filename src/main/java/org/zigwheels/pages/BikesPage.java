@@ -1,3 +1,4 @@
+//changed
 package org.zigwheels.pages;
 
 import java.time.Duration;
@@ -16,18 +17,19 @@ public class BikesPage {
 
     private WebDriver driver;
     private WebDriverWait wait;
-
     @FindBy(xpath = "//span[contains(text(),'NEW BIKES')]")
     private WebElement newBikesMenu;
 
     @FindBy(xpath = "//a[@title='Upcoming Bikes']")
     private WebElement upcomingBikesLink;
 
+
     @FindBy(xpath = "//h3[contains(text(),'Upcoming Bikes by Brand')]")
     private WebElement upcomingBikesByBrandSection;
 
     @FindBy(xpath = "//a[@title='upcoming Honda bikes']")
     private WebElement hondaBrand;
+
 
     @FindBy(xpath = "//strong")
     private List<WebElement> bikeNames;
@@ -40,6 +42,7 @@ public class BikesPage {
 
     @FindBy(xpath = "//h2[contains(text(),'Popular Bikes in India')]/following-sibling::ul/li")
     private List<WebElement> popularBikeCards;
+
 
     @FindBy(id = "Scooters")
     private WebElement scootersOnlyFilter;
@@ -93,31 +96,25 @@ public class BikesPage {
         Actions actions = new Actions(driver);
         wait.until(ExpectedConditions.visibilityOf(newBikesMenu));
         actions.moveToElement(newBikesMenu).perform();
-
         wait.until(ExpectedConditions.elementToBeClickable(upcomingBikesLink));
         upcomingBikesLink.click();
     }
+
 
     public void scrollToUpcomingBikesByBrand() {
         JavascriptExecutor js = (JavascriptExecutor) driver;
         js.executeScript("window.scrollBy(0,500)");
         js.executeScript("window.scrollBy(0,500)");
         js.executeScript("window.scrollBy(0,500)");
-
         wait.until(ExpectedConditions.visibilityOf(upcomingBikesByBrandSection));
     }
 
     public void clickHondaBrand() {
+
         wait.until(ExpectedConditions.visibilityOf(hondaBrand));
-
-        ((JavascriptExecutor) driver)
-                .executeScript("arguments[0].scrollIntoView({block:'center'});", hondaBrand);
-
+        ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView({block:'center'});", hondaBrand);
         Actions actions = new Actions(driver);
-        actions.moveToElement(hondaBrand)
-                .pause(Duration.ofSeconds(2))
-                .click()
-                .perform();
+        actions.moveToElement(hondaBrand).pause(Duration.ofSeconds(2)).click().perform();
     }
 
     public List<WebElement> getBikeNames() {
@@ -137,23 +134,22 @@ public class BikesPage {
         return popularBikeCards;
     }
 
+
     public void clickScootersOnly() {
         wait.until(ExpectedConditions.elementToBeClickable(scootersOnlyFilter));
         scootersOnlyFilter.click();
     }
 
+
     public List<WebElement> getScooterCards() {
         return scooterCards;
     }
 
+
     public void clickFirstAlertMeButton() {
         wait.until(ExpectedConditions.visibilityOf(firstAlertMeButton));
-
-        ((JavascriptExecutor) driver)
-                .executeScript("arguments[0].scrollIntoView({block:'center'});", firstAlertMeButton);
-
-        ((JavascriptExecutor) driver)
-                .executeScript("arguments[0].click();", firstAlertMeButton);
+        ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView({block:'center'});", firstAlertMeButton);
+        ((JavascriptExecutor) driver).executeScript("arguments[0].click();", firstAlertMeButton);
     }
 
     public void enterPincode(String pincode) {
@@ -179,6 +175,7 @@ public class BikesPage {
         mobileNumberTextBox.sendKeys(mobileNumber);
     }
 
+
     public boolean isOtpFieldDisplayed() {
         wait.until(ExpectedConditions.visibilityOf(otpSection));
         return otpSection.isDisplayed();
@@ -190,10 +187,7 @@ public class BikesPage {
     }
 
     public void scrollToUpcomingBikesByBodyType() {
-        ((JavascriptExecutor) driver)
-                .executeScript("arguments[0].scrollIntoView({block:'center'});",
-                        upcomingBikesByBodyTypeSection);
-
+        ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView({block:'center'});", upcomingBikesByBodyTypeSection);
         wait.until(ExpectedConditions.visibilityOf(upcomingBikesByBodyTypeSection));
     }
 
@@ -202,10 +196,7 @@ public class BikesPage {
     }
 
     public void scrollToUpcomingHondaBikesFAQs() {
-        ((JavascriptExecutor) driver)
-                .executeScript("arguments[0].scrollIntoView({block:'center'});",
-                        upcomingHondaBikesFaqSection);
-
+        ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView({block:'center'});", upcomingHondaBikesFaqSection);
         wait.until(ExpectedConditions.visibilityOf(upcomingHondaBikesFaqSection));
     }
 
@@ -214,14 +205,9 @@ public class BikesPage {
     }
 
     public void clickZigWheelsLogo() {
-        ((JavascriptExecutor) driver)
-                .executeScript("window.scrollTo(0,0);");
-
+        ((JavascriptExecutor) driver).executeScript("window.scrollTo(0,0);");
         wait.until(ExpectedConditions.visibilityOf(zigWheelsLogo));
-
         Actions actions = new Actions(driver);
-        actions.moveToElement(zigWheelsLogo)
-                .click()
-                .perform();
+        actions.moveToElement(zigWheelsLogo).click().perform();
     }
 }

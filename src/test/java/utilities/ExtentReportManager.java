@@ -1,5 +1,7 @@
+//changed
 package utilities;
 
+import basetest.BaseTest;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
@@ -13,7 +15,6 @@ public class ExtentReportManager implements ITestListener {
     public ExtentSparkReporter sparkReporter;
     public ExtentReports extent;
     public ExtentTest test;
-
     @Override
     public void onStart(ITestContext context) {
         sparkReporter = new ExtentSparkReporter(System.getProperty("user.dir") + "/reports/MyReport.html");
@@ -23,7 +24,7 @@ public class ExtentReportManager implements ITestListener {
         extent.attachReporter(sparkReporter);
         extent.setSystemInfo("Computer Name", "localhost");
         extent.setSystemInfo("Environment", "QA");
-        extent.setSystemInfo("Project Name", "Identifybikes");
+        extent.setSystemInfo("Project Name", "IdentifyBikes");
         extent.setSystemInfo("OS", "Windows 11");
         extent.setSystemInfo("Browser Name", "Chrome");
     }
@@ -39,6 +40,13 @@ public class ExtentReportManager implements ITestListener {
         test = extent.createTest(result.getName());
         test.log(Status.FAIL, "Test Case FAILED is : " + result.getName());
         test.log(Status.FAIL, "Cause is : " + result.getThrowable());
+        try {
+            String screenshotPath = Screenshot.takeScreenShot(BaseTest.driver, result.getName());
+            test.addScreenCaptureFromPath(screenshotPath);
+
+        } catch (Exception e) {
+            test.log(Status.FAIL, "Screenshot Capture Failed");
+        }
     }
 
     @Override

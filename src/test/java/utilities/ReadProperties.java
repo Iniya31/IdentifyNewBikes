@@ -1,3 +1,4 @@
+//changed
 package utilities;
 
 import java.io.FileInputStream;
@@ -11,8 +12,7 @@ public class ReadProperties {
             FileInputStream fis = new FileInputStream("src/test/resources/config.properties");
             prop.load(fis);
 
-        }
-        catch (IOException e) {
+        } catch (IOException e) {
             e.printStackTrace();
         }
         return prop.getProperty(key);
