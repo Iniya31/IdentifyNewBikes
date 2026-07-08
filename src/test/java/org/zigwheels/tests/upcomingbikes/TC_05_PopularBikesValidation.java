@@ -1,3 +1,4 @@
+//changed
 package org.zigwheels.tests.upcomingbikes;
 
 import basetest.BaseTest;
@@ -11,10 +12,14 @@ import utilities.Log;
 import java.util.List;
 
 public class TC_05_PopularBikesValidation extends BaseTest {
+
     @Test
     public void verifyPopularBikes() {
         Log.info("Popular Bikes Validation Started");
         BikesPage bikesPage = new BikesPage(driver);
+        // TC_02
+        bikesPage.clickUpcomingBikes();
+        Log.info("Upcoming Bikes Menu Clicked Successfully");
         List<WebElement> popularBikes = bikesPage.getPopularBikeCards();
         Assert.assertTrue(popularBikes.size() > 0, "No Popular Bikes Found");
         for (WebElement bike : popularBikes) {

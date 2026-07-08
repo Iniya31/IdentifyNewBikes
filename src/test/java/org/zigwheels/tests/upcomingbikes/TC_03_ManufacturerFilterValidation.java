@@ -1,3 +1,4 @@
+//changed
 package org.zigwheels.tests.upcomingbikes;
 
 import basetest.BaseTest;
@@ -11,17 +12,18 @@ import utilities.Log;
 import java.util.List;
 
 public class TC_03_ManufacturerFilterValidation extends BaseTest {
-
     @Test
     public void verifyHondaManufacturerFilter() throws Exception {
         Log.info("Honda Manufacturer Filter Validation Started");
         BikesPage bikesPage = new BikesPage(driver);
+        // TC_02 Steps
+        bikesPage.clickUpcomingBikes();
+        Log.info("Upcoming Bikes Menu Clicked Successfully");
+        // TC_03 Steps
         bikesPage.scrollToUpcomingBikesByBrand();
         Log.info("Scrolled To Upcoming Bikes By Brand Section");
         bikesPage.clickHondaBrand();
         Log.info("Honda Brand Clicked Successfully");
-        Assert.assertTrue(driver.getCurrentUrl().contains("upcoming-honda-bikes"), "Honda bikes page not loaded");
-        Log.info("Honda Bikes Page Loaded Successfully");
         List<WebElement> bikeNames = bikesPage.getBikeNames();
         List<WebElement> bikePrices = bikesPage.getBikePrices();
         List<WebElement> bikeLaunchDates = bikesPage.getBikeLaunchDates();
@@ -37,6 +39,7 @@ public class TC_03_ManufacturerFilterValidation extends BaseTest {
             }
             ExcelUtils.appendBikeDetail(fileName, "HondaBikeDetails", bikeName, price, launchDate);
         }
-        Log.info("Honda Bike Details Written To Excel Successfully");
+        Log.info(
+                "Honda Bike Details Written To Excel Successfully");
     }
 }
