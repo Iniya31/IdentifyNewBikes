@@ -1,2 +1,303 @@
 08-07-2026 12:19:32 INFO  ============= Test Suite Execution Completed =============
 08-07-2026 12:19:44 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 12:26:02 INFO  ============= Test Suite Started =============
+08-07-2026 12:26:19 INFO  Browser Launched Successfully
+08-07-2026 12:26:19 INFO  Browser : chrome
+08-07-2026 12:26:19 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 12:26:22 INFO  Browser Closed Successfully
+08-07-2026 12:26:22 INFO  ============= Test Suite Started =============
+08-07-2026 12:26:30 INFO  Browser Launched Successfully
+08-07-2026 12:26:30 INFO  Browser : chrome
+08-07-2026 12:26:30 INFO  Upcoming Bikes Validation Started
+08-07-2026 12:26:33 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 12:26:33 INFO  Upcoming Bikes Page Loaded Successfully
+08-07-2026 12:26:33 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 12:26:36 INFO  Browser Closed Successfully
+08-07-2026 12:26:36 INFO  ============= Test Suite Started =============
+08-07-2026 12:26:46 INFO  Browser Launched Successfully
+08-07-2026 12:26:46 INFO  Browser : chrome
+08-07-2026 12:26:46 INFO  Honda Manufacturer Filter Validation Started
+08-07-2026 12:26:49 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 12:26:49 INFO  Scrolled To Upcoming Bikes By Brand Section
+08-07-2026 12:26:53 INFO  Honda Brand Clicked Successfully
+08-07-2026 12:26:56 INFO  Honda Bike Details Written To Excel Successfully
+08-07-2026 12:26:56 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 12:27:02 INFO  Browser Closed Successfully
+08-07-2026 12:27:02 INFO  ============= Test Suite Started =============
+08-07-2026 12:27:08 INFO  Browser Launched Successfully
+08-07-2026 12:27:08 INFO  Browser : chrome
+08-07-2026 12:27:08 INFO  Under 4 Lakhs Bikes Validation Started
+08-07-2026 12:27:11 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 12:27:17 INFO  Honda Bike Details Written To Excel Successfully
+08-07-2026 12:27:20 INFO  Under 4 Lakhs Bikes Written To Excel Successfully
+08-07-2026 12:27:20 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 12:27:24 INFO  Browser Closed Successfully
+08-07-2026 12:27:24 INFO  ============= Test Suite Started =============
+08-07-2026 12:27:33 INFO  Browser Launched Successfully
+08-07-2026 12:27:33 INFO  Browser : chrome
+08-07-2026 12:27:33 INFO  Popular Bikes Validation Started
+08-07-2026 12:27:35 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 12:27:35 INFO  Bike Name : Hero Splendor Plus
+08-07-2026 12:27:35 INFO  Price : Rs. 77,557
+08-07-2026 12:27:35 INFO  =================================
+08-07-2026 12:27:35 INFO  Bike Name : Royal Enfield Classic 350
+08-07-2026 12:27:35 INFO  Price : Rs. 1.87 Lakh
+08-07-2026 12:27:35 INFO  =================================
+08-07-2026 12:27:35 INFO  Bike Name : Yamaha R15 V4
+08-07-2026 12:27:35 INFO  Price : Rs. 1.71 Lakh
+08-07-2026 12:27:35 INFO  =================================
+08-07-2026 12:27:35 INFO  Bike Name : TVS Raider
+08-07-2026 12:27:35 INFO  Price : Rs. 82,860
+08-07-2026 12:27:35 INFO  =================================
+08-07-2026 12:27:35 INFO  Bike Name : Royal Enfield Bullet 350
+08-07-2026 12:27:35 INFO  Price : Rs. 1.66 Lakh
+08-07-2026 12:27:35 INFO  =================================
+08-07-2026 12:27:35 INFO  Popular Bikes Printed Successfully
+08-07-2026 12:27:35 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 12:27:39 INFO  Browser Closed Successfully
+08-07-2026 12:27:39 INFO  ============= Test Suite Started =============
+08-07-2026 12:27:48 INFO  Browser Launched Successfully
+08-07-2026 12:27:48 INFO  Browser : chrome
+08-07-2026 12:27:48 INFO  Scooters Only Validation Started
+08-07-2026 12:27:49 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 12:27:49 INFO  Scrolled To Upcoming Bikes By Brand Section
+08-07-2026 12:27:51 INFO  Honda Brand Clicked Successfully
+08-07-2026 12:27:51 INFO  Scooters Only Filter Clicked Successfully
+08-07-2026 12:27:51 INFO  Honda ADV 160
+Rs. 1.55 Lakh
+Expected Launch : Dec 2026
+Alert Me When Launched
+08-07-2026 12:27:51 INFO  ================================
+08-07-2026 12:27:52 INFO  Honda Forza 350
+Rs. 3.70 Lakh
+Expected Launch : Unrevealed
+Alert Me When Launched
+08-07-2026 12:27:52 INFO  ================================
+08-07-2026 12:27:52 INFO  Honda PCX160
+Rs. 1.20 Lakh
+Expected Launch : Unrevealed
+Alert Me When Launched
+08-07-2026 12:27:52 INFO  ================================
+08-07-2026 12:27:52 INFO  Honda Motocompacto
+Price To Be Announced
+Expected Launch : Unrevealed
+Alert Me When Launched
+08-07-2026 12:27:52 INFO  ================================
+08-07-2026 12:27:52 INFO  Honda Activa 7G
+Rs. 79,000
+Expected Launch : Unrevealed
+Alert Me When Launched
+08-07-2026 12:27:52 INFO  ================================
+08-07-2026 12:27:52 INFO  Honda SH125i
+Price To Be Announced
+Expected Launch : Unrevealed
+Alert Me When Launched
+08-07-2026 12:27:52 INFO  ================================
+08-07-2026 12:27:52 INFO  Scooters Details Printed Successfully
+08-07-2026 12:27:52 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 12:27:55 INFO  Browser Closed Successfully
+08-07-2026 12:27:55 INFO  ============= Test Suite Started =============
+08-07-2026 12:28:01 INFO  Browser Launched Successfully
+08-07-2026 12:28:01 INFO  Browser : chrome
+08-07-2026 12:28:01 INFO  TC_07 Started - Alert Me Button Validation
+08-07-2026 12:28:06 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 12:28:06 INFO  Scrolled To Upcoming Bikes By Brand Section
+08-07-2026 12:28:09 INFO  Honda Brand Clicked Successfully
+08-07-2026 12:28:09 INFO  Scooters Only Filter Clicked Successfully
+08-07-2026 12:28:09 INFO  Alert Me Button Clicked Successfully
+08-07-2026 12:28:10 INFO  Pincode Entered Successfully
+08-07-2026 12:28:13 INFO  Pincode Suggestion Selected Successfully
+08-07-2026 12:28:13 INFO  Full Name Entered Successfully
+08-07-2026 12:28:13 INFO  Mobile Number Entered Successfully
+08-07-2026 12:28:14 INFO  OTP Field Displayed Successfully
+08-07-2026 12:28:14 INFO  Popup Closed Successfully
+08-07-2026 12:28:14 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 12:28:19 INFO  Browser Closed Successfully
+08-07-2026 12:28:19 INFO  ============= Test Suite Started =============
+08-07-2026 12:28:28 INFO  Browser Launched Successfully
+08-07-2026 12:28:28 INFO  Browser : chrome
+08-07-2026 12:28:30 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 12:28:30 INFO  Scrolled To Upcoming Bikes By Body Type Section
+08-07-2026 12:28:30 INFO  Total Body Types Found : 4
+08-07-2026 12:28:30 INFO  Body Type 1 : Cruiser
+08-07-2026 12:28:30 INFO  ==============================
+08-07-2026 12:28:30 INFO  Body Type 2 : Commuter
+08-07-2026 12:28:30 INFO  ==============================
+08-07-2026 12:28:30 INFO  Body Type 3 : Scooters
+08-07-2026 12:28:30 INFO  ==============================
+08-07-2026 12:28:30 INFO  Body Type 4 : Sports
+08-07-2026 12:28:30 INFO  ==============================
+08-07-2026 12:28:30 INFO  Total Body Types Printed : 4
+08-07-2026 12:28:30 INFO  Upcoming Bikes By Body Type Printed Successfully
+08-07-2026 12:28:30 INFO  TC_08 Completed Successfully
+08-07-2026 12:28:30 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 12:28:33 INFO  Browser Closed Successfully
+08-07-2026 12:28:33 INFO  ============= Test Suite Started =============
+08-07-2026 12:28:40 INFO  Browser Launched Successfully
+08-07-2026 12:28:40 INFO  Browser : chrome
+08-07-2026 12:28:40 INFO  Used Cars Validation Started
+08-07-2026 12:28:50 INFO  Current URL : https://www.zigwheels.com/used-car
+08-07-2026 12:28:50 INFO  Used Cars Section Loaded Successfully
+08-07-2026 12:28:50 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 12:28:54 INFO  Browser Closed Successfully
+08-07-2026 12:28:54 INFO  ============= Test Suite Started =============
+08-07-2026 12:29:02 INFO  Browser Launched Successfully
+08-07-2026 12:29:02 INFO  Browser : chrome
+08-07-2026 12:29:02 INFO  Chennai City Selection Validation Started
+08-07-2026 12:29:09 INFO  Used Cars Page Opened Successfully
+08-07-2026 12:29:10 INFO  Current URL : https://www.zigwheels.com/used-car/Chennai
+08-07-2026 12:29:10 INFO  Chennai City Selected Successfully
+08-07-2026 12:29:10 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 12:29:13 INFO  Browser Closed Successfully
+08-07-2026 12:29:13 INFO  ============= Test Suite Started =============
+08-07-2026 12:29:30 INFO  Browser Launched Successfully
+08-07-2026 12:29:30 INFO  Browser : chrome
+08-07-2026 12:29:30 INFO  Popular Models Validation Started
+08-07-2026 12:29:37 INFO  Used Cars Page Opened Successfully
+08-07-2026 12:29:38 INFO  Chennai City Selected Successfully
+08-07-2026 12:30:17 INFO  Car Details Written To Excel Successfully
+08-07-2026 12:30:17 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 12:30:22 INFO  Browser Closed Successfully
+08-07-2026 12:30:22 INFO  ============= Test Suite Started =============
+08-07-2026 12:30:29 INFO  Browser Launched Successfully
+08-07-2026 12:30:29 INFO  Browser : chrome
+08-07-2026 12:30:29 INFO  Under 3 Lakh Cars Validation Started
+08-07-2026 12:30:38 INFO  Used Cars Page Opened Successfully
+08-07-2026 12:30:39 INFO  Chennai City Selected Successfully
+08-07-2026 12:31:44 INFO  Car Details Written To Excel Successfully
+08-07-2026 12:31:45 INFO  Under 3 Lakh Car : Hyundai i10 Sportz
+08-07-2026 12:31:46 INFO  Under 3 Lakh Car : Hyundai i10 Sportz AT
+08-07-2026 12:31:46 INFO  Under 3 Lakh Car : Hyundai i10 Magna 1.2
+08-07-2026 12:31:46 INFO  Under 3 Lakh Car : Hyundai i10 Asta
+08-07-2026 12:31:47 INFO  Under 3 Lakh Car : Honda City 1.5 EXI S
+08-07-2026 12:31:47 INFO  Under 3 Lakh Car : Hyundai i10 Sportz
+08-07-2026 12:31:47 INFO  Under 3 Lakh Car : Maruti Swift LDI
+08-07-2026 12:31:48 INFO  Under 3 Lakh Car : Honda City 1.5 GXI
+08-07-2026 12:31:48 INFO  Under 3 Lakh Car : Hyundai i10 Sportz
+08-07-2026 12:31:48 INFO  Under 3 Lakh Car : Honda City 1.5 V AT
+08-07-2026 12:31:49 INFO  Under 3 Lakh Car : Hyundai Santro Xing XO eRLX Euro II
+08-07-2026 12:31:49 INFO  Under 3 Lakh Car : Hyundai i10 Sportz 1.2 AT
+08-07-2026 12:31:49 INFO  Under 3 Lakh Car : Hyundai i10 Magna
+08-07-2026 12:31:52 INFO  Under 3 Lakh Car : Hyundai i10 Sportz
+08-07-2026 12:31:52 INFO  Under 3 Lakh Car : Hyundai i10 Sportz AT
+08-07-2026 12:31:53 INFO  Under 3 Lakh Car : Hyundai i10 Magna 1.2
+08-07-2026 12:31:53 INFO  Under 3 Lakh Car : Hyundai i10 Asta
+08-07-2026 12:31:54 INFO  Under 3 Lakh Car : Honda City 1.5 EXI S
+08-07-2026 12:31:54 INFO  Under 3 Lakh Car : Hyundai i10 Sportz
+08-07-2026 12:31:54 INFO  Under 3 Lakh Car : Maruti Swift LDI
+08-07-2026 12:31:55 INFO  Under 3 Lakh Car : Honda City 1.5 GXI
+08-07-2026 12:31:55 INFO  Under 3 Lakh Car : Hyundai i10 Sportz
+08-07-2026 12:31:55 INFO  Under 3 Lakh Car : Honda City 1.5 V AT
+08-07-2026 12:31:56 INFO  Under 3 Lakh Car : Hyundai Santro Xing XO eRLX Euro II
+08-07-2026 12:31:56 INFO  Under 3 Lakh Car : Hyundai i10 Sportz 1.2 AT
+08-07-2026 12:31:56 INFO  Under 3 Lakh Car : Hyundai i10 Magna
+08-07-2026 12:31:56 INFO  Under3LakhCars Sheet Created Successfully
+08-07-2026 12:31:56 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 12:32:00 INFO  Browser Closed Successfully
+08-07-2026 12:32:00 INFO  ============= Test Suite Started =============
+08-07-2026 12:32:12 INFO  Browser Launched Successfully
+08-07-2026 12:32:12 INFO  Browser : chrome
+08-07-2026 12:32:12 INFO  Price Low To High Filter Validation Started
+08-07-2026 12:32:23 INFO  Used Cars Page Opened Successfully
+08-07-2026 12:32:24 INFO  Chennai City Selected Successfully
+08-07-2026 12:32:50 INFO  Scrolled upto all the cards
+08-07-2026 12:32:51 INFO  Price Low To High Filter Applied Successfully
+08-07-2026 12:32:54 INFO  ===== First 4 Cars After Sorting =====
+08-07-2026 12:32:54 INFO  Car Name : Honda City 1.5 GXI
+08-07-2026 12:32:54 INFO  Price : Rs. 1.60 Lakh
+08-07-2026 12:32:54 INFO  =================================
+08-07-2026 12:32:54 INFO  Car Name : Hyundai Santro Xing XO eRLX Euro II
+08-07-2026 12:32:54 INFO  Price : Rs. 1.85 Lakh
+08-07-2026 12:32:54 INFO  =================================
+08-07-2026 12:32:54 INFO  Car Name : Hyundai i10 Magna
+08-07-2026 12:32:54 INFO  Price : Rs. 1.85 Lakh
+08-07-2026 12:32:54 INFO  =================================
+08-07-2026 12:32:54 INFO  Car Name : Hyundai i10 Sportz
+08-07-2026 12:32:54 INFO  Price : Rs. 2.10 Lakh
+08-07-2026 12:32:54 INFO  =================================
+08-07-2026 12:32:54 INFO  Price Low To High Sorting Validation Passed
+08-07-2026 12:32:54 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 12:33:00 INFO  Browser Closed Successfully
+08-07-2026 12:33:00 INFO  ============= Test Suite Started =============
+08-07-2026 12:33:07 INFO  Browser Launched Successfully
+08-07-2026 12:33:07 INFO  Browser : chrome
+08-07-2026 12:33:07 INFO  KM Driven Filter Validation Started
+08-07-2026 12:33:15 INFO  Used Cars Page Opened Successfully
+08-07-2026 12:33:16 INFO  Chennai City Selected Successfully
+08-07-2026 12:33:35 INFO  Scrolled upto all the cards
+08-07-2026 12:33:35 INFO  Price Low To High Filter Applied
+08-07-2026 12:33:38 INFO  Less Than 5K Filter Applied Successfully
+08-07-2026 12:33:38 INFO  KM Driven Filter Validation Passed
+08-07-2026 12:33:41 INFO  ZigWheels Logo Clicked Successfully
+08-07-2026 12:33:41 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 12:33:46 INFO  Browser Closed Successfully
+08-07-2026 12:33:46 INFO  ============= Test Suite Started =============
+08-07-2026 12:33:56 INFO  Browser Launched Successfully
+08-07-2026 12:33:56 INFO  Browser : chrome
+08-07-2026 12:33:56 INFO  Validating Google Login Button
+08-07-2026 12:33:57 INFO  Google Login Button validation PASSED
+08-07-2026 12:33:57 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 12:34:01 INFO  Browser Closed Successfully
+08-07-2026 12:34:01 INFO  ============= Test Suite Started =============
+08-07-2026 12:34:14 INFO  Browser Launched Successfully
+08-07-2026 12:34:14 INFO  Browser : chrome
+08-07-2026 12:34:14 INFO  Invalid Email Validation Started
+08-07-2026 12:34:27 INFO  Captured Error Message: Enter a valid email or phone number
+08-07-2026 12:34:27 INFO  Invalid Email Validation PASSED
+08-07-2026 12:34:28 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 12:34:34 INFO  Browser Closed Successfully
+08-07-2026 12:34:34 INFO  ============= Test Suite Started =============
+08-07-2026 12:34:48 INFO  Browser Launched Successfully
+08-07-2026 12:34:48 INFO  Browser : chrome
+08-07-2026 12:34:48 INFO  Invalid Phone Number Validation Started
+08-07-2026 12:35:09 INFO  Captured Error Message: Enter a valid email or phone number
+08-07-2026 12:35:09 INFO  Invalid Phone Number Validation PASSED
+08-07-2026 12:35:10 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 12:35:17 INFO  Browser Closed Successfully
+08-07-2026 12:35:17 INFO  ============= Test Suite Started =============
+08-07-2026 12:35:26 INFO  Browser Launched Successfully
+08-07-2026 12:35:26 INFO  Browser : chrome
+08-07-2026 12:35:26 INFO  Valid Email Validation Started
+08-07-2026 12:35:53 INFO  Valid Email Validation PASSED
+08-07-2026 12:35:53 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 12:36:01 INFO  Browser Closed Successfully
+08-07-2026 12:36:01 INFO  ============= Test Suite Started =============
+08-07-2026 12:36:14 INFO  Browser Launched Successfully
+08-07-2026 12:36:14 INFO  Browser : chrome
+08-07-2026 12:36:14 INFO  Invalid Password Validation Started
+08-07-2026 12:36:34 INFO  Captured Error Message: Wrong password. Try again or click "Try another way" for more options.
+08-07-2026 12:36:34 INFO  Invalid Password Validation PASSED
+08-07-2026 12:36:35 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 12:36:42 INFO  Browser Closed Successfully
+08-07-2026 12:36:42 INFO  ============= Test Suite Started =============
+08-07-2026 12:36:52 INFO  Browser Launched Successfully
+08-07-2026 12:36:52 INFO  Browser : chrome
+08-07-2026 12:36:52 INFO  Valid Password Validation Started
+08-07-2026 12:37:16 INFO  Valid Password Validation PASSED
+08-07-2026 12:37:17 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 12:37:24 INFO  Browser Closed Successfully
+08-07-2026 12:37:24 INFO  ============= Test Suite Started =============
+08-07-2026 12:37:34 INFO  Browser Launched Successfully
+08-07-2026 12:37:34 INFO  Browser : chrome
+08-07-2026 12:37:39 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 12:37:39 INFO  Scrolled To Upcoming Bikes By Brand Section
+08-07-2026 12:37:43 INFO  Honda Brand Clicked Successfully
+08-07-2026 12:37:43 INFO  Scrolled To Upcoming Honda Bikes FAQs Section
+08-07-2026 12:37:43 INFO  Total FAQ Questions Found : 6
+08-07-2026 12:37:43 INFO  FAQ 1 : What are the upcoming honda bikes in India 2026?
+08-07-2026 12:37:43 INFO  =================================
+08-07-2026 12:37:43 INFO  FAQ 2 : What are the upcoming honda commuter bikes in India?
+08-07-2026 12:37:43 INFO  =================================
+08-07-2026 12:37:43 INFO  FAQ 3 : What are the upcoming honda scooters in India?
+08-07-2026 12:37:43 INFO  =================================
+08-07-2026 12:37:43 INFO  FAQ 4 : What are the upcoming honda sports bikes in India?
+08-07-2026 12:37:43 INFO  =================================
+08-07-2026 12:37:43 INFO  FAQ 5 : What are the upcoming honda cruiser bikes in India?
+08-07-2026 12:37:43 INFO  =================================
+08-07-2026 12:37:43 INFO  FAQ 6 : What are the upcoming honda bikes under 1 lakh?
+08-07-2026 12:37:43 INFO  =================================
+08-07-2026 12:37:43 INFO  Total FAQ Questions Printed : 6
+08-07-2026 12:37:43 INFO  All FAQ Questions Printed Successfully
+08-07-2026 12:37:45 INFO  ZigWheels Logo Clicked Successfully
+08-07-2026 12:37:45 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 12:37:53 INFO  Browser Closed Successfully
