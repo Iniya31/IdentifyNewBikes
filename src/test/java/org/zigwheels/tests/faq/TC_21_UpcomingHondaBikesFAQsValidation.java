@@ -1,5 +1,5 @@
 //changed
-package org.zigwheels.tests.Faq;
+package org.zigwheels.tests.faq;
 
 import basetest.BaseTest;
 import org.openqa.selenium.WebElement;

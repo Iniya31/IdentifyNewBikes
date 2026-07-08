@@ -6,6 +6,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 import org.zigwheels.pages.BikesPage;
 import utilities.Log;
+import utilities.ReadProperties;
 
 public class TC_07_AlertMeButtonValidation extends BaseTest {
 
@@ -24,13 +25,13 @@ public class TC_07_AlertMeButtonValidation extends BaseTest {
         Log.info("Scooters Only Filter Clicked Successfully");
         bikesPage.clickFirstAlertMeButton();
         Log.info("Alert Me Button Clicked Successfully");
-        bikesPage.enterPincode("639111");
+        bikesPage.enterPincode(ReadProperties.readProperty("user.pincode"));
         Log.info("Pincode Entered Successfully");
         bikesPage.selectFirstPincodeSuggestion();
         Log.info("Pincode Suggestion Selected Successfully");
-        bikesPage.enterFullName("Abarna");
+        bikesPage.enterFullName(ReadProperties.readProperty("user.name"));
         Log.info("Full Name Entered Successfully");
-        bikesPage.enterMobileNumber("6379655918");
+        bikesPage.enterMobileNumber(ReadProperties.readProperty("user.mobile"));
         Log.info("Mobile Number Entered Successfully");
         Assert.assertTrue(bikesPage.isOtpFieldDisplayed(), "OTP Field Not Displayed");
         Log.info("OTP Field Displayed Successfully");
