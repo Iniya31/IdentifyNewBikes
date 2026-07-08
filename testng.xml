@@ -29,7 +29,7 @@
             <class name="org.zigwheels.tests.googlelogin.TC_18_ValidEmailValidation"/>
             <class name="org.zigwheels.tests.googlelogin.TC_19_InvalidPasswordValidation"/>
             <class name="org.zigwheels.tests.googlelogin.TC_20_ValidPasswordValidation"/>
-            <class name="org.zigwheels.tests.faq.TC_21_UpcomingHondaBikesFAQsValidation"/>
+            <class name="org.zigwheels.tests.Faq.TC_21_UpcomingHondaBikesFAQsValidation"/>
         </classes>
     </test>
 
