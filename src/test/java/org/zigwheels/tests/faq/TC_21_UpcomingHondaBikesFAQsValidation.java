@@ -14,6 +14,7 @@ public class TC_21_UpcomingHondaBikesFAQsValidation extends BaseTest {
 
     @Test
     public void verifyUpcomingHondaBikesFAQs() {
+
         BikesPage bikesPage = new BikesPage(driver);
         bikesPage.clickUpcomingBikes();
         Log.info("Upcoming Bikes Menu Clicked Successfully");
@@ -34,11 +35,13 @@ public class TC_21_UpcomingHondaBikesFAQsValidation extends BaseTest {
             }
             faqCount++;
             Log.info("FAQ " + faqCount + " : " + faq);
-            Log.info("================================");
+            Log.info("=================================");
         }
         Log.info("Total FAQ Questions Printed : " + faqCount);
         Log.info("All FAQ Questions Printed Successfully");
+
         bikesPage.clickZigWheelsLogo();
+
         Log.info("ZigWheels Logo Clicked Successfully");
     }
 }
