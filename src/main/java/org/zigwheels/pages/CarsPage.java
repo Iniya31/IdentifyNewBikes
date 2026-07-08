@@ -1,3 +1,4 @@
+//final
 package org.zigwheels.pages;
 
 import java.time.Duration;

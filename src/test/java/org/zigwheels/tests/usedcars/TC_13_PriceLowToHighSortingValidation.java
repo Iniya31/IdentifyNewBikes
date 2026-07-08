@@ -14,14 +14,26 @@ public class TC_13_PriceLowToHighSortingValidation extends BaseTest {
 
     @Test
     public void verifyPriceSorting() throws Exception {
+
         Log.info("Price Low To High Filter Validation Started");
         CarsPage cp = new CarsPage(driver);
+        // TC_09 Methods
+        cp.hoverMoreMenu();
+        cp.clickUsedCars();
+        Log.info("Used Cars Page Opened Successfully");
+        // TC_10 Method
+        cp.selectChennaiCity();
+        Log.info("Chennai City Selected Successfully");
+        // TC_11 Methods
+        cp.scrollToPopularModels();
+        cp.selectAllPopularModels();
+        cp.scrollTillAllCarsLoaded();
+        Log.info("Scrolled upto all the cards");
         cp.scrollToTop();
         cp.selectPriceLowToHigh();
         Assert.assertTrue(driver.getCurrentUrl().contains("fieldName=price"), "Price Filter Not Applied");
         Log.info("Price Low To High Filter Applied Successfully");
         Thread.sleep(3000);
-        // Reinitialize PageFactory
         cp = new CarsPage(driver);
         List<WebElement> carNames = cp.getCarNames();
         List<WebElement> carPrices = cp.getCarPrices();
@@ -34,6 +46,7 @@ public class TC_13_PriceLowToHighSortingValidation extends BaseTest {
             Log.info("Price : " + price);
             Log.info("=================================");
         }
+
         Log.info("Price Low To High Sorting Validation Passed");
     }
 }

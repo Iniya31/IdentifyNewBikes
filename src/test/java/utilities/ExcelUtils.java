@@ -1,3 +1,4 @@
+//changed
 package utilities;
 
 import java.io.FileInputStream;
@@ -78,5 +79,52 @@ public class ExcelUtils {
         fo.close();
         wb.close();
     }
+
+    public static void appendBikeDetail(String fileName, String sheetName, String bikeName, String price, String launchDate) throws IOException {
+        FileInputStream fi = new FileInputStream(fileName);
+        XSSFWorkbook wb = new XSSFWorkbook(fi);
+        XSSFSheet ws = wb.getSheet(sheetName);
+        if (ws == null) {
+            ws = wb.createSheet(sheetName);
+            XSSFRow header = ws.createRow(0);
+            header.createCell(0).setCellValue("Bike Name");
+            header.createCell(1).setCellValue("Price");
+            header.createCell(2).setCellValue("Expected Launch");
+        }
+        int lastRow = ws.getLastRowNum();
+        XSSFRow row = ws.createRow(lastRow + 1);
+        row.createCell(0).setCellValue(bikeName);
+        row.createCell(1).setCellValue(price);
+        row.createCell(2).setCellValue(launchDate);
+        fi.close();
+        FileOutputStream fo = new FileOutputStream(fileName);
+        wb.write(fo);
+        fo.close();
+        wb.close();
+    }
+
+    public static void appendUnder4LakhBike(String fileName, String sheetName, String bikeName, String price, String launchDate) throws IOException {
+        FileInputStream fi = new FileInputStream(fileName);
+        XSSFWorkbook wb = new XSSFWorkbook(fi);
+        XSSFSheet ws = wb.getSheet(sheetName);
+        if (ws == null) {
+            ws = wb.createSheet(sheetName);
+            XSSFRow header = ws.createRow(0);
+            header.createCell(0).setCellValue("Bike Name");
+            header.createCell(1).setCellValue("Price");
+            header.createCell(2).setCellValue("Expected Launch");
+        }
+        int lastRow = ws.getLastRowNum();
+        XSSFRow row = ws.createRow(lastRow + 1);
+        row.createCell(0).setCellValue(bikeName);
+        row.createCell(1).setCellValue(price);
+        row.createCell(2).setCellValue(launchDate);
+        fi.close();
+        FileOutputStream fo = new FileOutputStream(fileName);
+        wb.write(fo);
+        fo.close();
+        wb.close();
+    }
+
 
 }

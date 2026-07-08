@@ -1,3 +1,4 @@
+//final
 package org.zigwheels.tests.usedcars;
 
 import org.testng.Assert;
@@ -15,7 +16,6 @@ public class TC_09_UsedCarsSectionLoadValidation extends BaseTest {
         CarsPage cp = new CarsPage(driver);
         cp.hoverMoreMenu();
         cp.clickUsedCars();
-
         String currentUrl = driver.getCurrentUrl();
         Log.info("Current URL : " + currentUrl);
         Assert.assertTrue(currentUrl.contains("used-car"), "Used Cars page is not loaded");

@@ -1,5 +1,5 @@
+//changed
 package org.zigwheels.tests.usedcars;
-
 import java.util.List;
 
 import org.openqa.selenium.WebElement;
@@ -16,6 +16,14 @@ public class TC_11_PopularModelSectionAndDisplayValidation extends BaseTest {
     public void verifyPopularModelsSection() throws Exception {
         Log.info("Popular Models Validation Started");
         CarsPage cp = new CarsPage(driver);
+        // TC_09 Steps
+        cp.hoverMoreMenu();
+        cp.clickUsedCars();
+        Log.info("Used Cars Page Opened Successfully");
+        // TC_10 Steps
+        cp.selectChennaiCity();
+        Log.info("Chennai City Selected Successfully");
+        // TC_11 Steps
         cp.scrollToPopularModels();
         int totalSelected = cp.selectAllPopularModels();
         boolean allCarsLoaded = cp.scrollTillAllCarsLoaded();
@@ -26,14 +34,10 @@ public class TC_11_PopularModelSectionAndDisplayValidation extends BaseTest {
         int count = Math.min(carNames.size(), carPrices.size());
         String fileName = "src/test/resources/Details.xlsx";
         for (int i = 0; i < count; i++) {
-            try {
-                String carName = carNames.get(i).getText().trim();
-                String price = carPrices.get(i).getText().trim();
-                if (!carName.isEmpty()) {
-                    ExcelUtils.appendCarDetail(fileName, "CarDetails", carName, price);
-                }
-            } catch (Exception e) {
-                Log.info("Error : " + e.getClass().getSimpleName());
+            String carName = carNames.get(i).getText().trim();
+            String price = carPrices.get(i).getText().trim();
+            if (!carName.isEmpty()) {
+                ExcelUtils.appendCarDetail(fileName, "CarDetails", carName, price);
             }
         }
         Log.info("Car Details Written To Excel Successfully");

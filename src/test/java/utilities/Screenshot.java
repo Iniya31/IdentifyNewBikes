@@ -1,3 +1,4 @@
+//changed
 package utilities;
 
 import java.io.File;
@@ -11,11 +12,14 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.io.FileHandler;
 
 public class Screenshot {
+
     public static String filePath = System.getProperty("user.dir") + "\\Screenshots\\";
-    public static void takeScreenShot(WebDriver driver, String fileName) throws IOException {
+    public static String takeScreenShot(WebDriver driver, String fileName) throws IOException {
         String timeStamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
         File srcFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-        File destFile = new File(filePath + fileName + "_" + timeStamp + ".png");
+        String destination = filePath + fileName + "_" + timeStamp + ".png";
+        File destFile = new File(destination);
         FileHandler.copy(srcFile, destFile);
+        return destination;
     }
 }
