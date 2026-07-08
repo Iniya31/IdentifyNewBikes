@@ -1,5 +1,7 @@
 //changed
 package org.zigwheels.tests.usedcars;
+import java.util.List;
+
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -9,21 +11,19 @@ import org.zigwheels.pages.CarsPage;
 import utilities.ExcelUtils;
 import utilities.Log;
 
-import java.util.List;
-
-public class TC_12_CarPriceFilterValidation extends BaseTest {
+public class TC_11_PopularModelSectionAndDisplayValidation extends BaseTest {
     @Test
-    public void verifyCarsUnder3Lakh() throws Exception {
-        Log.info("Under 3 Lakh Cars Validation Started");
+    public void verifyPopularModelsSection() throws Exception {
+        Log.info("Popular Models Validation Started");
         CarsPage cp = new CarsPage(driver);
-        // TC_09
+        // TC_09 Steps
         cp.hoverMoreMenu();
         cp.clickUsedCars();
         Log.info("Used Cars Page Opened Successfully");
-        // TC_10
+        // TC_10 Steps
         cp.selectChennaiCity();
         Log.info("Chennai City Selected Successfully");
-        // TC_11
+        // TC_11 Steps
         cp.scrollToPopularModels();
         int totalSelected = cp.selectAllPopularModels();
         boolean allCarsLoaded = cp.scrollTillAllCarsLoaded();
@@ -31,8 +31,8 @@ public class TC_12_CarPriceFilterValidation extends BaseTest {
         Assert.assertTrue(allCarsLoaded, "All Cars Not Loaded Successfully");
         List<WebElement> carNames = cp.getCarNames();
         List<WebElement> carPrices = cp.getCarPrices();
-        String fileName = "src/test/resources/Details.xlsx";
         int count = Math.min(carNames.size(), carPrices.size());
+        String fileName = "src/test/resources/Details.xlsx";
         for (int i = 0; i < count; i++) {
             String carName = carNames.get(i).getText().trim();
             String price = carPrices.get(i).getText().trim();
@@ -41,25 +41,5 @@ public class TC_12_CarPriceFilterValidation extends BaseTest {
             }
         }
         Log.info("Car Details Written To Excel Successfully");
-        // TC_12
-        int lastRow = ExcelUtils.getLastRowNumber(fileName, "CarDetails");
-        for (int i = 1; i <= lastRow; i++) {
-            String carName = ExcelUtils.getCellValue(fileName, "CarDetails", i, 0);
-            String price = ExcelUtils.getCellValue(fileName, "CarDetails", i, 1);
-            if (price.isEmpty()) {
-                continue;
-            }
-            double amount;
-            if (price.contains("Lakh")) {
-                amount =Double.parseDouble(price.replace("Rs.", "").replace("Lakh", "").replace(",", "").trim());
-            } else {
-                amount = Double.parseDouble(price.replace("Rs.", "").replace(",", "").trim()) / 100000;
-            }
-            if (amount < 3.0) {
-                ExcelUtils.appendUnder3LakhCar(fileName, "Under3LakhCars", carName);
-                Log.info("Under 3 Lakh Car : " + carName);
-            }
-        }
-        Log.info("Under3LakhCars Sheet Created Successfully");
     }
 }

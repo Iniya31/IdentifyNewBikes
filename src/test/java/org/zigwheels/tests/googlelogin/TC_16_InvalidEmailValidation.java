@@ -1,4 +1,32 @@
+//final
 package org.zigwheels.tests.googlelogin;
 
-public class TC_16_InvalidEmailValidation {
+import basetest.BaseTest;
+import org.testng.Assert;
+import org.testng.annotations.Test;
+import org.zigwheels.pages.LoginPage;
+import utilities.Log;
+
+public class TC_16_InvalidEmailValidation extends BaseTest {
+    @Test
+    public void verifyInvalidEmailError() {
+        Log.info("Invalid Email Validation Started");
+
+        LoginPage loginPage = new LoginPage(driver);
+        loginPage.clickLoginRegister();
+        loginPage.clickGoogleLoginAndSwitchWindow();
+        loginPage.enterEmailOrPhoneAndNext("invalid_format_text@@xyz.com");
+
+        String errorMsg = loginPage.getCapturedErrorMessage();
+        Log.info("Captured Error Message: " + errorMsg);
+
+        Assert.assertTrue(
+                errorMsg.contains("Enter a valid") || errorMsg.contains("Couldn't find"),
+                "Unexpected error: " + errorMsg
+        );
+
+        Log.info("Invalid Email Validation PASSED");
+
+        loginPage.closeOAuthAndReturnHome();
+    }
 }

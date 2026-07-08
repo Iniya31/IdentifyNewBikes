@@ -1,23 +1,30 @@
+//final
 package basetest;
-
 import org.openqa.selenium.WebDriver;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
-import org.testng.annotations.Parameters;
+import org.testng.annotations.*;
+
 import utilities.DriverSetup;
+import utilities.Log;
 
 public class BaseTest {
-    public WebDriver driver;
+    public static WebDriver driver;
     @Parameters("browser")
-    @BeforeClass
+    @BeforeClass(alwaysRun = true)
     public void setup(String browser) {
-        driver = DriverSetup.getDriver(browser);
-        System.out.println("Browser Opened Successfully");
+        Log.info("============= Test Suite Started =============");
+        if (driver == null) {
+            driver = DriverSetup.getDriver(browser);
+            Log.info("Browser Launched Successfully");
+            Log.info("Browser : " + browser);
+        }
     }
-
-    @AfterClass
+    @AfterClass(alwaysRun = true)
     public void tearDown() {
-        DriverSetup.quitDriver(driver);
-        System.out.println("Browser Closed Successfully");
+        Log.info("============= Test Suite Execution Completed =============");
+        if (driver != null) {
+            DriverSetup.quitDriver(driver);
+            driver = null;
+            Log.info("Browser Closed Successfully");
+        }
     }
 }
