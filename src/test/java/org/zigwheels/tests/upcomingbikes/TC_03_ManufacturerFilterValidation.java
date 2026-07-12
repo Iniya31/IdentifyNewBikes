@@ -1,4 +1,3 @@
-//changed
 package org.zigwheels.tests.upcomingbikes;
 
 import basetest.BaseTest;
@@ -12,24 +11,39 @@ import utilities.Log;
 import java.util.List;
 
 public class TC_03_ManufacturerFilterValidation extends BaseTest {
+
     @Test
     public void verifyHondaManufacturerFilter() throws Exception {
-        Log.info("Honda Manufacturer Filter Validation Started");
+
+        Log.info("TC_03 - Honda Manufacturer Filter Validation Started");
+
         BikesPage bikesPage = new BikesPage(driver);
-        // TC_02 Steps
+
+        // Navigate to Upcoming Bikes page
         bikesPage.clickUpcomingBikes();
-        Log.info("Upcoming Bikes Menu Clicked Successfully");
-        // TC_03 Steps
+
+        // Select Honda brand from Upcoming Bikes by Brand section
         bikesPage.scrollToUpcomingBikesByBrand();
-        Log.info("Scrolled To Upcoming Bikes By Brand Section");
         bikesPage.clickHondaBrand();
-        Log.info("Honda Brand Clicked Successfully");
+
+        // Fetch Honda bike details
         List<WebElement> bikeNames = bikesPage.getBikeNames();
         List<WebElement> bikePrices = bikesPage.getBikePrices();
         List<WebElement> bikeLaunchDates = bikesPage.getBikeLaunchDates();
+
         int count = Math.min(bikeNames.size(), Math.min(bikePrices.size(), bikeLaunchDates.size()));
-        Assert.assertTrue(count > 0, "No Honda Upcoming Bikes Found");
-        String fileName = "src/test/resources/Details.xlsx";
+
+        try {
+            // Validate bike data is available
+            Assert.assertTrue(count > 0, "No Honda Upcoming Bikes Found");
+            Log.info("TC_03 - Honda Bikes Retrieved Successfully");
+        } catch (AssertionError e) {
+            Log.error("TC_03 - Honda Manufacturer Filter Validation Failed");
+            throw e;
+        }
+
+        // Write bike details to Excel
+        String fileName = "src/test/resources/Details_" + getBrowserName() + ".xlsx";
         for (int i = 0; i < count; i++) {
             String bikeName = bikeNames.get(i).getText().trim();
             String price = bikePrices.get(i).getText().trim();
@@ -39,7 +53,6 @@ public class TC_03_ManufacturerFilterValidation extends BaseTest {
             }
             ExcelUtils.appendBikeDetail(fileName, "HondaBikeDetails", bikeName, price, launchDate);
         }
-        Log.info(
-                "Honda Bike Details Written To Excel Successfully");
+        Log.info("TC_03 - Honda Bike Details Written To Excel");
     }
 }

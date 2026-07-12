@@ -10,7 +10,7 @@ import org.apache.poi.xssf.usermodel.*;
 
 public class ExcelUtils {
 
-    public static void appendCarDetail(
+    public synchronized static void appendCarDetail(
             String fileName,
             String sheetName,
             String carName,
@@ -60,7 +60,7 @@ public class ExcelUtils {
         fi.close();
         return value;
     }
-    public static void appendUnder3LakhCar(String fileName, String sheetName, String carName) throws IOException {
+    public synchronized static void appendUnder3LakhCar(String fileName, String sheetName, String carName) throws IOException {
         FileInputStream fi = new FileInputStream(fileName);
         XSSFWorkbook wb = new XSSFWorkbook(fi);
         XSSFSheet ws = wb.getSheet(sheetName);
@@ -80,7 +80,7 @@ public class ExcelUtils {
         wb.close();
     }
 
-    public static void appendBikeDetail(String fileName, String sheetName, String bikeName, String price, String launchDate) throws IOException {
+    public synchronized static void appendBikeDetail(String fileName, String sheetName, String bikeName, String price, String launchDate) throws IOException {
         FileInputStream fi = new FileInputStream(fileName);
         XSSFWorkbook wb = new XSSFWorkbook(fi);
         XSSFSheet ws = wb.getSheet(sheetName);
@@ -103,7 +103,7 @@ public class ExcelUtils {
         wb.close();
     }
 
-    public static void appendUnder4LakhBike(String fileName, String sheetName, String bikeName, String price, String launchDate) throws IOException {
+    public synchronized static void appendUnder4LakhBike(String fileName, String sheetName, String bikeName, String price, String launchDate) throws IOException {
         FileInputStream fi = new FileInputStream(fileName);
         XSSFWorkbook wb = new XSSFWorkbook(fi);
         XSSFSheet ws = wb.getSheet(sheetName);

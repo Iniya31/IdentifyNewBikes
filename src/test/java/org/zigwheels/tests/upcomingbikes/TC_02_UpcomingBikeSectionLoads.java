@@ -1,4 +1,3 @@
-//changed
 package org.zigwheels.tests.upcomingbikes;
 
 import basetest.BaseTest;
@@ -11,11 +10,18 @@ public class TC_02_UpcomingBikeSectionLoads extends BaseTest {
 
     @Test
     public void verifyUpcomingBikeSectionLoads() {
-        Log.info("Upcoming Bikes Validation Started");
+
+        Log.info("TC_02 - Upcoming Bikes Validation Started");
         BikesPage bikesPage = new BikesPage(driver);
+        // Navigate to Upcoming Bikes page
         bikesPage.clickUpcomingBikes();
-        Log.info("Upcoming Bikes Menu Clicked Successfully");
-        Assert.assertTrue(driver.getCurrentUrl().contains("upcoming-bikes"));
-        Log.info("Upcoming Bikes Page Loaded Successfully");
+        try {
+            // Validate Upcoming Bikes page is loaded
+            Assert.assertTrue(driver.getCurrentUrl().contains("upcoming-bikes"), "Upcoming Bikes Page Not Loaded");
+            Log.info("TC_02 - Upcoming Bikes Validation Passed");
+        } catch (AssertionError e) {
+            Log.error("TC_02 - Upcoming Bikes Validation Failed");
+            throw e;
+        }
     }
 }

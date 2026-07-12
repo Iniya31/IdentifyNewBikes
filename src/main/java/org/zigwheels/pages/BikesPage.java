@@ -43,7 +43,6 @@ public class BikesPage {
     @FindBy(xpath = "//h2[contains(text(),'Popular Bikes in India')]/following-sibling::ul/li")
     private List<WebElement> popularBikeCards;
 
-
     @FindBy(id = "Scooters")
     private WebElement scootersOnlyFilter;
 
@@ -96,8 +95,8 @@ public class BikesPage {
         Actions actions = new Actions(driver);
         wait.until(ExpectedConditions.visibilityOf(newBikesMenu));
         actions.moveToElement(newBikesMenu).perform();
-        wait.until(ExpectedConditions.elementToBeClickable(upcomingBikesLink));
-        upcomingBikesLink.click();
+        WebElement upcomingBike = wait.until(ExpectedConditions.elementToBeClickable(upcomingBikesLink));
+        ((JavascriptExecutor) driver).executeScript("arguments[0].click();", upcomingBike);
     }
 
 
@@ -111,23 +110,39 @@ public class BikesPage {
 
     public void clickHondaBrand() {
 
-        wait.until(ExpectedConditions.visibilityOf(hondaBrand));
-        ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView({block:'center'});", hondaBrand);
-        Actions actions = new Actions(driver);
-        actions.moveToElement(hondaBrand).pause(Duration.ofSeconds(2)).click().perform();
+        wait.until(
+                ExpectedConditions.visibilityOf(hondaBrand));
+
+        ((JavascriptExecutor) driver)
+                .executeScript(
+                        "arguments[0].scrollIntoView(true);",
+                        hondaBrand);
+
+        ((JavascriptExecutor) driver)
+                .executeScript(
+                        "window.scrollBy(0,-200)");
+
+        ((JavascriptExecutor) driver)
+                .executeScript(
+                        "arguments[0].click();",
+                        hondaBrand);
     }
 
     public List<WebElement> getBikeNames() {
+        wait.until(ExpectedConditions.visibilityOfAllElements(bikeNames));
         return bikeNames;
     }
-
     public List<WebElement> getBikePrices() {
+        wait.until(ExpectedConditions.visibilityOfAllElements(bikePrices));
         return bikePrices;
     }
 
     public List<WebElement> getBikeLaunchDates() {
+
+        wait.until(ExpectedConditions.visibilityOfAllElements(bikeLaunchDates));
         return bikeLaunchDates;
     }
+
 
     public List<WebElement> getPopularBikeCards() {
         wait.until(ExpectedConditions.visibilityOfAllElements(popularBikeCards));
@@ -136,15 +151,15 @@ public class BikesPage {
 
 
     public void clickScootersOnly() {
+        wait.until(ExpectedConditions.visibilityOf(scootersOnlyFilter));
+        ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView({block:'center'});", scootersOnlyFilter);
         wait.until(ExpectedConditions.elementToBeClickable(scootersOnlyFilter));
-        scootersOnlyFilter.click();
+        ((JavascriptExecutor) driver).executeScript("arguments[0].click();", scootersOnlyFilter);
     }
-
 
     public List<WebElement> getScooterCards() {
         return scooterCards;
     }
-
 
     public void clickFirstAlertMeButton() {
         wait.until(ExpectedConditions.visibilityOf(firstAlertMeButton));

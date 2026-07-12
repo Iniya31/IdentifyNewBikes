@@ -1,4 +1,3 @@
-//changed
 package org.zigwheels.tests.upcomingbikes;
 
 import basetest.BaseTest;
@@ -13,29 +12,37 @@ public class TC_07_AlertMeButtonValidation extends BaseTest {
     @Test
     public void verifyAlertMeButton() {
 
-        Log.info("TC_07 Started - Alert Me Button Validation");
+        Log.info("TC_07 - Alert Me Button Validation Started");
+
         BikesPage bikesPage = new BikesPage(driver);
+
+        // Navigate to Honda Scooters section
         bikesPage.clickUpcomingBikes();
-        Log.info("Upcoming Bikes Menu Clicked Successfully");
         bikesPage.scrollToUpcomingBikesByBrand();
-        Log.info("Scrolled To Upcoming Bikes By Brand Section");
         bikesPage.clickHondaBrand();
-        Log.info("Honda Brand Clicked Successfully");
         bikesPage.clickScootersOnly();
-        Log.info("Scooters Only Filter Clicked Successfully");
+
+        // Open Alert Me popup
         bikesPage.clickFirstAlertMeButton();
-        Log.info("Alert Me Button Clicked Successfully");
+
+        // Enter user details
         bikesPage.enterPincode(ReadProperties.readProperty("user.pincode"));
-        Log.info("Pincode Entered Successfully");
         bikesPage.selectFirstPincodeSuggestion();
-        Log.info("Pincode Suggestion Selected Successfully");
         bikesPage.enterFullName(ReadProperties.readProperty("user.name"));
-        Log.info("Full Name Entered Successfully");
         bikesPage.enterMobileNumber(ReadProperties.readProperty("user.mobile"));
-        Log.info("Mobile Number Entered Successfully");
-        Assert.assertTrue(bikesPage.isOtpFieldDisplayed(), "OTP Field Not Displayed");
-        Log.info("OTP Field Displayed Successfully");
-        bikesPage.clickClosePopupButton();
-        Log.info("Popup Closed Successfully");
+
+        try {
+            // Validate OTP field is displayed
+            Assert.assertTrue(bikesPage.isOtpFieldDisplayed(), "OTP Field Not Displayed");
+            Log.info("TC_07 - Alert Me Button Validation Passed");
+
+        } catch (AssertionError e) {
+            Log.error("TC_07 - Alert Me Button Validation Failed");
+            throw e;
+
+        } finally {
+            // Close popup
+            bikesPage.clickClosePopupButton();
+        }
     }
 }

@@ -1,4 +1,3 @@
-//final
 package org.zigwheels.tests.googlelogin;
 
 import basetest.BaseTest;
@@ -11,15 +10,22 @@ public class TC_18_ValidEmailValidation extends BaseTest {
 
     @Test
     public void verifyValidEmailProceeds() {
-        Log.info("Valid Email Validation Started");
+
+        Log.info("TC_18 - Valid Email Validation Started");
 
         LoginPage loginPage = new LoginPage(driver);
+
+        // Open login popup and navigate to Google Sign-In
         loginPage.clickLoginRegister();
         loginPage.clickGoogleLoginAndSwitchWindow();
-        loginPage.enterEmailOrPhoneAndNext(ReadProperties.readProperty("google.email"));
 
+        // Enter valid email and proceed
+        loginPage.enterEmailOrPhoneAndNext(
+                ReadProperties.readProperty("google.email"));
+
+        // Close login window and return to home page
         loginPage.closeOAuthAndReturnHome();
 
-        Log.info("Valid Email Validation PASSED");
+        Log.info("TC_18 - Valid Email Validation Completed");
     }
 }

@@ -15,38 +15,39 @@ public class TC_13_PriceLowToHighSortingValidation extends BaseTest {
     @Test
     public void verifyPriceSorting() throws Exception {
 
-        Log.info("Price Low To High Filter Validation Started");
+        Log.info("TC_13 - Price Low To High Sorting Validation Started");
         CarsPage cp = new CarsPage(driver);
-        // TC_09 Methods
+        // Navigate to Used Cars page
         cp.hoverMoreMenu();
         cp.clickUsedCars();
-        Log.info("Used Cars Page Opened Successfully");
-        // TC_10 Method
+        // Select Chennai city and load all cars
         cp.selectChennaiCity();
-        Log.info("Chennai City Selected Successfully");
-        // TC_11 Methods
         cp.scrollToPopularModels();
         cp.selectAllPopularModels();
         cp.scrollTillAllCarsLoaded();
-        Log.info("Scrolled upto all the cards");
+        // Apply Price Low to High filter
         cp.scrollToTop();
         cp.selectPriceLowToHigh();
-        Assert.assertTrue(driver.getCurrentUrl().contains("fieldName=price"), "Price Filter Not Applied");
-        Log.info("Price Low To High Filter Applied Successfully");
+        try {
+            // Validate filter application
+            Assert.assertTrue(driver.getCurrentUrl().contains("fieldName=price"), "Price Filter Not Applied");
+            Log.info("TC_13 - Price Filter Applied Successfully");
+        } catch (AssertionError e) {
+            Log.error("TC_13 - Price Sorting Validation Failed");
+            throw e;
+        }
         Thread.sleep(3000);
+        // Fetch first 4 cars after sorting
         cp = new CarsPage(driver);
         List<WebElement> carNames = cp.getCarNames();
         List<WebElement> carPrices = cp.getCarPrices();
         int count = Math.min(4, Math.min(carNames.size(), carPrices.size()));
-        Log.info("===== First 4 Cars After Sorting =====");
+        Log.info("First 4 Cars After Sorting:");
         for (int i = 0; i < count; i++) {
             String carName = carNames.get(i).getText().trim();
             String price = carPrices.get(i).getText().trim();
-            Log.info("Car Name : " + carName);
-            Log.info("Price : " + price);
-            Log.info("=================================");
+            Log.info(carName + " - " + price);
         }
-
-        Log.info("Price Low To High Sorting Validation Passed");
+        Log.info("TC_13 - Price Low To High Sorting Validation Completed");
     }
 }

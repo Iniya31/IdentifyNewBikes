@@ -1,4 +1,3 @@
-//changed
 package utilities;
 
 import basetest.BaseTest;
@@ -12,9 +11,11 @@ import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 
 public class ExtentReportManager implements ITestListener {
+
     public ExtentSparkReporter sparkReporter;
     public ExtentReports extent;
-    public ExtentTest test;
+    private static ThreadLocal<ExtentTest> extentTest = new ThreadLocal<>();
+
     @Override
     public void onStart(ITestContext context) {
         sparkReporter = new ExtentSparkReporter(System.getProperty("user.dir") + "/reports/MyReport.html");
@@ -26,33 +27,37 @@ public class ExtentReportManager implements ITestListener {
         extent.setSystemInfo("Environment", "QA");
         extent.setSystemInfo("Project Name", "IdentifyBikes");
         extent.setSystemInfo("OS", "Windows 11");
-        extent.setSystemInfo("Browser Name", "Chrome");
+    }
+
+    @Override
+    public void onTestStart(ITestResult result) {
+        ExtentTest test = extent.createTest(result.getName());
+        extentTest.set(test);
     }
 
     @Override
     public void onTestSuccess(ITestResult result) {
-        test = extent.createTest(result.getName());
-        test.log(Status.PASS, "Test Case PASSED is : " + result.getName());
+        extentTest.get().log(Status.PASS, "Test Case PASSED is : " + result.getName());
     }
 
     @Override
     public void onTestFailure(ITestResult result) {
-        test = extent.createTest(result.getName());
-        test.log(Status.FAIL, "Test Case FAILED is : " + result.getName());
-        test.log(Status.FAIL, "Cause is : " + result.getThrowable());
+        extentTest.get().log(Status.FAIL, "Test Case FAILED is : " + result.getName());
+        extentTest.get().log(Status.FAIL, "Cause is : " + result.getThrowable());
+
         try {
-            String screenshotPath = Screenshot.takeScreenShot(BaseTest.driver, result.getName());
-            test.addScreenCaptureFromPath(screenshotPath);
+            BaseTest baseTest = (BaseTest) result.getInstance();
+            String screenshotPath = Screenshot.takeScreenShot(baseTest.getDriver(), result.getName());
+            extentTest.get().addScreenCaptureFromPath(screenshotPath);
 
         } catch (Exception e) {
-            test.log(Status.FAIL, "Screenshot Capture Failed");
+            extentTest.get().log(Status.FAIL, "Screenshot Capture Failed");
         }
     }
 
     @Override
     public void onTestSkipped(ITestResult result) {
-        test = extent.createTest(result.getName());
-        test.log(Status.SKIP, "Test Case SKIPPED is : " + result.getName());
+        extentTest.get().log(Status.SKIP, "Test Case SKIPPED is : " + result.getName());
     }
 
     @Override

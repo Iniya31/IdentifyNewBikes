@@ -1,4 +1,3 @@
-//changed
 package org.zigwheels.tests.usedcars;
 
 import org.testng.Assert;
@@ -12,17 +11,22 @@ public class TC_10_ChennaiCitySelectionValidation extends BaseTest {
 
     @Test
     public void verifyChennaiCitySelection() {
-        Log.info("Chennai City Selection Validation Started");
+
+        Log.info("TC_10 - Chennai City Selection Validation Started");
         CarsPage cp = new CarsPage(driver);
-        // TC_09 steps
+        // Navigate to Used Cars page
         cp.hoverMoreMenu();
         cp.clickUsedCars();
-        Log.info("Used Cars Page Opened Successfully");
-        // TC_10 step
+        // Select Chennai city
         cp.selectChennaiCity();
         String currentUrl = driver.getCurrentUrl();
-        Log.info("Current URL : " + currentUrl);
-        Assert.assertTrue(currentUrl.toLowerCase().contains("chennai"), "Chennai City Selection Failed");
-        Log.info("Chennai City Selected Successfully");
+        try {
+            // Validate Chennai city selection
+            Assert.assertTrue(currentUrl.toLowerCase().contains("chennai"), "Chennai City Selection Failed");
+            Log.info("TC_10 - Chennai City Selection Validation Passed");
+        } catch (AssertionError e) {
+            Log.error("TC_10 - Chennai City Selection Validation Failed");
+            throw e;
+        }
     }
 }

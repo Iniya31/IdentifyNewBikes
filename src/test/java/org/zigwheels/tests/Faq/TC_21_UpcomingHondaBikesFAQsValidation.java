@@ -1,4 +1,3 @@
-//changed
 package org.zigwheels.tests.Faq;
 
 import basetest.BaseTest;
@@ -15,33 +14,38 @@ public class TC_21_UpcomingHondaBikesFAQsValidation extends BaseTest {
     @Test
     public void verifyUpcomingHondaBikesFAQs() {
 
+        Log.info("TC_21 - Upcoming Honda Bikes FAQs Validation Started");
+
         BikesPage bikesPage = new BikesPage(driver);
+
+        // Navigate to Honda Upcoming Bikes FAQs section
         bikesPage.clickUpcomingBikes();
-        Log.info("Upcoming Bikes Menu Clicked Successfully");
         bikesPage.scrollToUpcomingBikesByBrand();
-        Log.info("Scrolled To Upcoming Bikes By Brand Section");
         bikesPage.clickHondaBrand();
-        Log.info("Honda Brand Clicked Successfully");
         bikesPage.scrollToUpcomingHondaBikesFAQs();
-        Log.info("Scrolled To Upcoming Honda Bikes FAQs Section");
+
+        // Fetch FAQ questions
         List<WebElement> faqQuestions = bikesPage.getFaqQuestions();
-        Assert.assertTrue(faqQuestions.size() > 0, "No FAQ Questions Found");
-        Log.info("Total FAQ Questions Found : " + faqQuestions.size());
+        try {
+            // Validate FAQ questions are available
+            Assert.assertTrue(faqQuestions.size() > 0, "No FAQ Questions Found");
+            Log.info("Total FAQ Questions Found: " + faqQuestions.size());
+        } catch (AssertionError e) {
+            Log.error("TC_21 - Upcoming Honda Bikes FAQs Validation Failed");
+            throw e;
+        }
+        // Print FAQ questions
         int faqCount = 0;
         for (WebElement question : faqQuestions) {
-            String faq = question.getText().trim();
+            String faq =question.getText().trim();
             if (faq.isEmpty()) {
                 continue;
             }
             faqCount++;
-            Log.info("FAQ " + faqCount + " : " + faq);
-            Log.info("=================================");
+            Log.info("FAQ " + faqCount + ": " + faq);
         }
-        Log.info("Total FAQ Questions Printed : " + faqCount);
-        Log.info("All FAQ Questions Printed Successfully");
-
+        Log.info("TC_21 - Upcoming Honda Bikes FAQs Validation Completed");
+        // Navigate back to home page
         bikesPage.clickZigWheelsLogo();
-
-        Log.info("ZigWheels Logo Clicked Successfully");
     }
 }

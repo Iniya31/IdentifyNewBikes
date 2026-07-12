@@ -301,3 +301,1882 @@ Alert Me When Launched
 08-07-2026 12:37:45 INFO  ZigWheels Logo Clicked Successfully
 08-07-2026 12:37:45 INFO  ============= Test Suite Execution Completed =============
 08-07-2026 12:37:53 INFO  Browser Closed Successfully
+08-07-2026 18:04:55 INFO  ============= Test Suite Started =============
+08-07-2026 18:04:55 INFO  ============= Test Suite Started =============
+08-07-2026 18:05:03 INFO  Browser Launched Successfully
+08-07-2026 18:05:03 INFO  Browser : chrome
+08-07-2026 18:05:03 INFO  Browser Launched Successfully
+08-07-2026 18:05:03 INFO  Browser : edge
+08-07-2026 18:05:10 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 18:05:10 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 18:05:10 INFO  ============= Test Suite Started =============
+08-07-2026 18:05:10 INFO  Upcoming Bikes Validation Started
+08-07-2026 18:05:11 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 18:05:11 INFO  Browser Closed Successfully
+08-07-2026 18:05:11 INFO  ============= Test Suite Started =============
+08-07-2026 18:05:23 INFO  Browser Launched Successfully
+08-07-2026 18:05:23 INFO  Browser : chrome
+08-07-2026 18:05:23 INFO  Honda Manufacturer Filter Validation Started
+08-07-2026 18:05:23 INFO  ============= Test Suite Started =============
+08-07-2026 18:05:23 INFO  Upcoming Bikes Validation Started
+08-07-2026 18:05:27 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 18:05:27 INFO  Scrolled To Upcoming Bikes By Brand Section
+08-07-2026 18:05:29 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 18:05:29 INFO  Upcoming Bikes Page Loaded Successfully
+08-07-2026 18:05:29 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 18:05:34 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 18:05:34 INFO  Browser Closed Successfully
+08-07-2026 18:05:34 INFO  ============= Test Suite Started =============
+08-07-2026 18:05:34 INFO  ============= Test Suite Started =============
+08-07-2026 18:05:40 INFO  Browser Launched Successfully
+08-07-2026 18:05:40 INFO  Browser : chrome
+08-07-2026 18:05:40 INFO  Under 4 Lakhs Bikes Validation Started
+08-07-2026 18:05:43 INFO  Browser Launched Successfully
+08-07-2026 18:05:43 INFO  Browser : edge
+08-07-2026 18:05:43 INFO  Honda Manufacturer Filter Validation Started
+08-07-2026 18:05:50 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 18:05:51 INFO  Scrolled To Upcoming Bikes By Brand Section
+08-07-2026 18:05:51 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 18:05:55 INFO  Honda Brand Clicked Successfully
+08-07-2026 18:05:59 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 18:05:59 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 18:06:09 INFO  ============= Test Suite Started =============
+08-07-2026 18:06:09 INFO  Popular Bikes Validation Started
+08-07-2026 18:06:09 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 18:06:09 INFO  Browser Closed Successfully
+08-07-2026 18:06:09 INFO  ============= Test Suite Started =============
+08-07-2026 18:06:13 INFO  Browser Closed Successfully
+08-07-2026 18:06:13 INFO  ============= Test Suite Started =============
+08-07-2026 18:06:19 INFO  Browser Launched Successfully
+08-07-2026 18:06:19 INFO  Browser : chrome
+08-07-2026 18:06:19 INFO  Scooters Only Validation Started
+08-07-2026 18:06:19 INFO  Browser Launched Successfully
+08-07-2026 18:06:19 INFO  Browser : edge
+08-07-2026 18:06:19 INFO  Under 4 Lakhs Bikes Validation Started
+08-07-2026 18:11:48 INFO  ============= Test Suite Started =============
+08-07-2026 18:11:59 INFO  ============= Test Suite Started =============
+08-07-2026 18:12:10 INFO  Browser Launched Successfully
+08-07-2026 18:12:10 INFO  Browser : chrome
+08-07-2026 18:12:10 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 18:12:14 INFO  Browser Closed Successfully
+08-07-2026 18:12:14 INFO  ============= Test Suite Started =============
+08-07-2026 18:12:22 INFO  Browser Launched Successfully
+08-07-2026 18:12:22 INFO  Browser : chrome
+08-07-2026 18:12:22 INFO  Upcoming Bikes Validation Started
+08-07-2026 18:12:25 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 18:12:25 INFO  Upcoming Bikes Page Loaded Successfully
+08-07-2026 18:12:25 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 18:12:31 INFO  Browser Closed Successfully
+08-07-2026 18:12:31 INFO  ============= Test Suite Started =============
+08-07-2026 18:12:39 INFO  Browser Launched Successfully
+08-07-2026 18:12:39 INFO  Browser : chrome
+08-07-2026 18:12:39 INFO  Honda Manufacturer Filter Validation Started
+08-07-2026 18:12:42 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 18:12:43 INFO  Scrolled To Upcoming Bikes By Brand Section
+08-07-2026 18:12:45 INFO  Honda Brand Clicked Successfully
+08-07-2026 18:12:46 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 18:12:52 INFO  Browser Closed Successfully
+08-07-2026 18:12:52 INFO  ============= Test Suite Started =============
+08-07-2026 18:13:01 INFO  Browser Launched Successfully
+08-07-2026 18:13:01 INFO  Browser : chrome
+08-07-2026 18:13:01 INFO  Under 4 Lakhs Bikes Validation Started
+08-07-2026 18:13:19 INFO  ============= Test Suite Started =============
+08-07-2026 18:13:29 INFO  Browser Launched Successfully
+08-07-2026 18:13:29 INFO  Browser : chrome
+08-07-2026 18:13:29 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 18:13:34 INFO  Browser Closed Successfully
+08-07-2026 18:13:34 INFO  ============= Test Suite Started =============
+08-07-2026 18:13:43 INFO  Browser Launched Successfully
+08-07-2026 18:13:43 INFO  Browser : chrome
+08-07-2026 18:13:43 INFO  Upcoming Bikes Validation Started
+08-07-2026 18:13:46 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 18:13:46 INFO  Upcoming Bikes Page Loaded Successfully
+08-07-2026 18:13:46 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 18:13:51 INFO  Browser Closed Successfully
+08-07-2026 18:13:51 INFO  ============= Test Suite Started =============
+08-07-2026 18:14:00 INFO  Browser Launched Successfully
+08-07-2026 18:14:00 INFO  Browser : chrome
+08-07-2026 18:14:00 INFO  Honda Manufacturer Filter Validation Started
+08-07-2026 18:14:02 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 18:14:03 INFO  Scrolled To Upcoming Bikes By Brand Section
+08-07-2026 18:14:06 INFO  Honda Brand Clicked Successfully
+08-07-2026 18:14:07 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 18:14:13 INFO  Browser Closed Successfully
+08-07-2026 18:14:13 INFO  ============= Test Suite Started =============
+08-07-2026 18:18:58 INFO  ============= Test Suite Started =============
+08-07-2026 18:19:13 INFO  Browser Launched Successfully
+08-07-2026 18:19:13 INFO  Browser : chrome
+08-07-2026 18:19:13 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 18:19:18 INFO  Browser Closed Successfully
+08-07-2026 18:19:18 INFO  ============= Test Suite Started =============
+08-07-2026 18:19:30 INFO  Browser Launched Successfully
+08-07-2026 18:19:30 INFO  Browser : chrome
+08-07-2026 18:19:30 INFO  Upcoming Bikes Validation Started
+08-07-2026 18:19:34 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 18:19:34 INFO  Upcoming Bikes Page Loaded Successfully
+08-07-2026 18:19:34 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 18:19:42 INFO  Browser Closed Successfully
+08-07-2026 18:19:42 INFO  ============= Test Suite Started =============
+08-07-2026 18:19:52 INFO  Browser Launched Successfully
+08-07-2026 18:19:52 INFO  Browser : chrome
+08-07-2026 18:19:52 INFO  Honda Manufacturer Filter Validation Started
+08-07-2026 18:19:56 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 18:19:56 INFO  Scrolled To Upcoming Bikes By Brand Section
+08-07-2026 18:19:59 INFO  Honda Brand Clicked Successfully
+08-07-2026 18:20:15 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 18:21:55 INFO  ============= Test Suite Started =============
+08-07-2026 18:22:04 INFO  Browser Launched Successfully
+08-07-2026 18:22:04 INFO  Browser : chrome
+08-07-2026 18:22:04 INFO  Honda Manufacturer Filter Validation Started
+08-07-2026 18:22:11 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 18:22:11 INFO  Scrolled To Upcoming Bikes By Brand Section
+08-07-2026 18:22:15 INFO  Honda Brand Clicked Successfully
+08-07-2026 18:22:23 INFO  Honda Bike Details Written To Excel Successfully
+08-07-2026 18:22:23 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 18:22:28 INFO  Browser Closed Successfully
+08-07-2026 18:24:33 INFO  ============= Test Suite Started =============
+08-07-2026 18:24:43 INFO  Browser Launched Successfully
+08-07-2026 18:24:43 INFO  Browser : chrome
+08-07-2026 18:24:43 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 18:24:47 INFO  Browser Closed Successfully
+08-07-2026 18:24:47 INFO  ============= Test Suite Started =============
+08-07-2026 18:24:56 INFO  Browser Launched Successfully
+08-07-2026 18:24:56 INFO  Browser : chrome
+08-07-2026 18:24:56 INFO  Upcoming Bikes Validation Started
+08-07-2026 18:24:59 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 18:24:59 INFO  Upcoming Bikes Page Loaded Successfully
+08-07-2026 18:24:59 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 18:25:04 INFO  Browser Closed Successfully
+08-07-2026 18:25:04 INFO  ============= Test Suite Started =============
+08-07-2026 18:25:12 INFO  Browser Launched Successfully
+08-07-2026 18:25:12 INFO  Browser : chrome
+08-07-2026 18:25:12 INFO  Honda Manufacturer Filter Validation Started
+08-07-2026 18:25:15 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 18:25:15 INFO  Scrolled To Upcoming Bikes By Brand Section
+08-07-2026 18:25:19 INFO  Honda Brand Clicked Successfully
+08-07-2026 18:25:27 INFO  Honda Bike Details Written To Excel Successfully
+08-07-2026 18:25:27 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 18:25:33 INFO  Browser Closed Successfully
+08-07-2026 18:25:33 INFO  ============= Test Suite Started =============
+08-07-2026 18:25:42 INFO  Browser Launched Successfully
+08-07-2026 18:25:42 INFO  Browser : chrome
+08-07-2026 18:25:42 INFO  Under 4 Lakhs Bikes Validation Started
+08-07-2026 23:37:31 INFO  ============= Test Suite Started =============
+08-07-2026 23:37:40 INFO  Browser Launched Successfully
+08-07-2026 23:37:40 INFO  Browser : chrome
+08-07-2026 23:37:40 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 23:37:43 INFO  Browser Closed Successfully
+08-07-2026 23:37:43 INFO  ============= Test Suite Started =============
+08-07-2026 23:37:52 INFO  Browser Launched Successfully
+08-07-2026 23:37:52 INFO  Browser : chrome
+08-07-2026 23:37:52 INFO  Upcoming Bikes Validation Started
+08-07-2026 23:37:54 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 23:37:54 INFO  Upcoming Bikes Page Loaded Successfully
+08-07-2026 23:37:54 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 23:37:58 INFO  Browser Closed Successfully
+08-07-2026 23:37:58 INFO  ============= Test Suite Started =============
+08-07-2026 23:38:04 INFO  Browser Launched Successfully
+08-07-2026 23:38:04 INFO  Browser : chrome
+08-07-2026 23:38:04 INFO  Honda Manufacturer Filter Validation Started
+08-07-2026 23:38:07 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 23:38:07 INFO  Scrolled To Upcoming Bikes By Brand Section
+08-07-2026 23:38:10 INFO  Honda Brand Clicked Successfully
+08-07-2026 23:38:14 INFO  Honda Bike Details Written To Excel Successfully
+08-07-2026 23:38:14 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 23:38:19 INFO  Browser Closed Successfully
+08-07-2026 23:38:19 INFO  ============= Test Suite Started =============
+08-07-2026 23:38:25 INFO  Browser Launched Successfully
+08-07-2026 23:38:25 INFO  Browser : chrome
+08-07-2026 23:38:25 INFO  Under 4 Lakhs Bikes Validation Started
+08-07-2026 23:38:28 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 23:38:33 INFO  Honda Bike Details Written To Excel Successfully
+08-07-2026 23:38:39 INFO  Under 4 Lakhs Bikes Written To Excel Successfully
+08-07-2026 23:38:39 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 23:38:44 INFO  Browser Closed Successfully
+08-07-2026 23:38:44 INFO  ============= Test Suite Started =============
+08-07-2026 23:38:50 INFO  Browser Launched Successfully
+08-07-2026 23:38:50 INFO  Browser : chrome
+08-07-2026 23:38:50 INFO  Popular Bikes Validation Started
+08-07-2026 23:38:53 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 23:38:53 INFO  Bike Name : Hero Splendor Plus
+08-07-2026 23:38:53 INFO  Price : Rs. 77,557
+08-07-2026 23:38:53 INFO  =================================
+08-07-2026 23:38:53 INFO  Bike Name : Royal Enfield Classic 350
+08-07-2026 23:38:53 INFO  Price : Rs. 1.87 Lakh
+08-07-2026 23:38:53 INFO  =================================
+08-07-2026 23:38:54 INFO  Bike Name : Yamaha R15 V4
+08-07-2026 23:38:54 INFO  Price : Rs. 1.71 Lakh
+08-07-2026 23:38:54 INFO  =================================
+08-07-2026 23:38:54 INFO  Bike Name : TVS Raider
+08-07-2026 23:38:54 INFO  Price : Rs. 82,860
+08-07-2026 23:38:54 INFO  =================================
+08-07-2026 23:38:54 INFO  Bike Name : Royal Enfield Bullet 350
+08-07-2026 23:38:54 INFO  Price : Rs. 1.66 Lakh
+08-07-2026 23:38:54 INFO  =================================
+08-07-2026 23:38:54 INFO  Popular Bikes Printed Successfully
+08-07-2026 23:38:54 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 23:38:57 INFO  Browser Closed Successfully
+08-07-2026 23:38:57 INFO  ============= Test Suite Started =============
+08-07-2026 23:39:03 INFO  Browser Launched Successfully
+08-07-2026 23:39:03 INFO  Browser : chrome
+08-07-2026 23:39:03 INFO  Scooters Only Validation Started
+08-07-2026 23:39:06 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 23:39:06 INFO  Scrolled To Upcoming Bikes By Brand Section
+08-07-2026 23:39:09 INFO  Honda Brand Clicked Successfully
+08-07-2026 23:39:09 INFO  Scooters Only Filter Clicked Successfully
+08-07-2026 23:39:09 INFO  Honda ADV 160
+Rs. 1.55 Lakh
+Expected Launch : Dec 2026
+Alert Me When Launched
+08-07-2026 23:39:09 INFO  ================================
+08-07-2026 23:39:09 INFO  Honda Forza 350
+Rs. 3.70 Lakh
+Expected Launch : Unrevealed
+Alert Me When Launched
+08-07-2026 23:39:09 INFO  ================================
+08-07-2026 23:39:09 INFO  Honda PCX160
+Rs. 1.20 Lakh
+Expected Launch : Unrevealed
+Alert Me When Launched
+08-07-2026 23:39:09 INFO  ================================
+08-07-2026 23:39:09 INFO  Honda Motocompacto
+Price To Be Announced
+Expected Launch : Unrevealed
+Alert Me When Launched
+08-07-2026 23:39:09 INFO  ================================
+08-07-2026 23:39:10 INFO  Honda Activa 7G
+Rs. 79,000
+Expected Launch : Unrevealed
+Alert Me When Launched
+08-07-2026 23:39:10 INFO  ================================
+08-07-2026 23:39:10 INFO  Honda SH125i
+Price To Be Announced
+Expected Launch : Unrevealed
+Alert Me When Launched
+08-07-2026 23:39:10 INFO  ================================
+08-07-2026 23:39:10 INFO  Scooters Details Printed Successfully
+08-07-2026 23:39:10 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 23:39:14 INFO  Browser Closed Successfully
+08-07-2026 23:39:14 INFO  ============= Test Suite Started =============
+08-07-2026 23:39:20 INFO  Browser Launched Successfully
+08-07-2026 23:39:20 INFO  Browser : chrome
+08-07-2026 23:39:20 INFO  TC_07 Started - Alert Me Button Validation
+08-07-2026 23:39:22 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 23:39:23 INFO  Scrolled To Upcoming Bikes By Brand Section
+08-07-2026 23:39:25 INFO  Honda Brand Clicked Successfully
+08-07-2026 23:39:26 INFO  Scooters Only Filter Clicked Successfully
+08-07-2026 23:39:26 INFO  Alert Me Button Clicked Successfully
+08-07-2026 23:39:27 INFO  Pincode Entered Successfully
+08-07-2026 23:39:28 INFO  Pincode Suggestion Selected Successfully
+08-07-2026 23:39:28 INFO  Full Name Entered Successfully
+08-07-2026 23:39:28 INFO  Mobile Number Entered Successfully
+08-07-2026 23:39:29 INFO  OTP Field Displayed Successfully
+08-07-2026 23:39:29 INFO  Popup Closed Successfully
+08-07-2026 23:39:29 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 23:39:33 INFO  Browser Closed Successfully
+08-07-2026 23:39:33 INFO  ============= Test Suite Started =============
+08-07-2026 23:39:40 INFO  Browser Launched Successfully
+08-07-2026 23:39:40 INFO  Browser : chrome
+08-07-2026 23:39:46 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 23:39:46 INFO  Scrolled To Upcoming Bikes By Body Type Section
+08-07-2026 23:39:46 INFO  Total Body Types Found : 4
+08-07-2026 23:39:46 INFO  Body Type 1 : Cruiser
+08-07-2026 23:39:46 INFO  ==============================
+08-07-2026 23:39:46 INFO  Body Type 2 : Commuter
+08-07-2026 23:39:46 INFO  ==============================
+08-07-2026 23:39:46 INFO  Body Type 3 : Scooters
+08-07-2026 23:39:46 INFO  ==============================
+08-07-2026 23:39:46 INFO  Body Type 4 : Sports
+08-07-2026 23:39:46 INFO  ==============================
+08-07-2026 23:39:46 INFO  Total Body Types Printed : 4
+08-07-2026 23:39:46 INFO  Upcoming Bikes By Body Type Printed Successfully
+08-07-2026 23:39:46 INFO  TC_08 Completed Successfully
+08-07-2026 23:39:46 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 23:39:50 INFO  Browser Closed Successfully
+08-07-2026 23:39:50 INFO  ============= Test Suite Started =============
+08-07-2026 23:39:59 INFO  Browser Launched Successfully
+08-07-2026 23:39:59 INFO  Browser : chrome
+08-07-2026 23:39:59 INFO  Used Cars Validation Started
+08-07-2026 23:40:03 INFO  Current URL : https://www.zigwheels.com/used-car
+08-07-2026 23:40:03 INFO  Used Cars Section Loaded Successfully
+08-07-2026 23:40:03 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 23:40:07 INFO  Browser Closed Successfully
+08-07-2026 23:40:07 INFO  ============= Test Suite Started =============
+08-07-2026 23:40:13 INFO  Browser Launched Successfully
+08-07-2026 23:40:13 INFO  Browser : chrome
+08-07-2026 23:40:13 INFO  Chennai City Selection Validation Started
+08-07-2026 23:40:16 INFO  Used Cars Page Opened Successfully
+08-07-2026 23:40:17 INFO  Current URL : https://www.zigwheels.com/used-car/Chennai
+08-07-2026 23:40:17 INFO  Chennai City Selected Successfully
+08-07-2026 23:40:17 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 23:40:21 INFO  Browser Closed Successfully
+08-07-2026 23:40:21 INFO  ============= Test Suite Started =============
+08-07-2026 23:40:27 INFO  Browser Launched Successfully
+08-07-2026 23:40:27 INFO  Browser : chrome
+08-07-2026 23:40:27 INFO  Popular Models Validation Started
+08-07-2026 23:40:31 INFO  Used Cars Page Opened Successfully
+08-07-2026 23:40:31 INFO  Chennai City Selected Successfully
+08-07-2026 23:41:12 INFO  Car Details Written To Excel Successfully
+08-07-2026 23:41:12 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 23:41:17 INFO  Browser Closed Successfully
+08-07-2026 23:41:17 INFO  ============= Test Suite Started =============
+08-07-2026 23:41:27 INFO  Browser Launched Successfully
+08-07-2026 23:41:27 INFO  Browser : chrome
+08-07-2026 23:41:27 INFO  Under 3 Lakh Cars Validation Started
+08-07-2026 23:41:30 INFO  Used Cars Page Opened Successfully
+08-07-2026 23:41:31 INFO  Chennai City Selected Successfully
+08-07-2026 23:42:38 INFO  Car Details Written To Excel Successfully
+08-07-2026 23:42:39 INFO  Under 3 Lakh Car : Hyundai i10 Sportz
+08-07-2026 23:42:40 INFO  Under 3 Lakh Car : Hyundai i10 Sportz AT
+08-07-2026 23:42:41 INFO  Under 3 Lakh Car : Hyundai i10 Magna 1.2
+08-07-2026 23:42:41 INFO  Under 3 Lakh Car : Hyundai i10 Asta
+08-07-2026 23:42:41 INFO  Under 3 Lakh Car : Hyundai i10 Sportz
+08-07-2026 23:42:41 INFO  Under 3 Lakh Car : Honda City 1.5 EXI S
+08-07-2026 23:42:41 INFO  Under 3 Lakh Car : Honda City 1.5 GXI
+08-07-2026 23:42:42 INFO  Under 3 Lakh Car : Hyundai i10 Sportz
+08-07-2026 23:42:42 INFO  Under 3 Lakh Car : Maruti Swift LDI
+08-07-2026 23:42:43 INFO  Under 3 Lakh Car : Honda City 1.5 V AT
+08-07-2026 23:42:43 INFO  Under 3 Lakh Car : Hyundai Santro Xing XO eRLX Euro II
+08-07-2026 23:42:43 INFO  Under 3 Lakh Car : Hyundai i10 Sportz 1.2 AT
+08-07-2026 23:42:43 INFO  Under 3 Lakh Car : Hyundai i10 Magna
+08-07-2026 23:42:46 INFO  Under 3 Lakh Car : Hyundai i10 Sportz
+08-07-2026 23:42:47 INFO  Under 3 Lakh Car : Hyundai i10 Sportz AT
+08-07-2026 23:42:48 INFO  Under 3 Lakh Car : Hyundai i10 Magna 1.2
+08-07-2026 23:42:48 INFO  Under 3 Lakh Car : Hyundai i10 Asta
+08-07-2026 23:42:49 INFO  Under 3 Lakh Car : Hyundai i10 Sportz
+08-07-2026 23:42:49 INFO  Under 3 Lakh Car : Honda City 1.5 EXI S
+08-07-2026 23:42:49 INFO  Under 3 Lakh Car : Honda City 1.5 GXI
+08-07-2026 23:42:49 INFO  Under 3 Lakh Car : Hyundai i10 Sportz
+08-07-2026 23:42:49 INFO  Under 3 Lakh Car : Maruti Swift LDI
+08-07-2026 23:42:50 INFO  Under 3 Lakh Car : Honda City 1.5 V AT
+08-07-2026 23:42:50 INFO  Under 3 Lakh Car : Hyundai Santro Xing XO eRLX Euro II
+08-07-2026 23:42:50 INFO  Under 3 Lakh Car : Hyundai i10 Sportz 1.2 AT
+08-07-2026 23:42:51 INFO  Under 3 Lakh Car : Hyundai i10 Magna
+08-07-2026 23:42:51 INFO  Under3LakhCars Sheet Created Successfully
+08-07-2026 23:42:51 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 23:42:56 INFO  Browser Closed Successfully
+08-07-2026 23:42:56 INFO  ============= Test Suite Started =============
+08-07-2026 23:43:00 INFO  Browser Launched Successfully
+08-07-2026 23:43:00 INFO  Browser : chrome
+08-07-2026 23:43:00 INFO  Price Low To High Filter Validation Started
+08-07-2026 23:43:04 INFO  Used Cars Page Opened Successfully
+08-07-2026 23:43:05 INFO  Chennai City Selected Successfully
+08-07-2026 23:43:49 INFO  Scrolled upto all the cards
+08-07-2026 23:43:49 INFO  Price Low To High Filter Applied Successfully
+08-07-2026 23:43:52 INFO  ===== First 4 Cars After Sorting =====
+08-07-2026 23:43:52 INFO  Car Name : Honda City 1.5 GXI
+08-07-2026 23:43:52 INFO  Price : Rs. 1.60 Lakh
+08-07-2026 23:43:52 INFO  =================================
+08-07-2026 23:43:52 INFO  Car Name : Hyundai Santro Xing XO eRLX Euro II
+08-07-2026 23:43:52 INFO  Price : Rs. 1.85 Lakh
+08-07-2026 23:43:52 INFO  =================================
+08-07-2026 23:43:52 INFO  Car Name : Hyundai i10 Magna
+08-07-2026 23:43:52 INFO  Price : Rs. 1.85 Lakh
+08-07-2026 23:43:52 INFO  =================================
+08-07-2026 23:43:52 INFO  Car Name : Hyundai i10 Sportz
+08-07-2026 23:43:52 INFO  Price : Rs. 2.10 Lakh
+08-07-2026 23:43:52 INFO  =================================
+08-07-2026 23:43:52 INFO  Price Low To High Sorting Validation Passed
+08-07-2026 23:43:52 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 23:43:57 INFO  Browser Closed Successfully
+08-07-2026 23:43:57 INFO  ============= Test Suite Started =============
+08-07-2026 23:44:04 INFO  Browser Launched Successfully
+08-07-2026 23:44:04 INFO  Browser : chrome
+08-07-2026 23:44:04 INFO  KM Driven Filter Validation Started
+08-07-2026 23:44:07 INFO  Used Cars Page Opened Successfully
+08-07-2026 23:44:08 INFO  Chennai City Selected Successfully
+08-07-2026 23:44:53 INFO  Scrolled upto all the cards
+08-07-2026 23:44:53 INFO  Price Low To High Filter Applied
+08-07-2026 23:44:54 INFO  Less Than 5K Filter Applied Successfully
+08-07-2026 23:44:54 INFO  KM Driven Filter Validation Passed
+08-07-2026 23:44:55 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 23:45:00 INFO  Browser Closed Successfully
+08-07-2026 23:45:00 INFO  ============= Test Suite Started =============
+08-07-2026 23:45:04 INFO  Browser Launched Successfully
+08-07-2026 23:45:04 INFO  Browser : chrome
+08-07-2026 23:45:04 INFO  Validating Google Login Button
+08-07-2026 23:45:05 INFO  Google Login Button validation PASSED
+08-07-2026 23:45:05 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 23:45:09 INFO  Browser Closed Successfully
+08-07-2026 23:45:09 INFO  ============= Test Suite Started =============
+08-07-2026 23:45:15 INFO  Browser Launched Successfully
+08-07-2026 23:45:15 INFO  Browser : chrome
+08-07-2026 23:45:15 INFO  Invalid Email Validation Started
+08-07-2026 23:45:20 INFO  Captured Error Message: Enter a valid email or phone number
+08-07-2026 23:45:20 INFO  Invalid Email Validation PASSED
+08-07-2026 23:45:21 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 23:45:26 INFO  Browser Closed Successfully
+08-07-2026 23:45:26 INFO  ============= Test Suite Started =============
+08-07-2026 23:45:32 INFO  Browser Launched Successfully
+08-07-2026 23:45:32 INFO  Browser : chrome
+08-07-2026 23:45:32 INFO  Invalid Phone Number Validation Started
+08-07-2026 23:45:45 INFO  Captured Error Message: Enter a valid email or phone number
+08-07-2026 23:45:45 INFO  Invalid Phone Number Validation PASSED
+08-07-2026 23:45:46 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 23:45:51 INFO  Browser Closed Successfully
+08-07-2026 23:45:51 INFO  ============= Test Suite Started =============
+08-07-2026 23:45:56 INFO  Browser Launched Successfully
+08-07-2026 23:45:56 INFO  Browser : chrome
+08-07-2026 23:45:56 INFO  Valid Email Validation Started
+08-07-2026 23:46:01 INFO  Valid Email Validation PASSED
+08-07-2026 23:46:01 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 23:46:05 INFO  Browser Closed Successfully
+08-07-2026 23:46:05 INFO  ============= Test Suite Started =============
+08-07-2026 23:46:12 INFO  Browser Launched Successfully
+08-07-2026 23:46:12 INFO  Browser : chrome
+08-07-2026 23:46:12 INFO  Invalid Password Validation Started
+08-07-2026 23:46:29 INFO  Captured Error Message: Wrong password. Try again or click "Try another way" for more options.
+08-07-2026 23:46:29 INFO  Invalid Password Validation PASSED
+08-07-2026 23:46:30 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 23:46:35 INFO  Browser Closed Successfully
+08-07-2026 23:46:35 INFO  ============= Test Suite Started =============
+08-07-2026 23:46:41 INFO  Browser Launched Successfully
+08-07-2026 23:46:41 INFO  Browser : chrome
+08-07-2026 23:46:41 INFO  Valid Password Validation Started
+08-07-2026 23:46:48 INFO  Valid Password Validation PASSED
+08-07-2026 23:46:49 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 23:46:54 INFO  Browser Closed Successfully
+08-07-2026 23:46:54 INFO  ============= Test Suite Started =============
+08-07-2026 23:47:01 INFO  Browser Launched Successfully
+08-07-2026 23:47:01 INFO  Browser : chrome
+08-07-2026 23:47:04 INFO  Upcoming Bikes Menu Clicked Successfully
+08-07-2026 23:47:04 INFO  Scrolled To Upcoming Bikes By Brand Section
+08-07-2026 23:47:07 INFO  Honda Brand Clicked Successfully
+08-07-2026 23:47:08 INFO  Scrolled To Upcoming Honda Bikes FAQs Section
+08-07-2026 23:47:08 INFO  Total FAQ Questions Found : 6
+08-07-2026 23:47:08 INFO  FAQ 1 : What are the upcoming honda bikes in India 2026?
+08-07-2026 23:47:08 INFO  =================================
+08-07-2026 23:47:08 INFO  FAQ 2 : What are the upcoming honda commuter bikes in India?
+08-07-2026 23:47:08 INFO  =================================
+08-07-2026 23:47:08 INFO  FAQ 3 : What are the upcoming honda scooters in India?
+08-07-2026 23:47:08 INFO  =================================
+08-07-2026 23:47:08 INFO  FAQ 4 : What are the upcoming honda sports bikes in India?
+08-07-2026 23:47:08 INFO  =================================
+08-07-2026 23:47:08 INFO  FAQ 5 : What are the upcoming honda cruiser bikes in India?
+08-07-2026 23:47:08 INFO  =================================
+08-07-2026 23:47:08 INFO  FAQ 6 : What are the upcoming honda bikes under 1 lakh?
+08-07-2026 23:47:08 INFO  =================================
+08-07-2026 23:47:08 INFO  Total FAQ Questions Printed : 6
+08-07-2026 23:47:08 INFO  All FAQ Questions Printed Successfully
+08-07-2026 23:47:10 INFO  ZigWheels Logo Clicked Successfully
+08-07-2026 23:47:10 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 23:47:15 INFO  Browser Closed Successfully
+08-07-2026 23:48:04 INFO  ============= Test Suite Started =============
+08-07-2026 23:48:11 INFO  Browser Launched Successfully
+08-07-2026 23:48:11 INFO  Browser : chrome
+08-07-2026 23:48:11 INFO  KM Driven Filter Validation Started
+08-07-2026 23:48:14 INFO  Used Cars Page Opened Successfully
+08-07-2026 23:48:15 INFO  Chennai City Selected Successfully
+08-07-2026 23:49:06 INFO  Scrolled upto all the cards
+08-07-2026 23:49:06 INFO  Price Low To High Filter Applied
+08-07-2026 23:49:07 INFO  Less Than 5K Filter Applied Successfully
+08-07-2026 23:49:07 INFO  KM Driven Filter Validation Passed
+08-07-2026 23:49:10 INFO  ZigWheels Logo Clicked Successfully
+08-07-2026 23:49:10 INFO  ============= Test Suite Execution Completed =============
+08-07-2026 23:49:16 INFO  Browser Closed Successfully
+09-07-2026 14:37:33 INFO  ============= Test Suite Started =============
+09-07-2026 14:37:40 INFO  ============= Test Suite Execution Completed =============
+09-07-2026 14:38:20 INFO  ============= Test Suite Started =============
+09-07-2026 14:38:38 INFO  Browser Launched Successfully
+09-07-2026 14:38:38 INFO  Browser : chrome
+09-07-2026 14:38:38 INFO  KM Driven Filter Validation Started
+09-07-2026 14:38:44 INFO  Used Cars Page Opened Successfully
+09-07-2026 14:38:45 INFO  Chennai City Selected Successfully
+09-07-2026 14:39:07 INFO  Scrolled upto all the cards
+09-07-2026 14:39:09 INFO  Price Low To High Filter Applied
+09-07-2026 14:39:10 INFO  Less Than 5K Filter Applied Successfully
+09-07-2026 14:39:10 INFO  KM Driven Filter Validation Passed
+09-07-2026 14:39:12 INFO  ZigWheels Logo Clicked Successfully
+09-07-2026 14:39:12 INFO  ============= Test Suite Execution Completed =============
+11-07-2026 14:34:43 INFO  ============= Test Suite Started =============
+11-07-2026 14:34:43 INFO  ============= Test Suite Started =============
+11-07-2026 14:34:43 INFO  ============= Test Suite Started =============
+11-07-2026 14:34:43 INFO  ============= Test Suite Started =============
+11-07-2026 14:34:43 INFO  ============= Test Suite Started =============
+11-07-2026 14:35:23 INFO  ============= Test Suite Started =============
+11-07-2026 14:35:23 INFO  ============= Test Suite Started =============
+11-07-2026 14:35:23 INFO  ============= Test Suite Started =============
+11-07-2026 14:35:23 INFO  ============= Test Suite Started =============
+11-07-2026 14:35:23 INFO  ============= Test Suite Started =============
+11-07-2026 14:35:45 INFO  Browser Launched Successfully
+11-07-2026 14:35:45 INFO  Browser : chrome
+11-07-2026 14:35:45 INFO  Popular Bikes Validation Started
+11-07-2026 14:35:47 INFO  Browser Launched Successfully
+11-07-2026 14:35:47 INFO  Browser : chrome
+11-07-2026 14:35:47 INFO  Browser Launched Successfully
+11-07-2026 14:35:47 INFO  Browser : chrome
+11-07-2026 14:35:47 INFO  Honda Manufacturer Filter Validation Started
+11-07-2026 14:37:49 INFO  ============= Test Suite Execution Completed =============
+11-07-2026 14:37:49 INFO  Browser Launched Successfully
+11-07-2026 14:37:49 INFO  Browser Launched Successfully
+11-07-2026 14:37:49 INFO  Browser : chrome
+11-07-2026 14:37:49 INFO  Browser : chrome
+11-07-2026 14:37:49 INFO  Under 4 Lakhs Bikes Validation Started
+11-07-2026 14:37:49 INFO  Upcoming Bikes Validation Started
+11-07-2026 14:38:11 INFO  Upcoming Bikes Menu Clicked Successfully
+11-07-2026 14:38:14 INFO  Upcoming Bikes Menu Clicked Successfully
+11-07-2026 14:38:15 INFO  Bike Name : Hero Splendor Plus
+11-07-2026 14:38:15 INFO  Price : Rs. 77,557
+11-07-2026 14:38:15 INFO  =================================
+11-07-2026 14:38:15 INFO  Bike Name : Yamaha R15 V4
+11-07-2026 14:38:15 INFO  Price : Rs. 1.73 Lakh
+11-07-2026 14:38:15 INFO  =================================
+11-07-2026 14:38:15 INFO  Bike Name : Royal Enfield Classic 350
+11-07-2026 14:38:15 INFO  Price : Rs. 1.87 Lakh
+11-07-2026 14:38:15 INFO  =================================
+11-07-2026 14:38:15 INFO  Bike Name : TVS Raider
+11-07-2026 14:38:15 INFO  Price : Rs. 82,860
+11-07-2026 14:38:15 INFO  =================================
+11-07-2026 14:38:15 INFO  Bike Name : Royal Enfield Bullet 350
+11-07-2026 14:38:15 INFO  Price : Rs. 1.66 Lakh
+11-07-2026 14:38:15 INFO  =================================
+11-07-2026 14:38:15 INFO  Popular Bikes Printed Successfully
+11-07-2026 14:38:15 INFO  ============= Test Suite Execution Completed =============
+11-07-2026 14:38:17 INFO  Upcoming Bikes Menu Clicked Successfully
+11-07-2026 14:38:18 INFO  ============= Test Suite Execution Completed =============
+11-07-2026 14:38:19 INFO  Browser Closed Successfully
+11-07-2026 14:38:19 INFO  ============= Test Suite Started =============
+11-07-2026 14:38:23 INFO  ============= Test Suite Started =============
+11-07-2026 14:38:24 INFO  ============= Test Suite Execution Completed =============
+11-07-2026 14:38:24 INFO  ============= Test Suite Execution Completed =============
+11-07-2026 14:38:24 INFO  ============= Test Suite Started =============
+11-07-2026 14:38:24 INFO  ============= Test Suite Started =============
+11-07-2026 14:38:24 INFO  Browser Closed Successfully
+11-07-2026 14:38:24 INFO  ============= Test Suite Started =============
+11-07-2026 14:38:36 INFO  Browser Launched Successfully
+11-07-2026 14:38:36 INFO  Browser : chrome
+11-07-2026 14:38:36 INFO  Chennai City Selection Validation Started
+11-07-2026 14:38:42 INFO  Browser Launched Successfully
+11-07-2026 14:38:42 INFO  Browser : chrome
+11-07-2026 14:38:42 INFO  Browser Launched Successfully
+11-07-2026 14:38:42 INFO  Browser : chrome
+11-07-2026 14:38:42 INFO  Used Cars Validation Started
+11-07-2026 22:12:13 INFO  ============= Test Suite Started =============
+11-07-2026 22:12:28 INFO  Browser Launched Successfully
+11-07-2026 22:12:28 INFO  Browser : chrome
+11-07-2026 22:12:28 INFO  TC_01 - Title Validation Started
+11-07-2026 22:12:28 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+11-07-2026 22:12:28 INFO  TC_01 - Title Validation Passed
+11-07-2026 22:12:28 INFO  ============= Test Suite Execution Completed =============
+11-07-2026 22:12:32 INFO  Browser Closed Successfully
+11-07-2026 22:12:32 INFO  ============= Test Suite Started =============
+11-07-2026 22:12:40 INFO  Browser Launched Successfully
+11-07-2026 22:12:40 INFO  Browser : chrome
+11-07-2026 22:12:40 INFO  TC_02 - Upcoming Bikes Validation Started
+11-07-2026 22:12:43 INFO  TC_02 - Upcoming Bikes Validation Passed
+11-07-2026 22:12:43 INFO  ============= Test Suite Execution Completed =============
+11-07-2026 22:12:47 INFO  Browser Closed Successfully
+11-07-2026 22:12:47 INFO  ============= Test Suite Started =============
+11-07-2026 22:12:56 INFO  Browser Launched Successfully
+11-07-2026 22:12:56 INFO  Browser : chrome
+11-07-2026 22:12:56 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+11-07-2026 22:13:04 INFO  TC_03 - Honda Bikes Retrieved Successfully
+11-07-2026 22:13:11 INFO  TC_03 - Honda Bike Details Written To Excel
+11-07-2026 22:13:11 INFO  ============= Test Suite Execution Completed =============
+11-07-2026 22:13:17 INFO  Browser Closed Successfully
+11-07-2026 22:13:17 INFO  ============= Test Suite Started =============
+11-07-2026 22:13:25 INFO  Browser Launched Successfully
+11-07-2026 22:13:25 INFO  Browser : chrome
+11-07-2026 22:13:25 INFO  TC_04 - Under 4 Lakhs Bikes Validation Started
+11-07-2026 22:13:33 INFO  TC_04 - Honda Bike Details Retrieved Successfully
+11-07-2026 22:13:38 INFO  Honda Bike Details Written To Excel
+11-07-2026 22:13:55 INFO  TC_04 - Under 4 Lakhs Bikes Validation Completed
+11-07-2026 22:13:55 INFO  ============= Test Suite Execution Completed =============
+11-07-2026 22:14:01 INFO  Browser Closed Successfully
+11-07-2026 22:14:01 INFO  ============= Test Suite Started =============
+11-07-2026 22:14:09 INFO  Browser Launched Successfully
+11-07-2026 22:14:09 INFO  Browser : chrome
+11-07-2026 22:14:09 INFO  TC_05 - Popular Bikes Validation Started
+11-07-2026 22:14:13 INFO  TC_05 - Popular Bikes Retrieved Successfully
+11-07-2026 22:14:13 INFO  Hero Splendor Plus - Rs. 77,557
+11-07-2026 22:14:13 INFO  Yamaha R15 V4 - Rs. 1.73 Lakh
+11-07-2026 22:14:13 INFO  Royal Enfield Classic 350 - Rs. 1.87 Lakh
+11-07-2026 22:14:13 INFO  TVS Raider - Rs. 82,860
+11-07-2026 22:14:13 INFO  Royal Enfield Bullet 350 - Rs. 1.66 Lakh
+11-07-2026 22:14:13 INFO  TC_05 - Popular Bikes Validation Completed
+11-07-2026 22:14:13 INFO  ============= Test Suite Execution Completed =============
+11-07-2026 22:14:18 INFO  Browser Closed Successfully
+11-07-2026 22:14:18 INFO  ============= Test Suite Started =============
+11-07-2026 22:14:26 INFO  Browser Launched Successfully
+11-07-2026 22:14:26 INFO  Browser : chrome
+11-07-2026 22:14:26 INFO  TC_06 - Scooters Only Validation Started
+11-07-2026 22:14:34 INFO  TC_06 - Scooter Details Retrieved Successfully
+11-07-2026 22:14:34 INFO  Honda ADV 160
+Rs. 1.55 Lakh
+Expected Launch : Dec 2026
+Alert Me When Launched
+11-07-2026 22:14:34 INFO  Honda Forza 350
+Rs. 3.70 Lakh
+Expected Launch : Unrevealed
+Alert Me When Launched
+11-07-2026 22:14:35 INFO  Honda PCX160
+Rs. 1.20 Lakh
+Expected Launch : Unrevealed
+Alert Me When Launched
+11-07-2026 22:14:35 INFO  Honda Motocompacto
+Price To Be Announced
+Expected Launch : Unrevealed
+Alert Me When Launched
+11-07-2026 22:14:35 INFO  Honda Activa 7G
+Rs. 79,000
+Expected Launch : Unrevealed
+Alert Me When Launched
+11-07-2026 22:14:35 INFO  Honda SH125i
+Price To Be Announced
+Expected Launch : Unrevealed
+Alert Me When Launched
+11-07-2026 22:14:35 INFO  TC_06 - Scooters Only Validation Completed
+11-07-2026 22:14:35 INFO  ============= Test Suite Execution Completed =============
+11-07-2026 22:14:39 INFO  Browser Closed Successfully
+11-07-2026 22:14:39 INFO  ============= Test Suite Started =============
+11-07-2026 22:14:48 INFO  Browser Launched Successfully
+11-07-2026 22:14:48 INFO  Browser : chrome
+11-07-2026 22:14:48 INFO  TC_07 - Alert Me Button Validation Started
+11-07-2026 22:15:01 INFO  TC_07 - Alert Me Button Validation Passed
+11-07-2026 22:15:02 INFO  ============= Test Suite Execution Completed =============
+11-07-2026 22:15:07 INFO  Browser Closed Successfully
+11-07-2026 22:15:07 INFO  ============= Test Suite Started =============
+11-07-2026 22:15:17 INFO  Browser Launched Successfully
+11-07-2026 22:15:17 INFO  Browser : chrome
+11-07-2026 22:15:17 INFO  TC_08 - Upcoming Bikes By Body Type Validation Started
+11-07-2026 22:15:20 INFO  Total Body Types Found: 4
+11-07-2026 22:15:20 INFO  Body Type 1: Cruiser
+11-07-2026 22:15:20 INFO  Body Type 2: Commuter
+11-07-2026 22:15:20 INFO  Body Type 3: Scooters
+11-07-2026 22:15:20 INFO  Body Type 4: Sports
+11-07-2026 22:15:20 INFO  TC_08 - Upcoming Bikes By Body Type Validation Completed
+11-07-2026 22:15:20 INFO  ============= Test Suite Execution Completed =============
+11-07-2026 22:15:24 INFO  Browser Closed Successfully
+11-07-2026 22:15:24 INFO  ============= Test Suite Started =============
+11-07-2026 22:15:30 INFO  Browser Launched Successfully
+11-07-2026 22:15:30 INFO  Browser : chrome
+11-07-2026 22:15:30 INFO  TC_09 - Used Cars Section Validation Started
+11-07-2026 22:15:36 INFO  TC_09 - Used Cars Section Validation Passed
+11-07-2026 22:15:36 INFO  ============= Test Suite Execution Completed =============
+11-07-2026 22:15:40 INFO  Browser Closed Successfully
+11-07-2026 22:15:40 INFO  ============= Test Suite Started =============
+11-07-2026 22:15:48 INFO  Browser Launched Successfully
+11-07-2026 22:15:48 INFO  Browser : chrome
+11-07-2026 22:15:48 INFO  TC_10 - Chennai City Selection Validation Started
+11-07-2026 22:15:54 INFO  TC_10 - Chennai City Selection Validation Passed
+11-07-2026 22:15:54 INFO  ============= Test Suite Execution Completed =============
+11-07-2026 22:15:58 INFO  Browser Closed Successfully
+11-07-2026 22:15:58 INFO  ============= Test Suite Started =============
+11-07-2026 22:16:06 INFO  Browser Launched Successfully
+11-07-2026 22:16:06 INFO  Browser : chrome
+11-07-2026 22:16:06 INFO  TC_11 - Popular Models Validation Started
+11-07-2026 22:16:45 INFO  TC_11 - Popular Models Loaded Successfully
+11-07-2026 22:17:14 INFO  TC_11 - Car Details Written To Excel
+11-07-2026 22:17:14 INFO  ============= Test Suite Execution Completed =============
+11-07-2026 22:17:22 INFO  Browser Closed Successfully
+11-07-2026 22:17:22 INFO  ============= Test Suite Started =============
+11-07-2026 22:17:33 INFO  Browser Launched Successfully
+11-07-2026 22:17:33 INFO  Browser : chrome
+11-07-2026 22:17:33 INFO  TC_12 - Under 3 Lakh Cars Validation Started
+11-07-2026 22:18:25 INFO  TC_12 - Popular Models Loaded Successfully
+11-07-2026 22:18:50 INFO  Car Details Written To Excel
+11-07-2026 22:18:51 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+11-07-2026 22:18:52 INFO  Under 3 Lakh Car: Hyundai i10 Sportz AT
+11-07-2026 22:18:53 INFO  Under 3 Lakh Car: Hyundai i10 Magna 1.2
+11-07-2026 22:18:53 INFO  Under 3 Lakh Car: Hyundai i10 Asta
+11-07-2026 22:18:54 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+11-07-2026 22:18:54 INFO  Under 3 Lakh Car: Honda City 1.5 EXI S
+11-07-2026 22:18:54 INFO  Under 3 Lakh Car: Honda City 1.5 GXI
+11-07-2026 22:18:54 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+11-07-2026 22:18:54 INFO  Under 3 Lakh Car: Maruti Swift LDI
+11-07-2026 22:18:56 INFO  Under 3 Lakh Car: Honda City 1.5 V AT
+11-07-2026 22:18:56 INFO  Under 3 Lakh Car: Hyundai Santro Xing XO eRLX Euro II
+11-07-2026 22:18:57 INFO  Under 3 Lakh Car: Hyundai i10 Sportz 1.2 AT
+11-07-2026 22:18:57 INFO  Under 3 Lakh Car: Hyundai i10 Magna
+11-07-2026 22:19:00 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+11-07-2026 22:19:01 INFO  Under 3 Lakh Car: Hyundai i10 Sportz AT
+11-07-2026 22:19:02 INFO  Under 3 Lakh Car: Hyundai i10 Magna 1.2
+11-07-2026 22:19:02 INFO  Under 3 Lakh Car: Hyundai i10 Asta
+11-07-2026 22:19:04 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+11-07-2026 22:19:04 INFO  Under 3 Lakh Car: Honda City 1.5 EXI S
+11-07-2026 22:19:04 INFO  Under 3 Lakh Car: Honda City 1.5 GXI
+11-07-2026 22:19:04 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+11-07-2026 22:19:04 INFO  Under 3 Lakh Car: Maruti Swift LDI
+11-07-2026 22:19:05 INFO  Under 3 Lakh Car: Honda City 1.5 V AT
+11-07-2026 22:19:06 INFO  Under 3 Lakh Car: Hyundai Santro Xing XO eRLX Euro II
+11-07-2026 22:19:06 INFO  Under 3 Lakh Car: Hyundai i10 Sportz 1.2 AT
+11-07-2026 22:19:06 INFO  Under 3 Lakh Car: Hyundai i10 Magna
+11-07-2026 22:19:08 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+11-07-2026 22:19:08 INFO  Under 3 Lakh Car: Hyundai i10 Sportz AT
+11-07-2026 22:19:08 INFO  Under 3 Lakh Car: Hyundai Santro Xing GLS
+11-07-2026 22:19:12 INFO  Under 3 Lakh Car: Hyundai i10 Magna 1.2
+11-07-2026 22:19:12 INFO  Under 3 Lakh Car: Hyundai i10 Asta
+11-07-2026 22:19:13 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+11-07-2026 22:19:13 INFO  Under 3 Lakh Car: Honda City 1.5 EXI S
+11-07-2026 22:19:14 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+11-07-2026 22:19:14 INFO  Under 3 Lakh Car: Honda City 1.5 GXI
+11-07-2026 22:19:15 INFO  Under 3 Lakh Car: Honda City 1.5 V AT
+11-07-2026 22:19:15 INFO  Under 3 Lakh Car: Hyundai Santro Xing XO eRLX Euro II
+11-07-2026 22:19:16 INFO  Under 3 Lakh Car: Hyundai i10 Sportz 1.2 AT
+11-07-2026 22:19:16 INFO  Under 3 Lakh Car: Hyundai i10 Magna
+11-07-2026 22:19:19 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+11-07-2026 22:19:19 INFO  Under 3 Lakh Car: Hyundai i10 Sportz AT
+11-07-2026 22:19:19 INFO  Under 3 Lakh Car: Hyundai Santro Xing GLS
+11-07-2026 22:19:20 INFO  Under 3 Lakh Car: Hyundai i10 Magna 1.2
+11-07-2026 22:19:21 INFO  Under 3 Lakh Car: Hyundai i10 Asta
+11-07-2026 22:19:21 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+11-07-2026 22:19:22 INFO  Under 3 Lakh Car: Honda City 1.5 EXI S
+11-07-2026 22:19:22 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+11-07-2026 22:19:22 INFO  Under 3 Lakh Car: Honda City 1.5 GXI
+11-07-2026 22:19:23 INFO  Under 3 Lakh Car: Honda City 1.5 V AT
+11-07-2026 22:19:24 INFO  Under 3 Lakh Car: Hyundai Santro Xing XO eRLX Euro II
+11-07-2026 22:19:24 INFO  Under 3 Lakh Car: Hyundai i10 Sportz 1.2 AT
+11-07-2026 22:19:24 INFO  Under 3 Lakh Car: Hyundai i10 Magna
+11-07-2026 22:19:24 INFO  TC_12 - Under 3 Lakh Cars Validation Completed
+11-07-2026 22:19:24 INFO  ============= Test Suite Execution Completed =============
+11-07-2026 22:19:31 INFO  Browser Closed Successfully
+11-07-2026 22:19:31 INFO  ============= Test Suite Started =============
+11-07-2026 22:19:37 INFO  Browser Launched Successfully
+11-07-2026 22:19:37 INFO  Browser : chrome
+11-07-2026 22:19:37 INFO  TC_13 - Price Low To High Sorting Validation Started
+11-07-2026 22:20:15 INFO  TC_13 - Price Filter Applied Successfully
+11-07-2026 22:20:18 INFO  First 4 Cars After Sorting:
+11-07-2026 22:20:18 INFO  Honda City 1.5 GXI - Rs. 1.60 Lakh
+11-07-2026 22:20:18 INFO  Hyundai Santro Xing XO eRLX Euro II - Rs. 1.85 Lakh
+11-07-2026 22:20:19 INFO  Hyundai i10 Magna - Rs. 1.85 Lakh
+11-07-2026 22:20:19 INFO  Hyundai i10 Sportz - Rs. 2.10 Lakh
+11-07-2026 22:20:19 INFO  TC_13 - Price Low To High Sorting Validation Completed
+11-07-2026 22:20:19 INFO  ============= Test Suite Execution Completed =============
+11-07-2026 22:20:25 INFO  Browser Closed Successfully
+11-07-2026 22:20:25 INFO  ============= Test Suite Started =============
+11-07-2026 22:20:33 INFO  Browser Launched Successfully
+11-07-2026 22:20:33 INFO  Browser : chrome
+11-07-2026 22:20:33 INFO  TC_14 - KM Driven Filter Validation Started
+11-07-2026 22:21:05 INFO  TC_14 - KM Driven Filter Validation Passed
+11-07-2026 22:21:08 INFO  ============= Test Suite Execution Completed =============
+11-07-2026 22:21:29 INFO  Browser Closed Successfully
+11-07-2026 22:21:29 INFO  ============= Test Suite Started =============
+11-07-2026 22:21:34 INFO  Browser Launched Successfully
+11-07-2026 22:21:34 INFO  Browser : chrome
+11-07-2026 22:21:34 INFO  TC_15 - Google Login Button Validation Started
+11-07-2026 22:21:40 INFO  TC_15 - Google Login Button Validation Passed
+11-07-2026 22:21:41 INFO  ============= Test Suite Execution Completed =============
+11-07-2026 22:21:46 INFO  Browser Closed Successfully
+11-07-2026 22:21:46 INFO  ============= Test Suite Started =============
+11-07-2026 22:21:51 INFO  Browser Launched Successfully
+11-07-2026 22:21:51 INFO  Browser : chrome
+11-07-2026 22:21:51 INFO  TC_16 - Invalid Email Validation Started
+11-07-2026 22:22:02 INFO  Captured Error Message: Enter a valid email or phone number
+11-07-2026 22:22:02 INFO  TC_16 - Invalid Email Validation Passed
+11-07-2026 22:22:03 INFO  ============= Test Suite Execution Completed =============
+11-07-2026 22:22:10 INFO  Browser Closed Successfully
+11-07-2026 22:22:10 INFO  ============= Test Suite Started =============
+11-07-2026 22:22:20 INFO  Browser Launched Successfully
+11-07-2026 22:22:20 INFO  Browser : chrome
+11-07-2026 22:22:20 INFO  TC_17 - Invalid Phone Number Validation Started
+11-07-2026 22:22:46 INFO  Captured Error Message: Error Message Not Found
+11-07-2026 22:22:46 INFO  TC_17 - Invalid Phone Number Validation Passed
+11-07-2026 22:22:48 INFO  ============= Test Suite Execution Completed =============
+11-07-2026 22:22:55 INFO  Browser Closed Successfully
+11-07-2026 22:22:55 INFO  ============= Test Suite Started =============
+11-07-2026 22:23:04 INFO  Browser Launched Successfully
+11-07-2026 22:23:04 INFO  Browser : chrome
+11-07-2026 22:23:04 INFO  TC_18 - Valid Email Validation Started
+11-07-2026 22:23:11 INFO  TC_18 - Valid Email Validation Completed
+11-07-2026 22:23:11 INFO  ============= Test Suite Execution Completed =============
+11-07-2026 22:23:19 INFO  Browser Closed Successfully
+11-07-2026 22:23:19 INFO  ============= Test Suite Started =============
+11-07-2026 22:23:28 INFO  Browser Launched Successfully
+11-07-2026 22:23:28 INFO  Browser : chrome
+11-07-2026 22:23:28 INFO  TC_19 - Invalid Password Validation Started
+11-07-2026 22:23:43 ERROR TC_19 - Alternate Google Verification Flow Encountered: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='Passwd']' (tried for 10 second(s) with 500 milliseconds interval)
+11-07-2026 22:23:44 INFO  ============= Test Suite Execution Completed =============
+11-07-2026 22:23:50 INFO  Browser Closed Successfully
+11-07-2026 22:23:50 INFO  ============= Test Suite Started =============
+11-07-2026 22:24:01 INFO  Browser Launched Successfully
+11-07-2026 22:24:01 INFO  Browser : chrome
+11-07-2026 22:24:01 INFO  TC_20 - Valid Password Validation Started
+11-07-2026 22:24:09 INFO  TC_20 - Valid Password Validation Passed
+11-07-2026 22:24:11 INFO  ============= Test Suite Execution Completed =============
+11-07-2026 22:24:17 INFO  Browser Closed Successfully
+11-07-2026 22:24:17 INFO  ============= Test Suite Started =============
+11-07-2026 22:24:26 INFO  Browser Launched Successfully
+11-07-2026 22:24:26 INFO  Browser : chrome
+11-07-2026 22:24:26 INFO  TC_21 - Upcoming Honda Bikes FAQs Validation Started
+11-07-2026 22:24:32 INFO  Total FAQ Questions Found: 6
+11-07-2026 22:24:33 INFO  FAQ 1: What are the upcoming honda bikes in India 2026?
+11-07-2026 22:24:33 INFO  FAQ 2: What are the upcoming honda commuter bikes in India?
+11-07-2026 22:24:33 INFO  FAQ 3: What are the upcoming honda scooters in India?
+11-07-2026 22:24:33 INFO  FAQ 4: What are the upcoming honda sports bikes in India?
+11-07-2026 22:24:33 INFO  FAQ 5: What are the upcoming honda cruiser bikes in India?
+11-07-2026 22:24:33 INFO  FAQ 6: What are the upcoming honda bikes under 1 lakh?
+11-07-2026 22:24:33 INFO  TC_21 - Upcoming Honda Bikes FAQs Validation Completed
+11-07-2026 22:24:35 INFO  ============= Test Suite Execution Completed =============
+11-07-2026 22:24:42 INFO  Browser Closed Successfully
+12-07-2026 21:18:33 INFO  ============= Test Suite Started =============
+12-07-2026 21:18:50 INFO  Browser Launched Successfully
+12-07-2026 21:18:50 INFO  Browser : chrome
+12-07-2026 21:18:50 INFO  TC_01 - Title Validation Started
+12-07-2026 21:18:50 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+12-07-2026 21:18:51 INFO  TC_01 - Title Validation Passed
+12-07-2026 21:18:51 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:18:54 INFO  Browser Closed Successfully
+12-07-2026 21:18:54 INFO  ============= Test Suite Started =============
+12-07-2026 21:19:00 INFO  Browser Launched Successfully
+12-07-2026 21:19:00 INFO  Browser : chrome
+12-07-2026 21:19:00 INFO  TC_02 - Upcoming Bikes Validation Started
+12-07-2026 21:19:56 INFO  ============= Test Suite Started =============
+12-07-2026 21:20:02 INFO  Browser Launched Successfully
+12-07-2026 21:20:02 INFO  Browser : chrome
+12-07-2026 21:20:02 INFO  TC_01 - Title Validation Started
+12-07-2026 21:20:09 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+12-07-2026 21:20:09 INFO  TC_01 - Title Validation Passed
+12-07-2026 21:20:09 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:20:12 INFO  Browser Closed Successfully
+12-07-2026 21:20:12 INFO  ============= Test Suite Started =============
+12-07-2026 21:20:22 INFO  Browser Launched Successfully
+12-07-2026 21:20:22 INFO  Browser : chrome
+12-07-2026 21:20:22 INFO  TC_02 - Upcoming Bikes Validation Started
+12-07-2026 21:20:47 INFO  ============= Test Suite Started =============
+12-07-2026 21:20:47 INFO  ============= Test Suite Started =============
+12-07-2026 21:20:55 INFO  Browser Launched Successfully
+12-07-2026 21:20:55 INFO  Browser : chrome
+12-07-2026 21:20:55 INFO  TC_01 - Title Validation Started
+12-07-2026 21:20:57 INFO  Browser Launched Successfully
+12-07-2026 21:20:57 INFO  Browser : edge
+12-07-2026 21:20:58 INFO  TC_01 - Title Validation Started
+12-07-2026 21:21:10 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+12-07-2026 21:21:10 INFO  TC_01 - Title Validation Passed
+12-07-2026 21:21:10 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:21:10 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+12-07-2026 21:21:10 INFO  TC_01 - Title Validation Passed
+12-07-2026 21:21:10 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:21:16 INFO  Browser Closed Successfully
+12-07-2026 21:21:16 INFO  ============= Test Suite Started =============
+12-07-2026 21:21:16 INFO  ============= Test Suite Started =============
+12-07-2026 21:21:47 INFO  Browser Launched Successfully
+12-07-2026 21:21:47 INFO  Browser : chrome
+12-07-2026 21:21:47 INFO  TC_02 - Upcoming Bikes Validation Started
+12-07-2026 21:21:47 INFO  Browser Launched Successfully
+12-07-2026 21:21:47 INFO  Browser : edge
+12-07-2026 21:21:47 INFO  TC_02 - Upcoming Bikes Validation Started
+12-07-2026 21:21:58 INFO  TC_02 - Upcoming Bikes Validation Passed
+12-07-2026 21:21:58 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:21:58 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:22:04 INFO  ============= Test Suite Started =============
+12-07-2026 21:22:04 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 21:22:04 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:22:04 INFO  Browser Closed Successfully
+12-07-2026 21:22:04 INFO  ============= Test Suite Started =============
+12-07-2026 21:22:05 INFO  Browser Closed Successfully
+12-07-2026 21:22:05 INFO  ============= Test Suite Started =============
+12-07-2026 21:27:10 INFO  ============= Test Suite Started =============
+12-07-2026 21:27:10 INFO  ============= Test Suite Started =============
+12-07-2026 21:27:27 INFO  Browser Launched Successfully
+12-07-2026 21:27:27 INFO  Browser : chrome
+12-07-2026 21:27:27 INFO  TC_01 - Title Validation Started
+12-07-2026 21:27:27 INFO  Browser Launched Successfully
+12-07-2026 21:27:27 INFO  Browser : edge
+12-07-2026 21:27:27 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+12-07-2026 21:27:27 INFO  TC_01 - Title Validation Started
+12-07-2026 21:27:27 INFO  TC_01 - Title Validation Passed
+12-07-2026 21:27:27 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+12-07-2026 21:27:27 INFO  TC_01 - Title Validation Passed
+12-07-2026 21:27:27 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:27:27 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:27:31 INFO  Browser Closed Successfully
+12-07-2026 21:27:31 INFO  ============= Test Suite Started =============
+12-07-2026 21:27:31 INFO  Browser Closed Successfully
+12-07-2026 21:27:31 INFO  ============= Test Suite Started =============
+12-07-2026 21:27:35 INFO  Browser Launched Successfully
+12-07-2026 21:27:35 INFO  Browser : chrome
+12-07-2026 21:27:35 INFO  TC_02 - Upcoming Bikes Validation Started
+12-07-2026 21:27:43 INFO  Browser Launched Successfully
+12-07-2026 21:27:43 INFO  Browser : edge
+12-07-2026 21:27:43 INFO  TC_02 - Upcoming Bikes Validation Started
+12-07-2026 21:27:48 INFO  TC_02 - Upcoming Bikes Validation Passed
+12-07-2026 21:27:48 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:27:50 INFO  TC_02 - Upcoming Bikes Validation Passed
+12-07-2026 21:27:50 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:27:52 INFO  Browser Closed Successfully
+12-07-2026 21:27:52 INFO  ============= Test Suite Started =============
+12-07-2026 21:27:55 INFO  Browser Closed Successfully
+12-07-2026 21:27:55 INFO  ============= Test Suite Started =============
+12-07-2026 21:27:58 INFO  Browser Launched Successfully
+12-07-2026 21:27:58 INFO  Browser : chrome
+12-07-2026 21:27:58 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 21:28:02 INFO  Browser Launched Successfully
+12-07-2026 21:28:02 INFO  Browser : edge
+12-07-2026 21:28:02 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 21:28:07 INFO  TC_03 - Honda Bikes Retrieved Successfully
+12-07-2026 21:28:13 INFO  TC_03 - Honda Bikes Retrieved Successfully
+12-07-2026 21:28:15 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:28:21 INFO  Browser Closed Successfully
+12-07-2026 21:28:21 INFO  ============= Test Suite Started =============
+12-07-2026 21:28:29 INFO  Browser Launched Successfully
+12-07-2026 21:28:29 INFO  Browser : chrome
+12-07-2026 21:28:29 INFO  TC_04 - Under 4 Lakhs Bikes Validation Started
+12-07-2026 21:28:35 INFO  TC_03 - Honda Bike Details Written To Excel
+12-07-2026 21:28:35 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:28:41 INFO  Browser Closed Successfully
+12-07-2026 21:28:41 INFO  ============= Test Suite Started =============
+12-07-2026 21:29:18 INFO  ============= Test Suite Started =============
+12-07-2026 21:29:18 INFO  ============= Test Suite Started =============
+12-07-2026 21:29:33 INFO  Browser Launched Successfully
+12-07-2026 21:29:33 INFO  Browser : chrome
+12-07-2026 21:29:33 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 21:31:44 INFO  ============= Test Suite Started =============
+12-07-2026 21:31:52 INFO  Browser Launched Successfully
+12-07-2026 21:31:52 INFO  Browser : chrome
+12-07-2026 21:31:52 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 21:32:15 INFO  TC_03 - Honda Bikes Retrieved Successfully
+12-07-2026 21:32:23 INFO  TC_03 - Honda Bike Details Written To Excel
+12-07-2026 21:32:24 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:32:30 INFO  Browser Closed Successfully
+12-07-2026 21:35:01 INFO  ============= Test Suite Started =============
+12-07-2026 21:35:01 INFO  ============= Test Suite Started =============
+12-07-2026 21:35:06 INFO  Browser Launched Successfully
+12-07-2026 21:35:06 INFO  Browser Launched Successfully
+12-07-2026 21:35:06 INFO  Browser : chrome
+12-07-2026 21:35:06 INFO  Browser : edge
+12-07-2026 21:35:06 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 21:35:06 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 21:35:19 INFO  TC_03 - Honda Bikes Retrieved Successfully
+12-07-2026 21:35:19 INFO  TC_03 - Honda Bikes Retrieved Successfully
+12-07-2026 21:35:22 INFO  TC_03 - Honda Bike Details Written To Excel
+12-07-2026 21:35:22 INFO  TC_03 - Honda Bike Details Written To Excel
+12-07-2026 21:35:22 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:35:22 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:35:27 INFO  Browser Closed Successfully
+12-07-2026 21:35:27 INFO  Browser Closed Successfully
+12-07-2026 21:38:01 INFO  ============= Test Suite Started =============
+12-07-2026 21:38:01 INFO  ============= Test Suite Started =============
+12-07-2026 21:38:05 INFO  Browser Launched Successfully
+12-07-2026 21:38:05 INFO  Browser : edge
+12-07-2026 21:38:05 INFO  TC_01 - Title Validation Started
+12-07-2026 21:38:07 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+12-07-2026 21:38:07 INFO  TC_01 - Title Validation Passed
+12-07-2026 21:38:07 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:38:10 INFO  Browser Closed Successfully
+12-07-2026 21:38:10 INFO  ============= Test Suite Started =============
+12-07-2026 21:38:12 INFO  Browser Launched Successfully
+12-07-2026 21:38:12 INFO  Browser : chrome
+12-07-2026 21:38:12 INFO  TC_01 - Title Validation Started
+12-07-2026 21:38:12 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+12-07-2026 21:38:12 INFO  TC_01 - Title Validation Passed
+12-07-2026 21:38:12 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:38:16 INFO  Browser Closed Successfully
+12-07-2026 21:38:16 INFO  ============= Test Suite Started =============
+12-07-2026 21:38:20 INFO  Browser Launched Successfully
+12-07-2026 21:38:20 INFO  Browser : edge
+12-07-2026 21:38:20 INFO  TC_02 - Upcoming Bikes Validation Started
+12-07-2026 21:38:24 INFO  Browser Launched Successfully
+12-07-2026 21:38:24 INFO  Browser : chrome
+12-07-2026 21:38:24 INFO  TC_02 - Upcoming Bikes Validation Started
+12-07-2026 21:38:31 INFO  TC_02 - Upcoming Bikes Validation Passed
+12-07-2026 21:38:31 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:38:33 INFO  TC_02 - Upcoming Bikes Validation Passed
+12-07-2026 21:38:33 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:38:34 INFO  Browser Closed Successfully
+12-07-2026 21:38:34 INFO  ============= Test Suite Started =============
+12-07-2026 21:38:36 INFO  Browser Closed Successfully
+12-07-2026 21:38:36 INFO  ============= Test Suite Started =============
+12-07-2026 21:38:40 INFO  Browser Launched Successfully
+12-07-2026 21:38:40 INFO  Browser : edge
+12-07-2026 21:38:40 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 21:38:42 INFO  Browser Launched Successfully
+12-07-2026 21:38:42 INFO  Browser : chrome
+12-07-2026 21:38:42 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 21:38:53 INFO  TC_03 - Honda Bikes Retrieved Successfully
+12-07-2026 21:38:54 INFO  TC_03 - Honda Bikes Retrieved Successfully
+12-07-2026 21:38:56 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:38:57 INFO  TC_03 - Honda Bike Details Written To Excel
+12-07-2026 21:38:57 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:38:59 INFO  Browser Closed Successfully
+12-07-2026 21:38:59 INFO  ============= Test Suite Started =============
+12-07-2026 21:39:02 INFO  Browser Closed Successfully
+12-07-2026 21:39:02 INFO  ============= Test Suite Started =============
+12-07-2026 21:39:03 INFO  Browser Launched Successfully
+12-07-2026 21:39:03 INFO  Browser : chrome
+12-07-2026 21:39:03 INFO  TC_04 - Under 4 Lakhs Bikes Validation Started
+12-07-2026 21:39:04 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:39:07 INFO  Browser Closed Successfully
+12-07-2026 21:39:07 INFO  ============= Test Suite Started =============
+12-07-2026 21:39:18 INFO  Browser Launched Successfully
+12-07-2026 21:39:18 INFO  Browser : edge
+12-07-2026 21:39:18 INFO  TC_04 - Under 4 Lakhs Bikes Validation Started
+12-07-2026 21:47:10 INFO  ============= Test Suite Started =============
+12-07-2026 21:47:10 INFO  ============= Test Suite Started =============
+12-07-2026 21:48:19 INFO  Browser Launched Successfully
+12-07-2026 21:48:19 INFO  Browser : chrome
+12-07-2026 21:48:19 INFO  TC_01 - Title Validation Started
+12-07-2026 21:48:19 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+12-07-2026 21:48:19 INFO  TC_01 - Title Validation Passed
+12-07-2026 21:48:19 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:48:23 INFO  Browser Closed Successfully
+12-07-2026 21:48:23 INFO  ============= Test Suite Started =============
+12-07-2026 21:48:34 INFO  Browser Launched Successfully
+12-07-2026 21:48:34 INFO  Browser : chrome
+12-07-2026 21:48:34 INFO  TC_02 - Upcoming Bikes Validation Started
+12-07-2026 21:48:35 INFO  TC_02 - Upcoming Bikes Validation Passed
+12-07-2026 21:48:35 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:48:38 INFO  Browser Closed Successfully
+12-07-2026 21:48:38 INFO  ============= Test Suite Started =============
+12-07-2026 21:48:52 INFO  Browser Launched Successfully
+12-07-2026 21:48:52 INFO  Browser : chrome
+12-07-2026 21:48:52 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 21:48:58 INFO  TC_03 - Honda Bikes Retrieved Successfully
+12-07-2026 21:49:02 INFO  TC_03 - Honda Bike Details Written To Excel
+12-07-2026 21:49:02 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:49:06 INFO  Browser Closed Successfully
+12-07-2026 21:49:06 INFO  ============= Test Suite Started =============
+12-07-2026 21:49:12 INFO  Browser Launched Successfully
+12-07-2026 21:49:12 INFO  Browser : chrome
+12-07-2026 21:49:12 INFO  TC_04 - Under 4 Lakhs Bikes Validation Started
+12-07-2026 21:49:18 INFO  TC_04 - Honda Bike Details Retrieved Successfully
+12-07-2026 21:49:20 INFO  Honda Bike Details Written To Excel
+12-07-2026 21:49:21 INFO  TC_04 - Under 4 Lakhs Bikes Validation Completed
+12-07-2026 21:49:21 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:49:25 INFO  Browser Closed Successfully
+12-07-2026 21:49:25 INFO  ============= Test Suite Started =============
+12-07-2026 21:49:32 INFO  Browser Launched Successfully
+12-07-2026 21:49:32 INFO  Browser : chrome
+12-07-2026 21:49:32 INFO  TC_05 - Popular Bikes Validation Started
+12-07-2026 21:49:34 INFO  TC_05 - Popular Bikes Retrieved Successfully
+12-07-2026 21:49:34 INFO  Hero Splendor Plus - Rs. 77,557
+12-07-2026 21:49:34 INFO  Yamaha R15 V4 - Rs. 1.73 Lakh
+12-07-2026 21:49:34 INFO  Royal Enfield Classic 350 - Rs. 1.87 Lakh
+12-07-2026 21:49:34 INFO  TVS Raider - Rs. 82,860
+12-07-2026 21:49:34 INFO  Royal Enfield Bullet 350 - Rs. 1.66 Lakh
+12-07-2026 21:49:34 INFO  TC_05 - Popular Bikes Validation Completed
+12-07-2026 21:49:34 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:49:38 INFO  Browser Closed Successfully
+12-07-2026 21:49:38 INFO  ============= Test Suite Started =============
+12-07-2026 21:49:44 INFO  Browser Launched Successfully
+12-07-2026 21:49:44 INFO  Browser : chrome
+12-07-2026 21:49:44 INFO  TC_06 - Scooters Only Validation Started
+12-07-2026 21:49:50 INFO  TC_06 - Scooter Details Retrieved Successfully
+12-07-2026 21:49:50 INFO  Honda ADV 160
+Rs. 1.55 Lakh
+Expected Launch : Dec 2026
+Alert Me When Launched
+12-07-2026 21:49:50 INFO  Honda Forza 350
+Rs. 3.70 Lakh
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 21:49:50 INFO  Honda PCX160
+Rs. 1.20 Lakh
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 21:49:50 INFO  Honda Motocompacto
+Price To Be Announced
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 21:49:50 INFO  Honda Activa 7G
+Rs. 79,000
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 21:49:50 INFO  Honda SH125i
+Price To Be Announced
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 21:49:50 INFO  TC_06 - Scooters Only Validation Completed
+12-07-2026 21:49:50 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:49:53 INFO  Browser Closed Successfully
+12-07-2026 21:49:53 INFO  ============= Test Suite Started =============
+12-07-2026 21:49:59 INFO  Browser Launched Successfully
+12-07-2026 21:49:59 INFO  Browser : chrome
+12-07-2026 21:49:59 INFO  TC_07 - Alert Me Button Validation Started
+12-07-2026 21:50:13 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:50:13 INFO  ============= Test Suite Started =============
+12-07-2026 21:50:14 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:50:17 INFO  Browser Launched Successfully
+12-07-2026 21:50:17 INFO  Browser : edge
+12-07-2026 21:50:17 INFO  TC_02 - Upcoming Bikes Validation Started
+12-07-2026 21:50:19 INFO  Browser Closed Successfully
+12-07-2026 21:50:19 INFO  ============= Test Suite Started =============
+12-07-2026 21:50:20 INFO  TC_02 - Upcoming Bikes Validation Passed
+12-07-2026 21:50:20 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:50:22 INFO  Browser Launched Successfully
+12-07-2026 21:50:22 INFO  Browser : chrome
+12-07-2026 21:50:22 INFO  TC_08 - Upcoming Bikes By Body Type Validation Started
+12-07-2026 21:50:23 INFO  Browser Closed Successfully
+12-07-2026 21:50:23 INFO  ============= Test Suite Started =============
+12-07-2026 21:50:27 INFO  Total Body Types Found: 4
+12-07-2026 21:50:27 INFO  Body Type 1: Cruiser
+12-07-2026 21:50:27 INFO  Body Type 2: Commuter
+12-07-2026 21:50:27 INFO  Body Type 3: Scooters
+12-07-2026 21:50:27 INFO  Body Type 4: Sports
+12-07-2026 21:50:27 INFO  TC_08 - Upcoming Bikes By Body Type Validation Completed
+12-07-2026 21:50:27 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:50:29 INFO  Browser Launched Successfully
+12-07-2026 21:50:29 INFO  Browser : edge
+12-07-2026 21:50:29 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 21:50:30 INFO  Browser Closed Successfully
+12-07-2026 21:50:36 INFO  TC_03 - Honda Bikes Retrieved Successfully
+12-07-2026 21:50:38 INFO  TC_03 - Honda Bike Details Written To Excel
+12-07-2026 21:50:38 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:50:43 INFO  Browser Closed Successfully
+12-07-2026 21:50:43 INFO  ============= Test Suite Started =============
+12-07-2026 21:50:50 INFO  Browser Launched Successfully
+12-07-2026 21:50:50 INFO  Browser : edge
+12-07-2026 21:50:50 INFO  TC_04 - Under 4 Lakhs Bikes Validation Started
+12-07-2026 21:50:55 INFO  TC_04 - Honda Bike Details Retrieved Successfully
+12-07-2026 21:50:57 INFO  Honda Bike Details Written To Excel
+12-07-2026 21:51:01 INFO  TC_04 - Under 4 Lakhs Bikes Validation Completed
+12-07-2026 21:51:01 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:51:06 INFO  Browser Closed Successfully
+12-07-2026 21:51:06 INFO  ============= Test Suite Started =============
+12-07-2026 21:51:12 INFO  Browser Launched Successfully
+12-07-2026 21:51:12 INFO  Browser : edge
+12-07-2026 21:51:12 INFO  TC_05 - Popular Bikes Validation Started
+12-07-2026 21:56:52 INFO  ============= Test Suite Started =============
+12-07-2026 21:56:52 INFO  ============= Test Suite Started =============
+12-07-2026 21:56:55 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:56:55 INFO  ============= Test Suite Started =============
+12-07-2026 21:56:57 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:56:57 INFO  ============= Test Suite Started =============
+12-07-2026 21:56:59 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:56:59 INFO  ============= Test Suite Started =============
+12-07-2026 21:57:01 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:57:01 INFO  ============= Test Suite Started =============
+12-07-2026 21:57:02 INFO  Browser Launched Successfully
+12-07-2026 21:57:02 INFO  Browser : chrome
+12-07-2026 21:57:02 INFO  TC_01 - Title Validation Started
+12-07-2026 21:57:02 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+12-07-2026 21:57:02 INFO  TC_01 - Title Validation Passed
+12-07-2026 21:57:02 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:57:03 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:57:03 INFO  ============= Test Suite Started =============
+12-07-2026 21:57:05 INFO  Browser Closed Successfully
+12-07-2026 21:57:05 INFO  ============= Test Suite Started =============
+12-07-2026 21:57:06 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:57:06 INFO  ============= Test Suite Started =============
+12-07-2026 21:57:08 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:57:08 INFO  ============= Test Suite Started =============
+12-07-2026 21:57:10 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:57:10 INFO  Browser Launched Successfully
+12-07-2026 21:57:10 INFO  Browser : chrome
+12-07-2026 21:57:10 INFO  TC_02 - Upcoming Bikes Validation Started
+12-07-2026 21:57:12 INFO  TC_02 - Upcoming Bikes Validation Passed
+12-07-2026 21:57:12 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:57:16 INFO  Browser Closed Successfully
+12-07-2026 21:57:16 INFO  ============= Test Suite Started =============
+12-07-2026 21:57:18 INFO  Browser Launched Successfully
+12-07-2026 21:57:18 INFO  Browser : chrome
+12-07-2026 21:57:18 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 21:57:45 INFO  ============= Test Suite Started =============
+12-07-2026 21:57:45 INFO  ============= Test Suite Started =============
+12-07-2026 21:57:48 INFO  Browser Launched Successfully
+12-07-2026 21:57:48 INFO  Browser : chrome
+12-07-2026 21:57:49 INFO  TC_01 - Title Validation Started
+12-07-2026 21:57:51 INFO  Browser Launched Successfully
+12-07-2026 21:57:51 INFO  Browser : edge
+12-07-2026 21:57:51 INFO  TC_01 - Title Validation Started
+12-07-2026 21:57:51 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+12-07-2026 21:57:51 INFO  TC_01 - Title Validation Passed
+12-07-2026 21:57:51 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:57:53 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+12-07-2026 21:57:53 INFO  TC_01 - Title Validation Passed
+12-07-2026 21:57:53 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:57:54 INFO  Browser Closed Successfully
+12-07-2026 21:57:54 INFO  ============= Test Suite Started =============
+12-07-2026 21:57:56 INFO  Browser Closed Successfully
+12-07-2026 21:57:56 INFO  ============= Test Suite Started =============
+12-07-2026 21:57:59 INFO  Browser Launched Successfully
+12-07-2026 21:57:59 INFO  Browser : edge
+12-07-2026 21:57:59 INFO  TC_02 - Upcoming Bikes Validation Started
+12-07-2026 21:58:02 INFO  TC_02 - Upcoming Bikes Validation Passed
+12-07-2026 21:58:02 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:58:03 INFO  Browser Launched Successfully
+12-07-2026 21:58:03 INFO  Browser : chrome
+12-07-2026 21:58:03 INFO  TC_02 - Upcoming Bikes Validation Started
+12-07-2026 21:58:05 INFO  TC_02 - Upcoming Bikes Validation Passed
+12-07-2026 21:58:05 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:58:05 INFO  Browser Closed Successfully
+12-07-2026 21:58:05 INFO  ============= Test Suite Started =============
+12-07-2026 21:58:08 INFO  Browser Closed Successfully
+12-07-2026 21:58:08 INFO  ============= Test Suite Started =============
+12-07-2026 21:58:10 INFO  Browser Launched Successfully
+12-07-2026 21:58:10 INFO  Browser : edge
+12-07-2026 21:58:10 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 21:58:16 INFO  Browser Launched Successfully
+12-07-2026 21:58:16 INFO  Browser : chrome
+12-07-2026 21:58:16 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 21:58:18 INFO  TC_03 - Honda Bikes Retrieved Successfully
+12-07-2026 21:58:22 INFO  TC_03 - Honda Bikes Retrieved Successfully
+12-07-2026 21:58:22 INFO  TC_03 - Honda Bike Details Written To Excel
+12-07-2026 21:58:22 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:58:22 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:58:26 INFO  Browser Closed Successfully
+12-07-2026 21:58:26 INFO  ============= Test Suite Started =============
+12-07-2026 21:58:26 INFO  Browser Closed Successfully
+12-07-2026 21:58:26 INFO  ============= Test Suite Started =============
+12-07-2026 21:58:31 INFO  Browser Launched Successfully
+12-07-2026 21:58:31 INFO  Browser : edge
+12-07-2026 21:58:31 INFO  TC_04 - Under 4 Lakhs Bikes Validation Started
+12-07-2026 21:58:33 INFO  Browser Launched Successfully
+12-07-2026 21:58:33 INFO  Browser : chrome
+12-07-2026 21:58:33 INFO  TC_04 - Under 4 Lakhs Bikes Validation Started
+12-07-2026 21:58:38 INFO  TC_04 - Honda Bike Details Retrieved Successfully
+12-07-2026 21:58:39 INFO  TC_04 - Honda Bike Details Retrieved Successfully
+12-07-2026 21:58:40 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:58:44 INFO  Browser Closed Successfully
+12-07-2026 21:58:44 INFO  ============= Test Suite Started =============
+12-07-2026 21:58:45 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:58:49 INFO  Browser Closed Successfully
+12-07-2026 21:58:49 INFO  ============= Test Suite Started =============
+12-07-2026 21:58:50 INFO  Browser Launched Successfully
+12-07-2026 21:58:50 INFO  Browser : edge
+12-07-2026 21:58:50 INFO  TC_05 - Popular Bikes Validation Started
+12-07-2026 21:58:52 INFO  Browser Launched Successfully
+12-07-2026 21:58:52 INFO  Browser : chrome
+12-07-2026 21:58:52 INFO  TC_05 - Popular Bikes Validation Started
+12-07-2026 21:58:53 INFO  TC_05 - Popular Bikes Retrieved Successfully
+12-07-2026 21:58:53 INFO  Hero Splendor Plus - Rs. 77,557
+12-07-2026 21:58:53 INFO  Yamaha R15 V4 - Rs. 1.73 Lakh
+12-07-2026 21:58:53 INFO  Royal Enfield Classic 350 - Rs. 1.87 Lakh
+12-07-2026 21:58:53 INFO  TVS Raider - Rs. 82,860
+12-07-2026 21:58:53 INFO  Royal Enfield Bullet 350 - Rs. 1.66 Lakh
+12-07-2026 21:58:53 INFO  TC_05 - Popular Bikes Validation Completed
+12-07-2026 21:58:53 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:58:59 INFO  ============= Test Suite Started =============
+12-07-2026 21:58:59 INFO  ============= Test Suite Started =============
+12-07-2026 21:59:06 INFO  Browser Launched Successfully
+12-07-2026 21:59:06 INFO  Browser : edge
+12-07-2026 21:59:06 INFO  TC_01 - Title Validation Started
+12-07-2026 21:59:06 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+12-07-2026 21:59:06 INFO  TC_01 - Title Validation Passed
+12-07-2026 21:59:06 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:59:07 INFO  Browser Launched Successfully
+12-07-2026 21:59:07 INFO  Browser : chrome
+12-07-2026 21:59:07 INFO  TC_01 - Title Validation Started
+12-07-2026 21:59:07 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+12-07-2026 21:59:07 INFO  TC_01 - Title Validation Passed
+12-07-2026 21:59:07 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:59:09 INFO  Browser Closed Successfully
+12-07-2026 21:59:09 INFO  ============= Test Suite Started =============
+12-07-2026 21:59:10 INFO  Browser Closed Successfully
+12-07-2026 21:59:10 INFO  ============= Test Suite Started =============
+12-07-2026 21:59:14 INFO  Browser Launched Successfully
+12-07-2026 21:59:14 INFO  Browser : edge
+12-07-2026 21:59:14 INFO  TC_02 - Upcoming Bikes Validation Started
+12-07-2026 21:59:17 INFO  Browser Launched Successfully
+12-07-2026 21:59:17 INFO  Browser : chrome
+12-07-2026 21:59:17 INFO  TC_02 - Upcoming Bikes Validation Started
+12-07-2026 21:59:20 INFO  TC_02 - Upcoming Bikes Validation Passed
+12-07-2026 21:59:20 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:59:24 INFO  Browser Closed Successfully
+12-07-2026 21:59:24 INFO  ============= Test Suite Started =============
+12-07-2026 21:59:24 INFO  TC_02 - Upcoming Bikes Validation Passed
+12-07-2026 21:59:24 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:59:28 INFO  Browser Closed Successfully
+12-07-2026 21:59:28 INFO  ============= Test Suite Started =============
+12-07-2026 21:59:30 INFO  Browser Launched Successfully
+12-07-2026 21:59:30 INFO  Browser : edge
+12-07-2026 21:59:30 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 21:59:35 INFO  Browser Launched Successfully
+12-07-2026 21:59:35 INFO  Browser : chrome
+12-07-2026 21:59:35 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 21:59:37 INFO  TC_03 - Honda Bikes Retrieved Successfully
+12-07-2026 21:59:41 INFO  TC_03 - Honda Bikes Retrieved Successfully
+12-07-2026 21:59:41 INFO  TC_03 - Honda Bike Details Written To Excel
+12-07-2026 21:59:41 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:59:43 INFO  TC_03 - Honda Bike Details Written To Excel
+12-07-2026 21:59:43 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 21:59:45 INFO  Browser Closed Successfully
+12-07-2026 21:59:45 INFO  ============= Test Suite Started =============
+12-07-2026 21:59:47 INFO  Browser Closed Successfully
+12-07-2026 21:59:47 INFO  ============= Test Suite Started =============
+12-07-2026 21:59:56 INFO  Browser Launched Successfully
+12-07-2026 21:59:56 INFO  Browser : edge
+12-07-2026 21:59:56 INFO  TC_04 - Under 4 Lakhs Bikes Validation Started
+12-07-2026 21:59:56 INFO  Browser Launched Successfully
+12-07-2026 21:59:56 INFO  Browser : chrome
+12-07-2026 21:59:56 INFO  TC_04 - Under 4 Lakhs Bikes Validation Started
+12-07-2026 22:00:03 INFO  TC_04 - Honda Bike Details Retrieved Successfully
+12-07-2026 22:00:04 INFO  TC_04 - Honda Bike Details Retrieved Successfully
+12-07-2026 22:00:04 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 22:00:05 INFO  Honda Bike Details Written To Excel
+12-07-2026 22:00:08 INFO  Browser Closed Successfully
+12-07-2026 22:00:08 INFO  ============= Test Suite Started =============
+12-07-2026 22:00:12 INFO  TC_04 - Under 4 Lakhs Bikes Validation Completed
+12-07-2026 22:00:12 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 22:00:14 INFO  Browser Launched Successfully
+12-07-2026 22:00:14 INFO  Browser : edge
+12-07-2026 22:00:14 INFO  TC_05 - Popular Bikes Validation Started
+12-07-2026 22:00:17 INFO  TC_05 - Popular Bikes Retrieved Successfully
+12-07-2026 22:00:17 INFO  Hero Splendor Plus - Rs. 77,557
+12-07-2026 22:00:17 INFO  Yamaha R15 V4 - Rs. 1.73 Lakh
+12-07-2026 22:00:17 INFO  Royal Enfield Classic 350 - Rs. 1.87 Lakh
+12-07-2026 22:00:17 INFO  TVS Raider - Rs. 82,860
+12-07-2026 22:00:17 INFO  Browser Closed Successfully
+12-07-2026 22:00:17 INFO  ============= Test Suite Started =============
+12-07-2026 22:00:17 INFO  Royal Enfield Bullet 350 - Rs. 1.66 Lakh
+12-07-2026 22:00:17 INFO  TC_05 - Popular Bikes Validation Completed
+12-07-2026 22:00:17 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 22:00:21 INFO  Browser Closed Successfully
+12-07-2026 22:00:21 INFO  ============= Test Suite Started =============
+12-07-2026 22:00:26 INFO  Browser Launched Successfully
+12-07-2026 22:00:26 INFO  Browser : chrome
+12-07-2026 22:00:26 INFO  TC_05 - Popular Bikes Validation Started
+12-07-2026 22:00:29 INFO  Browser Launched Successfully
+12-07-2026 22:00:29 INFO  Browser : edge
+12-07-2026 22:00:29 INFO  TC_06 - Scooters Only Validation Started
+12-07-2026 22:00:31 INFO  TC_05 - Popular Bikes Retrieved Successfully
+12-07-2026 22:00:31 INFO  Hero Splendor Plus - Rs. 77,557
+12-07-2026 22:00:31 INFO  Yamaha R15 V4 - Rs. 1.73 Lakh
+12-07-2026 22:00:31 INFO  Royal Enfield Classic 350 - Rs. 1.87 Lakh
+12-07-2026 22:00:31 INFO  TVS Raider - Rs. 82,860
+12-07-2026 22:00:31 INFO  Royal Enfield Bullet 350 - Rs. 1.66 Lakh
+12-07-2026 22:00:31 INFO  TC_05 - Popular Bikes Validation Completed
+12-07-2026 22:00:31 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 22:00:35 INFO  Browser Closed Successfully
+12-07-2026 22:00:35 INFO  ============= Test Suite Started =============
+12-07-2026 22:00:38 INFO  TC_06 - Scooter Details Retrieved Successfully
+12-07-2026 22:00:38 INFO  Honda ADV 160
+Rs. 1.55 Lakh
+Expected Launch : Dec 2026
+Alert Me When Launched
+12-07-2026 22:00:38 INFO  Honda Forza 350
+Rs. 3.70 Lakh
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 22:00:38 INFO  Honda PCX160
+Rs. 1.20 Lakh
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 22:00:38 INFO  Honda Motocompacto
+Price To Be Announced
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 22:00:38 INFO  Honda Activa 7G
+Rs. 79,000
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 22:00:38 INFO  Honda SH125i
+Price To Be Announced
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 22:00:38 INFO  TC_06 - Scooters Only Validation Completed
+12-07-2026 22:00:38 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 22:00:41 INFO  Browser Launched Successfully
+12-07-2026 22:00:41 INFO  Browser : chrome
+12-07-2026 22:00:41 INFO  TC_06 - Scooters Only Validation Started
+12-07-2026 22:00:42 INFO  Browser Closed Successfully
+12-07-2026 22:00:42 INFO  ============= Test Suite Started =============
+12-07-2026 22:00:49 INFO  Browser Launched Successfully
+12-07-2026 22:00:49 INFO  Browser : edge
+12-07-2026 22:00:49 INFO  TC_07 - Alert Me Button Validation Started
+12-07-2026 22:00:59 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 22:01:02 INFO  TC_07 - Alert Me Button Validation Passed
+12-07-2026 22:01:02 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 22:01:03 INFO  Browser Closed Successfully
+12-07-2026 22:01:03 INFO  ============= Test Suite Started =============
+12-07-2026 22:01:07 INFO  Browser Closed Successfully
+12-07-2026 22:01:07 INFO  ============= Test Suite Started =============
+12-07-2026 22:01:10 INFO  Browser Launched Successfully
+12-07-2026 22:01:10 INFO  Browser : chrome
+12-07-2026 22:01:10 INFO  TC_07 - Alert Me Button Validation Started
+12-07-2026 22:01:13 INFO  Browser Launched Successfully
+12-07-2026 22:01:13 INFO  Browser : edge
+12-07-2026 22:01:13 INFO  TC_08 - Upcoming Bikes By Body Type Validation Started
+12-07-2026 22:01:16 INFO  Total Body Types Found: 4
+12-07-2026 22:01:17 INFO  Body Type 1: Cruiser
+12-07-2026 22:01:17 INFO  Body Type 2: Commuter
+12-07-2026 22:01:17 INFO  Body Type 3: Scooters
+12-07-2026 22:01:17 INFO  Body Type 4: Sports
+12-07-2026 22:01:17 INFO  TC_08 - Upcoming Bikes By Body Type Validation Completed
+12-07-2026 22:01:17 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 22:01:20 INFO  TC_07 - Alert Me Button Validation Passed
+12-07-2026 22:01:21 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 22:01:21 INFO  Browser Closed Successfully
+12-07-2026 22:01:25 INFO  Browser Closed Successfully
+12-07-2026 22:01:25 INFO  ============= Test Suite Started =============
+12-07-2026 22:01:32 INFO  Browser Launched Successfully
+12-07-2026 22:01:32 INFO  Browser : chrome
+12-07-2026 22:01:32 INFO  TC_08 - Upcoming Bikes By Body Type Validation Started
+12-07-2026 22:01:36 INFO  Total Body Types Found: 4
+12-07-2026 22:01:36 INFO  Body Type 1: Cruiser
+12-07-2026 22:01:36 INFO  Body Type 2: Commuter
+12-07-2026 22:01:36 INFO  Body Type 3: Scooters
+12-07-2026 22:01:36 INFO  Body Type 4: Sports
+12-07-2026 22:01:36 INFO  TC_08 - Upcoming Bikes By Body Type Validation Completed
+12-07-2026 22:01:36 INFO  ============= Test Suite Execution Completed =============
+12-07-2026 22:01:40 INFO  Browser Closed Successfully
+12-07-2026 22:10:18 INFO  Browser : chrome
+12-07-2026 22:10:18 INFO  Browser : edge
+12-07-2026 22:10:18 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 22:10:18 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 22:10:23 INFO  TC_03 - Honda Bikes Retrieved Successfully
+12-07-2026 22:10:24 INFO  TC_03 - Honda Bikes Retrieved Successfully
+12-07-2026 22:10:33 INFO  Browser : edge
+12-07-2026 22:10:33 INFO  TC_04 - Under 4 Lakhs Bikes Validation Started
+12-07-2026 22:10:35 INFO  Browser : chrome
+12-07-2026 22:10:35 INFO  TC_04 - Under 4 Lakhs Bikes Validation Started
+12-07-2026 22:12:32 INFO  Browser : edge
+12-07-2026 22:12:32 INFO  Browser : chrome
+12-07-2026 22:12:32 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 22:12:32 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 22:12:38 INFO  TC_03 - Honda Bikes Retrieved Successfully
+12-07-2026 22:12:39 INFO  TC_03 - Honda Bikes Retrieved Successfully
+12-07-2026 22:12:43 INFO  TC_03 - Honda Bike Details Written To Excel
+12-07-2026 22:12:43 INFO  TC_03 - Honda Bike Details Written To Excel
+12-07-2026 22:12:53 INFO  Browser : edge
+12-07-2026 22:12:53 INFO  TC_04 - Under 4 Lakhs Bikes Validation Started
+12-07-2026 22:12:54 INFO  Browser : chrome
+12-07-2026 22:12:54 INFO  TC_04 - Under 4 Lakhs Bikes Validation Started
+12-07-2026 22:12:59 INFO  TC_04 - Honda Bike Details Retrieved Successfully
+12-07-2026 22:13:01 INFO  TC_04 - Honda Bike Details Retrieved Successfully
+12-07-2026 22:13:01 INFO  Honda Bike Details Written To Excel
+12-07-2026 22:13:04 INFO  Honda Bike Details Written To Excel
+12-07-2026 22:13:04 INFO  TC_04 - Under 4 Lakhs Bikes Validation Completed
+12-07-2026 22:13:06 INFO  TC_04 - Under 4 Lakhs Bikes Validation Completed
+12-07-2026 22:15:24 INFO  Browser : edge
+12-07-2026 22:15:24 INFO  Browser : chrome
+12-07-2026 22:15:24 INFO  TC_01 - Title Validation Started
+12-07-2026 22:15:24 INFO  TC_01 - Title Validation Started
+12-07-2026 22:15:24 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+12-07-2026 22:15:24 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+12-07-2026 22:15:24 INFO  TC_01 - Title Validation Passed
+12-07-2026 22:15:24 INFO  TC_01 - Title Validation Passed
+12-07-2026 22:15:39 INFO  Browser : chrome
+12-07-2026 22:15:39 INFO  TC_02 - Upcoming Bikes Validation Started
+12-07-2026 22:15:39 INFO  Browser : edge
+12-07-2026 22:15:39 INFO  TC_02 - Upcoming Bikes Validation Started
+12-07-2026 22:15:43 INFO  TC_02 - Upcoming Bikes Validation Passed
+12-07-2026 22:15:43 INFO  TC_02 - Upcoming Bikes Validation Passed
+12-07-2026 22:15:55 INFO  Browser : chrome
+12-07-2026 22:15:55 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 22:16:00 INFO  Browser : edge
+12-07-2026 22:16:00 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 22:16:07 INFO  TC_03 - Honda Bikes Retrieved Successfully
+12-07-2026 22:16:08 INFO  TC_03 - Honda Bikes Retrieved Successfully
+12-07-2026 22:16:15 INFO  TC_03 - Honda Bike Details Written To Excel
+12-07-2026 22:16:16 INFO  TC_03 - Honda Bike Details Written To Excel
+12-07-2026 22:16:33 INFO  Browser : edge
+12-07-2026 22:16:33 INFO  TC_04 - Under 4 Lakhs Bikes Validation Started
+12-07-2026 22:16:33 INFO  Browser : chrome
+12-07-2026 22:16:33 INFO  TC_04 - Under 4 Lakhs Bikes Validation Started
+12-07-2026 22:16:40 INFO  TC_04 - Honda Bike Details Retrieved Successfully
+12-07-2026 22:16:43 ERROR TC_04 - Honda Bike Data Retrieval Failed
+12-07-2026 22:16:45 INFO  Honda Bike Details Written To Excel
+12-07-2026 22:16:49 INFO  TC_04 - Under 4 Lakhs Bikes Validation Completed
+12-07-2026 22:16:59 INFO  Browser : chrome
+12-07-2026 22:16:59 INFO  TC_05 - Popular Bikes Validation Started
+12-07-2026 22:17:03 INFO  TC_05 - Popular Bikes Retrieved Successfully
+12-07-2026 22:17:03 INFO  Hero Splendor Plus - Rs. 77,557
+12-07-2026 22:17:03 INFO  Yamaha R15 V4 - Rs. 1.73 Lakh
+12-07-2026 22:17:03 INFO  Royal Enfield Classic 350 - Rs. 1.87 Lakh
+12-07-2026 22:17:04 INFO  TVS Raider - Rs. 82,860
+12-07-2026 22:17:04 INFO  Royal Enfield Bullet 350 - Rs. 1.66 Lakh
+12-07-2026 22:17:04 INFO  TC_05 - Popular Bikes Validation Completed
+12-07-2026 22:17:07 INFO  Browser : edge
+12-07-2026 22:17:07 INFO  TC_05 - Popular Bikes Validation Started
+12-07-2026 22:17:11 INFO  TC_05 - Popular Bikes Retrieved Successfully
+12-07-2026 22:17:11 INFO  Hero Splendor Plus - Rs. 77,557
+12-07-2026 22:17:11 INFO  Yamaha R15 V4 - Rs. 1.73 Lakh
+12-07-2026 22:17:11 INFO  Royal Enfield Classic 350 - Rs. 1.87 Lakh
+12-07-2026 22:17:11 INFO  TVS Raider - Rs. 82,860
+12-07-2026 22:17:11 INFO  Royal Enfield Bullet 350 - Rs. 1.66 Lakh
+12-07-2026 22:17:11 INFO  TC_05 - Popular Bikes Validation Completed
+12-07-2026 22:17:19 INFO  Browser : chrome
+12-07-2026 22:17:19 INFO  TC_06 - Scooters Only Validation Started
+12-07-2026 22:17:27 INFO  Browser : edge
+12-07-2026 22:17:27 INFO  TC_06 - Scooters Only Validation Started
+12-07-2026 22:17:56 INFO  Browser : chrome
+12-07-2026 22:17:56 INFO  TC_07 - Alert Me Button Validation Started
+12-07-2026 22:17:59 INFO  Browser : edge
+12-07-2026 22:17:59 INFO  TC_07 - Alert Me Button Validation Started
+12-07-2026 22:24:43 INFO  Browser : edge
+12-07-2026 22:24:43 INFO  Browser : chrome
+12-07-2026 22:24:43 INFO  TC_01 - Title Validation Started
+12-07-2026 22:24:43 INFO  TC_01 - Title Validation Started
+12-07-2026 22:24:43 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+12-07-2026 22:24:43 INFO  TC_01 - Title Validation Passed
+12-07-2026 22:24:43 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+12-07-2026 22:24:43 INFO  TC_01 - Title Validation Passed
+12-07-2026 22:24:58 INFO  Browser : chrome
+12-07-2026 22:24:58 INFO  TC_02 - Upcoming Bikes Validation Started
+12-07-2026 22:24:59 INFO  Browser : edge
+12-07-2026 22:24:59 INFO  TC_02 - Upcoming Bikes Validation Started
+12-07-2026 22:25:01 INFO  TC_02 - Upcoming Bikes Validation Passed
+12-07-2026 22:25:03 INFO  TC_02 - Upcoming Bikes Validation Passed
+12-07-2026 22:25:14 INFO  Browser : edge
+12-07-2026 22:25:14 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 22:25:17 INFO  Browser : chrome
+12-07-2026 22:25:17 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 22:25:32 INFO  Browser : chrome
+12-07-2026 22:25:32 INFO  TC_04 - Under 4 Lakhs Bikes Validation Started
+12-07-2026 22:25:33 INFO  Browser : edge
+12-07-2026 22:25:33 INFO  TC_04 - Under 4 Lakhs Bikes Validation Started
+12-07-2026 22:25:52 INFO  Browser : edge
+12-07-2026 22:25:52 INFO  TC_05 - Popular Bikes Validation Started
+12-07-2026 22:25:54 INFO  Browser : chrome
+12-07-2026 22:25:54 INFO  TC_05 - Popular Bikes Validation Started
+12-07-2026 22:28:13 INFO  Browser : chrome
+12-07-2026 22:28:13 INFO  Browser : edge
+12-07-2026 22:28:13 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 22:28:13 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 22:28:21 INFO  TC_03 - Honda Bikes Retrieved Successfully
+12-07-2026 22:28:22 INFO  TC_03 - Honda Bikes Retrieved Successfully
+12-07-2026 22:28:29 INFO  TC_03 - Honda Bike Details Written To Excel
+12-07-2026 22:28:30 INFO  TC_03 - Honda Bike Details Written To Excel
+12-07-2026 22:28:41 INFO  Browser : chrome
+12-07-2026 22:28:42 INFO  TC_04 - Under 4 Lakhs Bikes Validation Started
+12-07-2026 22:28:43 INFO  Browser : edge
+12-07-2026 22:28:43 INFO  TC_04 - Under 4 Lakhs Bikes Validation Started
+12-07-2026 22:28:55 INFO  TC_04 - Honda Bike Details Retrieved Successfully
+12-07-2026 22:28:57 INFO  TC_04 - Honda Bike Details Retrieved Successfully
+12-07-2026 22:29:00 INFO  Honda Bike Details Written To Excel
+12-07-2026 22:29:01 INFO  Honda Bike Details Written To Excel
+12-07-2026 22:29:09 INFO  TC_04 - Under 4 Lakhs Bikes Validation Completed
+12-07-2026 22:29:10 INFO  TC_04 - Under 4 Lakhs Bikes Validation Completed
+12-07-2026 22:30:03 INFO  Browser : edge
+12-07-2026 22:30:04 INFO  TC_06 - Scooters Only Validation Started
+12-07-2026 22:30:08 INFO  Browser : chrome
+12-07-2026 22:30:08 INFO  TC_06 - Scooters Only Validation Started
+12-07-2026 22:34:04 INFO  Browser : chrome
+12-07-2026 22:34:04 INFO  Browser : edge
+12-07-2026 22:34:04 INFO  TC_06 - Scooters Only Validation Started
+12-07-2026 22:34:04 INFO  TC_06 - Scooters Only Validation Started
+12-07-2026 22:36:28 INFO  Browser : edge
+12-07-2026 22:36:28 INFO  Browser : chrome
+12-07-2026 22:36:28 INFO  TC_06 - Scooters Only Validation Started
+12-07-2026 22:36:28 INFO  TC_06 - Scooters Only Validation Started
+12-07-2026 22:36:33 INFO  TC_06 - Scooter Details Retrieved Successfully
+12-07-2026 22:36:33 INFO  Honda ADV 160
+Rs. 1.55 Lakh
+Expected Launch : Dec 2026
+Alert Me When Launched
+12-07-2026 22:36:33 INFO  Honda Forza 350
+Rs. 3.70 Lakh
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 22:36:33 INFO  Honda PCX160
+Rs. 1.20 Lakh
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 22:36:33 INFO  Honda Motocompacto
+Price To Be Announced
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 22:36:33 INFO  Honda Activa 7G
+Rs. 79,000
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 22:36:33 INFO  Honda SH125i
+Price To Be Announced
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 22:36:34 INFO  TC_06 - Scooters Only Validation Completed
+12-07-2026 22:36:34 INFO  TC_06 - Scooter Details Retrieved Successfully
+12-07-2026 22:36:34 INFO  Honda ADV 160
+Rs. 1.55 Lakh
+Expected Launch : Dec 2026
+Alert Me When Launched
+12-07-2026 22:36:34 INFO  Honda Forza 350
+Rs. 3.70 Lakh
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 22:36:34 INFO  Honda PCX160
+Rs. 1.20 Lakh
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 22:36:34 INFO  Honda Motocompacto
+Price To Be Announced
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 22:36:35 INFO  Honda Activa 7G
+Rs. 79,000
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 22:36:35 INFO  Honda SH125i
+Price To Be Announced
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 22:36:35 INFO  TC_06 - Scooters Only Validation Completed
+12-07-2026 22:37:21 INFO  Browser : chrome
+12-07-2026 22:37:21 INFO  Browser : edge
+12-07-2026 22:37:21 INFO  TC_01 - Title Validation Started
+12-07-2026 22:37:21 INFO  TC_01 - Title Validation Started
+12-07-2026 22:37:22 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+12-07-2026 22:37:22 INFO  TC_01 - Title Validation Passed
+12-07-2026 22:37:22 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+12-07-2026 22:37:22 INFO  TC_01 - Title Validation Passed
+12-07-2026 22:37:36 INFO  Browser : edge
+12-07-2026 22:37:36 INFO  TC_02 - Upcoming Bikes Validation Started
+12-07-2026 22:37:42 INFO  Browser : chrome
+12-07-2026 22:37:42 INFO  TC_02 - Upcoming Bikes Validation Started
+12-07-2026 22:37:47 INFO  TC_02 - Upcoming Bikes Validation Passed
+12-07-2026 22:37:50 INFO  TC_02 - Upcoming Bikes Validation Passed
+12-07-2026 22:38:03 INFO  Browser : edge
+12-07-2026 22:38:03 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 22:38:07 INFO  Browser : chrome
+12-07-2026 22:38:07 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 22:38:17 INFO  TC_03 - Honda Bikes Retrieved Successfully
+12-07-2026 22:38:17 INFO  TC_03 - Honda Bikes Retrieved Successfully
+12-07-2026 22:38:25 INFO  TC_03 - Honda Bike Details Written To Excel
+12-07-2026 22:38:25 INFO  TC_03 - Honda Bike Details Written To Excel
+12-07-2026 22:38:37 INFO  Browser : edge
+12-07-2026 22:38:37 INFO  TC_04 - Under 4 Lakhs Bikes Validation Started
+12-07-2026 22:38:41 INFO  Browser : chrome
+12-07-2026 22:38:41 INFO  TC_04 - Under 4 Lakhs Bikes Validation Started
+12-07-2026 22:38:49 INFO  TC_04 - Honda Bike Details Retrieved Successfully
+12-07-2026 22:38:51 INFO  TC_04 - Honda Bike Details Retrieved Successfully
+12-07-2026 22:38:54 INFO  Honda Bike Details Written To Excel
+12-07-2026 22:38:56 INFO  Honda Bike Details Written To Excel
+12-07-2026 22:39:05 INFO  TC_04 - Under 4 Lakhs Bikes Validation Completed
+12-07-2026 22:39:08 INFO  TC_04 - Under 4 Lakhs Bikes Validation Completed
+12-07-2026 22:39:20 INFO  Browser : edge
+12-07-2026 22:39:20 INFO  TC_05 - Popular Bikes Validation Started
+12-07-2026 22:39:21 INFO  Browser : chrome
+12-07-2026 22:39:21 INFO  TC_05 - Popular Bikes Validation Started
+12-07-2026 22:39:25 INFO  TC_05 - Popular Bikes Retrieved Successfully
+12-07-2026 22:39:25 INFO  Hero Splendor Plus - Rs. 77,557
+12-07-2026 22:39:25 INFO  Yamaha R15 V4 - Rs. 1.73 Lakh
+12-07-2026 22:39:25 INFO  Royal Enfield Classic 350 - Rs. 1.87 Lakh
+12-07-2026 22:39:25 INFO  TVS Raider - Rs. 82,860
+12-07-2026 22:39:25 INFO  Royal Enfield Bullet 350 - Rs. 1.66 Lakh
+12-07-2026 22:39:25 INFO  TC_05 - Popular Bikes Validation Completed
+12-07-2026 22:39:29 INFO  TC_05 - Popular Bikes Retrieved Successfully
+12-07-2026 22:39:30 INFO  Hero Splendor Plus - Rs. 77,557
+12-07-2026 22:39:30 INFO  Yamaha R15 V4 - Rs. 1.73 Lakh
+12-07-2026 22:39:30 INFO  Royal Enfield Classic 350 - Rs. 1.87 Lakh
+12-07-2026 22:39:30 INFO  TVS Raider - Rs. 82,860
+12-07-2026 22:39:30 INFO  Royal Enfield Bullet 350 - Rs. 1.66 Lakh
+12-07-2026 22:39:30 INFO  TC_05 - Popular Bikes Validation Completed
+12-07-2026 22:39:38 INFO  Browser : chrome
+12-07-2026 22:39:38 INFO  TC_06 - Scooters Only Validation Started
+12-07-2026 22:39:46 INFO  TC_06 - Scooter Details Retrieved Successfully
+12-07-2026 22:39:46 INFO  Honda ADV 160
+Rs. 1.55 Lakh
+Expected Launch : Dec 2026
+Alert Me When Launched
+12-07-2026 22:39:46 INFO  Honda Forza 350
+Rs. 3.70 Lakh
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 22:39:46 INFO  Honda PCX160
+Rs. 1.20 Lakh
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 22:39:46 INFO  Honda Motocompacto
+Price To Be Announced
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 22:39:46 INFO  Honda Activa 7G
+Rs. 79,000
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 22:39:46 INFO  Honda SH125i
+Price To Be Announced
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 22:39:46 INFO  TC_06 - Scooters Only Validation Completed
+12-07-2026 22:39:46 INFO  Browser : edge
+12-07-2026 22:39:46 INFO  TC_06 - Scooters Only Validation Started
+12-07-2026 22:39:51 INFO  TC_06 - Scooter Details Retrieved Successfully
+12-07-2026 22:39:51 INFO  Honda ADV 160
+Rs. 1.55 Lakh
+Expected Launch : Dec 2026
+Alert Me When Launched
+12-07-2026 22:39:51 INFO  Honda Forza 350
+Rs. 3.70 Lakh
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 22:39:51 INFO  Honda PCX160
+Rs. 1.20 Lakh
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 22:39:51 INFO  Honda Motocompacto
+Price To Be Announced
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 22:39:51 INFO  Honda Activa 7G
+Rs. 79,000
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 22:39:51 INFO  Honda SH125i
+Price To Be Announced
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 22:39:51 INFO  TC_06 - Scooters Only Validation Completed
+12-07-2026 22:40:02 INFO  Browser : chrome
+12-07-2026 22:40:02 INFO  TC_07 - Alert Me Button Validation Started
+12-07-2026 22:40:08 INFO  Browser : edge
+12-07-2026 22:40:08 INFO  TC_07 - Alert Me Button Validation Started
+12-07-2026 22:40:13 INFO  TC_07 - Alert Me Button Validation Passed
+12-07-2026 22:40:17 INFO  TC_07 - Alert Me Button Validation Passed
+12-07-2026 22:40:28 INFO  Browser : chrome
+12-07-2026 22:40:28 INFO  TC_08 - Upcoming Bikes By Body Type Validation Started
+12-07-2026 22:40:32 INFO  Total Body Types Found: 4
+12-07-2026 22:40:33 INFO  Body Type 1: Cruiser
+12-07-2026 22:40:33 INFO  Body Type 2: Commuter
+12-07-2026 22:40:33 INFO  Body Type 3: Scooters
+12-07-2026 22:40:33 INFO  Body Type 4: Sports
+12-07-2026 22:40:33 INFO  TC_08 - Upcoming Bikes By Body Type Validation Completed
+12-07-2026 22:40:34 INFO  Browser : edge
+12-07-2026 22:40:34 INFO  TC_08 - Upcoming Bikes By Body Type Validation Started
+12-07-2026 22:40:37 INFO  Total Body Types Found: 4
+12-07-2026 22:40:37 INFO  Body Type 1: Cruiser
+12-07-2026 22:40:37 INFO  Body Type 2: Commuter
+12-07-2026 22:40:37 INFO  Body Type 3: Scooters
+12-07-2026 22:40:37 INFO  Body Type 4: Sports
+12-07-2026 22:40:37 INFO  TC_08 - Upcoming Bikes By Body Type Validation Completed
+12-07-2026 22:41:37 INFO  Browser : edge
+12-07-2026 22:41:37 INFO  Browser : chrome
+12-07-2026 22:41:37 INFO  TC_09 - Used Cars Section Validation Started
+12-07-2026 22:41:37 INFO  TC_09 - Used Cars Section Validation Started
+12-07-2026 22:41:44 INFO  TC_09 - Used Cars Section Validation Passed
+12-07-2026 22:41:44 INFO  TC_09 - Used Cars Section Validation Passed
+12-07-2026 22:42:00 INFO  Browser : edge
+12-07-2026 22:42:00 INFO  TC_10 - Chennai City Selection Validation Started
+12-07-2026 22:42:00 INFO  Browser : chrome
+12-07-2026 22:42:00 INFO  TC_10 - Chennai City Selection Validation Started
+12-07-2026 22:42:06 INFO  TC_10 - Chennai City Selection Validation Passed
+12-07-2026 22:42:07 INFO  TC_10 - Chennai City Selection Validation Passed
+12-07-2026 22:42:21 INFO  Browser : chrome
+12-07-2026 22:42:21 INFO  TC_11 - Popular Models Validation Started
+12-07-2026 22:42:25 INFO  Browser : edge
+12-07-2026 22:42:25 INFO  TC_11 - Popular Models Validation Started
+12-07-2026 22:43:02 INFO  TC_11 - Popular Models Loaded Successfully
+12-07-2026 22:43:19 INFO  TC_11 - Popular Models Loaded Successfully
+12-07-2026 22:43:30 INFO  TC_11 - Car Details Written To Excel
+12-07-2026 22:43:36 INFO  TC_11 - Car Details Written To Excel
+12-07-2026 22:43:52 INFO  Browser : edge
+12-07-2026 22:43:52 INFO  TC_12 - Under 3 Lakh Cars Validation Started
+12-07-2026 22:43:57 INFO  Browser : chrome
+12-07-2026 22:43:57 INFO  TC_12 - Under 3 Lakh Cars Validation Started
+12-07-2026 22:44:41 INFO  TC_12 - Popular Models Loaded Successfully
+12-07-2026 22:44:52 INFO  TC_12 - Popular Models Loaded Successfully
+12-07-2026 22:45:09 INFO  Car Details Written To Excel
+12-07-2026 22:45:10 INFO  Under 3 Lakh Car: Hyundai i10 Magna 1.2
+12-07-2026 22:45:10 INFO  Under 3 Lakh Car: Hyundai i10 Asta
+12-07-2026 22:45:11 INFO  Under 3 Lakh Car: Honda City 1.5 EXI S
+12-07-2026 22:45:11 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+12-07-2026 22:45:12 INFO  Under 3 Lakh Car: Honda City 1.5 GXI
+12-07-2026 22:45:13 INFO  Under 3 Lakh Car: Honda City 1.5 V AT
+12-07-2026 22:45:14 INFO  Under 3 Lakh Car: Hyundai Santro Xing XO eRLX Euro II
+12-07-2026 22:45:14 INFO  Under 3 Lakh Car: Hyundai i10 Sportz 1.2 AT
+12-07-2026 22:45:14 INFO  Under 3 Lakh Car: Hyundai i10 Magna
+12-07-2026 22:45:18 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+12-07-2026 22:45:18 INFO  Under 3 Lakh Car: Hyundai i10 Sportz AT
+12-07-2026 22:45:18 INFO  Under 3 Lakh Car: Hyundai Santro Xing GLS
+12-07-2026 22:45:19 INFO  Under 3 Lakh Car: Hyundai i10 Magna 1.2
+12-07-2026 22:45:19 INFO  Under 3 Lakh Car: Hyundai i10 Asta
+12-07-2026 22:45:20 INFO  Under 3 Lakh Car: Honda City 1.5 EXI S
+12-07-2026 22:45:20 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+12-07-2026 22:45:21 INFO  Under 3 Lakh Car: Honda City 1.5 GXI
+12-07-2026 22:45:22 INFO  Car Details Written To Excel
+12-07-2026 22:45:22 INFO  Under 3 Lakh Car: Honda City 1.5 V AT
+12-07-2026 22:45:22 INFO  Under 3 Lakh Car: Hyundai Santro Xing XO eRLX Euro II
+12-07-2026 22:45:23 INFO  Under 3 Lakh Car: Hyundai i10 Sportz 1.2 AT
+12-07-2026 22:45:23 INFO  Under 3 Lakh Car: Hyundai i10 Magna
+12-07-2026 22:45:23 INFO  TC_12 - Under 3 Lakh Cars Validation Completed
+12-07-2026 22:45:24 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+12-07-2026 22:45:24 INFO  Under 3 Lakh Car: Hyundai i10 Sportz AT
+12-07-2026 22:45:25 INFO  Under 3 Lakh Car: Hyundai Santro Xing GLS
+12-07-2026 22:45:25 INFO  Under 3 Lakh Car: Hyundai i10 Magna 1.2
+12-07-2026 22:45:25 INFO  Under 3 Lakh Car: Hyundai i10 Asta
+12-07-2026 22:45:26 INFO  Under 3 Lakh Car: Honda City 1.5 GXI
+12-07-2026 22:45:27 INFO  Under 3 Lakh Car: Honda City 1.5 EXI S
+12-07-2026 22:45:27 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+12-07-2026 22:45:28 INFO  Under 3 Lakh Car: Honda City 1.5 V AT
+12-07-2026 22:45:28 INFO  Under 3 Lakh Car: Hyundai Santro Xing XO eRLX Euro II
+12-07-2026 22:45:28 INFO  Under 3 Lakh Car: Hyundai i10 Sportz 1.2 AT
+12-07-2026 22:45:28 INFO  Under 3 Lakh Car: Hyundai i10 Magna
+12-07-2026 22:45:31 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+12-07-2026 22:45:32 INFO  Under 3 Lakh Car: Hyundai i10 Sportz AT
+12-07-2026 22:45:32 INFO  Under 3 Lakh Car: Hyundai Santro Xing GLS
+12-07-2026 22:45:33 INFO  Under 3 Lakh Car: Hyundai i10 Magna 1.2
+12-07-2026 22:45:34 INFO  Under 3 Lakh Car: Hyundai i10 Asta
+12-07-2026 22:45:35 INFO  Under 3 Lakh Car: Honda City 1.5 EXI S
+12-07-2026 22:45:35 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+12-07-2026 22:45:36 INFO  Under 3 Lakh Car: Honda City 1.5 GXI
+12-07-2026 22:45:37 INFO  Under 3 Lakh Car: Honda City 1.5 V AT
+12-07-2026 22:45:37 INFO  Under 3 Lakh Car: Hyundai Santro Xing XO eRLX Euro II
+12-07-2026 22:45:38 INFO  Under 3 Lakh Car: Hyundai i10 Sportz 1.2 AT
+12-07-2026 22:45:38 INFO  Under 3 Lakh Car: Hyundai i10 Magna
+12-07-2026 22:45:38 INFO  TC_12 - Under 3 Lakh Cars Validation Completed
+12-07-2026 22:45:40 INFO  Browser : chrome
+12-07-2026 22:45:40 INFO  TC_13 - Price Low To High Sorting Validation Started
+12-07-2026 22:46:01 INFO  Browser : edge
+12-07-2026 22:46:01 INFO  TC_13 - Price Low To High Sorting Validation Started
+12-07-2026 22:46:13 INFO  TC_13 - Price Filter Applied Successfully
+12-07-2026 22:46:16 INFO  First 4 Cars After Sorting:
+12-07-2026 22:46:16 INFO  Honda City i VTEC CVT SV - Rs. 5.27 Lakh
+12-07-2026 22:46:16 INFO  Hyundai Santro Xing XO eRLX Euro II - Rs. 1.85 Lakh
+12-07-2026 22:46:17 INFO  Hyundai i10 Magna - Rs. 1.85 Lakh
+12-07-2026 22:46:17 INFO  Hyundai i10 Sportz - Rs. 2.10 Lakh
+12-07-2026 22:46:17 INFO  TC_13 - Price Low To High Sorting Validation Completed
+12-07-2026 22:46:32 INFO  Browser : chrome
+12-07-2026 22:46:32 INFO  TC_14 - KM Driven Filter Validation Started
+12-07-2026 22:46:59 INFO  TC_13 - Price Filter Applied Successfully
+12-07-2026 22:47:02 INFO  First 4 Cars After Sorting:
+12-07-2026 22:47:03 INFO  Honda City 1.5 GXI - Rs. 1.60 Lakh
+12-07-2026 22:47:03 INFO  Hyundai Santro Xing XO eRLX Euro II - Rs. 1.85 Lakh
+12-07-2026 22:47:03 INFO  Hyundai i10 Magna - Rs. 1.85 Lakh
+12-07-2026 22:47:03 INFO  Hyundai i10 Sportz - Rs. 2.10 Lakh
+12-07-2026 22:47:03 INFO  TC_13 - Price Low To High Sorting Validation Completed
+12-07-2026 22:47:24 INFO  Browser : edge
+12-07-2026 22:47:24 INFO  TC_14 - KM Driven Filter Validation Started
+12-07-2026 22:47:30 INFO  TC_14 - KM Driven Filter Validation Passed
+12-07-2026 22:48:09 INFO  TC_14 - KM Driven Filter Validation Passed
+12-07-2026 22:49:49 INFO  Browser : edge
+12-07-2026 22:49:49 INFO  TC_15 - Google Login Button Validation Started
+12-07-2026 22:49:51 INFO  Browser : chrome
+12-07-2026 22:49:51 INFO  TC_15 - Google Login Button Validation Started
+12-07-2026 22:49:53 INFO  TC_15 - Google Login Button Validation Passed
+12-07-2026 22:49:54 INFO  TC_15 - Google Login Button Validation Passed
+12-07-2026 22:50:06 INFO  Browser : chrome
+12-07-2026 22:50:06 INFO  TC_16 - Invalid Email Validation Started
+12-07-2026 22:50:07 INFO  Browser : edge
+12-07-2026 22:50:07 INFO  TC_16 - Invalid Email Validation Started
+12-07-2026 22:50:17 INFO  Captured Error Message: Enter a valid email or phone number
+12-07-2026 22:50:17 INFO  TC_16 - Invalid Email Validation Passed
+12-07-2026 22:50:25 INFO  Captured Error Message: Enter a valid email or phone number
+12-07-2026 22:50:25 INFO  TC_16 - Invalid Email Validation Passed
+12-07-2026 22:50:34 INFO  Browser : chrome
+12-07-2026 22:50:34 INFO  TC_17 - Invalid Phone Number Validation Started
+12-07-2026 22:50:38 INFO  Browser : edge
+12-07-2026 22:50:38 INFO  TC_17 - Invalid Phone Number Validation Started
+12-07-2026 22:51:02 INFO  Captured Error Message: Enter a valid email or phone number
+12-07-2026 22:51:02 INFO  TC_17 - Invalid Phone Number Validation Passed
+12-07-2026 22:51:07 INFO  Captured Error Message: Error Message Not Found
+12-07-2026 22:51:07 INFO  TC_17 - Invalid Phone Number Validation Passed
+12-07-2026 22:51:20 INFO  Browser : edge
+12-07-2026 22:51:20 INFO  TC_18 - Valid Email Validation Started
+12-07-2026 22:51:20 INFO  Browser : chrome
+12-07-2026 22:51:20 INFO  TC_18 - Valid Email Validation Started
+12-07-2026 22:51:29 INFO  TC_18 - Valid Email Validation Completed
+12-07-2026 22:51:34 INFO  TC_18 - Valid Email Validation Completed
+12-07-2026 22:51:45 INFO  Browser : chrome
+12-07-2026 22:51:45 INFO  TC_19 - Invalid Password Validation Started
+12-07-2026 22:51:48 INFO  Browser : edge
+12-07-2026 22:51:49 INFO  TC_19 - Invalid Password Validation Started
+12-07-2026 22:52:09 INFO  Captured Error Message: Wrong password. Try again or click "Try another way" for more options.
+12-07-2026 22:52:09 INFO  TC_19 - Invalid Password Validation Passed
+12-07-2026 22:52:10 INFO  Captured Error Message: Wrong password. Try again or click "Try another way" for more options.
+12-07-2026 22:52:10 INFO  TC_19 - Invalid Password Validation Passed
+12-07-2026 22:52:30 INFO  Browser : chrome
+12-07-2026 22:52:30 INFO  TC_20 - Valid Password Validation Started
+12-07-2026 22:52:33 INFO  Browser : edge
+12-07-2026 22:52:33 INFO  TC_20 - Valid Password Validation Started
+12-07-2026 22:52:45 INFO  TC_20 - Valid Password Validation Passed
+12-07-2026 22:52:45 INFO  TC_20 - Valid Password Validation Passed
+12-07-2026 22:52:57 INFO  Browser : chrome
+12-07-2026 22:52:57 INFO  TC_21 - Upcoming Honda Bikes FAQs Validation Started
+12-07-2026 22:52:59 INFO  Browser : edge
+12-07-2026 22:52:59 INFO  TC_21 - Upcoming Honda Bikes FAQs Validation Started
+12-07-2026 22:53:10 INFO  Total FAQ Questions Found: 6
+12-07-2026 22:53:11 INFO  FAQ 1: What are the upcoming honda bikes in India 2026?
+12-07-2026 22:53:11 INFO  FAQ 2: What are the upcoming honda commuter bikes in India?
+12-07-2026 22:53:11 INFO  FAQ 3: What are the upcoming honda scooters in India?
+12-07-2026 22:53:11 INFO  FAQ 4: What are the upcoming honda sports bikes in India?
+12-07-2026 22:53:11 INFO  FAQ 5: What are the upcoming honda cruiser bikes in India?
+12-07-2026 22:53:11 INFO  FAQ 6: What are the upcoming honda bikes under 1 lakh?
+12-07-2026 22:53:11 INFO  TC_21 - Upcoming Honda Bikes FAQs Validation Completed
+12-07-2026 22:53:12 INFO  Total FAQ Questions Found: 6
+12-07-2026 22:53:12 INFO  FAQ 1: What are the upcoming honda bikes in India 2026?
+12-07-2026 22:53:12 INFO  FAQ 2: What are the upcoming honda commuter bikes in India?
+12-07-2026 22:53:12 INFO  FAQ 3: What are the upcoming honda scooters in India?
+12-07-2026 22:53:12 INFO  FAQ 4: What are the upcoming honda sports bikes in India?
+12-07-2026 22:53:12 INFO  FAQ 5: What are the upcoming honda cruiser bikes in India?
+12-07-2026 22:53:12 INFO  FAQ 6: What are the upcoming honda bikes under 1 lakh?
+12-07-2026 22:53:12 INFO  TC_21 - Upcoming Honda Bikes FAQs Validation Completed

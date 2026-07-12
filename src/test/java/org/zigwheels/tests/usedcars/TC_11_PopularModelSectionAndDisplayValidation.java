@@ -1,5 +1,5 @@
-//changed
 package org.zigwheels.tests.usedcars;
+
 import java.util.List;
 
 import org.openqa.selenium.WebElement;
@@ -12,27 +12,35 @@ import utilities.ExcelUtils;
 import utilities.Log;
 
 public class TC_11_PopularModelSectionAndDisplayValidation extends BaseTest {
+
     @Test
     public void verifyPopularModelsSection() throws Exception {
-        Log.info("Popular Models Validation Started");
+
+        Log.info("TC_11 - Popular Models Validation Started");
         CarsPage cp = new CarsPage(driver);
-        // TC_09 Steps
+        // Navigate to Used Cars page
         cp.hoverMoreMenu();
         cp.clickUsedCars();
-        Log.info("Used Cars Page Opened Successfully");
-        // TC_10 Steps
+        // Select Chennai city
         cp.selectChennaiCity();
-        Log.info("Chennai City Selected Successfully");
-        // TC_11 Steps
+        // Select all popular models and load all cars
         cp.scrollToPopularModels();
         int totalSelected = cp.selectAllPopularModels();
         boolean allCarsLoaded = cp.scrollTillAllCarsLoaded();
-        Assert.assertTrue(totalSelected > 0, "No Popular Models Selected");
-        Assert.assertTrue(allCarsLoaded, "All Cars Not Loaded Successfully");
+        try {
+            // Validate model selection and car loading
+            Assert.assertTrue(totalSelected > 0, "No Popular Models Selected");
+            Assert.assertTrue(allCarsLoaded, "All Cars Not Loaded Successfully");
+            Log.info("TC_11 - Popular Models Loaded Successfully");
+        } catch (AssertionError e) {
+            Log.error("TC_11 - Popular Models Validation Failed");
+            throw e;
+        }
+        // Fetch and store car details in Excel
         List<WebElement> carNames = cp.getCarNames();
         List<WebElement> carPrices = cp.getCarPrices();
         int count = Math.min(carNames.size(), carPrices.size());
-        String fileName = "src/test/resources/Details.xlsx";
+        String fileName = "src/test/resources/Details_" + getBrowserName() + ".xlsx";
         for (int i = 0; i < count; i++) {
             String carName = carNames.get(i).getText().trim();
             String price = carPrices.get(i).getText().trim();
@@ -40,6 +48,6 @@ public class TC_11_PopularModelSectionAndDisplayValidation extends BaseTest {
                 ExcelUtils.appendCarDetail(fileName, "CarDetails", carName, price);
             }
         }
-        Log.info("Car Details Written To Excel Successfully");
+        Log.info("TC_11 - Car Details Written To Excel");
     }
 }

@@ -1,4 +1,3 @@
-//changed
 package org.zigwheels.tests.upcomingbikes;
 
 import basetest.BaseTest;
@@ -14,29 +13,34 @@ public class TC_06_ScootyOnlyValidation extends BaseTest {
 
     @Test
     public void verifyScootersOnlyDetails() {
-        Log.info("Scooters Only Validation Started");
+        Log.info("TC_06 - Scooters Only Validation Started");
         BikesPage bikesPage = new BikesPage(driver);
-        // TC_02 Methods
+        // Navigate to Honda Upcoming Bikes
         bikesPage.clickUpcomingBikes();
-        Log.info("Upcoming Bikes Menu Clicked Successfully");
-        // TC_03 Methods
         bikesPage.scrollToUpcomingBikesByBrand();
-        Log.info("Scrolled To Upcoming Bikes By Brand Section");
         bikesPage.clickHondaBrand();
-        Log.info("Honda Brand Clicked Successfully");
-        // TC_06 Validation
+        // Apply Scooters Only filter
         bikesPage.clickScootersOnly();
-        Log.info("Scooters Only Filter Clicked Successfully");
+        // Fetch scooter cards
         List<WebElement> scooterCards = bikesPage.getScooterCards();
-        Assert.assertTrue(scooterCards.size() > 0, "No Scooters Found");
+
+        try {
+            // Validate scooters are available
+            Assert.assertTrue(scooterCards.size() > 0, "No Scooters Found");
+            Log.info("TC_06 - Scooter Details Retrieved Successfully");
+
+        } catch (AssertionError e) {
+            Log.error("TC_06 - Scooters Only Validation Failed");
+            throw e;
+        }
+
+        // Print scooter details
         for (WebElement card : scooterCards) {
             String details = card.getText().trim();
-            if (details.isEmpty()) {
-                continue;
+            if (!details.isEmpty()) {
+                Log.info(details);
             }
-            Log.info(details);
-            Log.info("================================");
         }
-        Log.info("Scooters Details Printed Successfully");
+        Log.info("TC_06 - Scooters Only Validation Completed");
     }
 }
