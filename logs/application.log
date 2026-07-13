@@ -2192,3 +2192,317 @@ Alert Me When Launched
 12-07-2026 23:45:48 INFO  TC_10 - Chennai City Selection Validation Started
 12-07-2026 23:45:55 INFO  TC_10 - Chennai City Selection Validation Passed
 12-07-2026 23:45:55 INFO  TC_10 - Chennai City Selection Validation Passed
+12-07-2026 23:48:43 INFO  Browser : edge
+12-07-2026 23:48:43 INFO  TC_01 - Title Validation Started
+12-07-2026 23:48:45 INFO  Browser : chrome
+12-07-2026 23:48:45 INFO  TC_01 - Title Validation Started
+12-07-2026 23:48:45 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+12-07-2026 23:48:45 INFO  TC_01 - Title Validation Passed
+12-07-2026 23:48:46 INFO  Page Title: New Cars, Bikes & Scooters, Used Cars, News & Reviews - ZigWheels
+12-07-2026 23:48:46 INFO  TC_01 - Title Validation Passed
+12-07-2026 23:49:00 INFO  Browser : chrome
+12-07-2026 23:49:00 INFO  TC_02 - Upcoming Bikes Validation Started
+12-07-2026 23:49:02 INFO  Browser : edge
+12-07-2026 23:49:02 INFO  TC_02 - Upcoming Bikes Validation Started
+12-07-2026 23:49:04 INFO  TC_02 - Upcoming Bikes Validation Passed
+12-07-2026 23:49:06 INFO  TC_02 - Upcoming Bikes Validation Passed
+12-07-2026 23:49:19 INFO  Browser : chrome
+12-07-2026 23:49:19 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 23:49:22 INFO  Browser : edge
+12-07-2026 23:49:22 INFO  TC_03 - Honda Manufacturer Filter Validation Started
+12-07-2026 23:49:29 INFO  TC_03 - Honda Bikes Retrieved Successfully
+12-07-2026 23:49:29 INFO  TC_03 - Honda Bikes Retrieved Successfully
+12-07-2026 23:49:39 INFO  TC_03 - Honda Bike Details Written To Excel
+12-07-2026 23:49:40 INFO  TC_03 - Honda Bike Details Written To Excel
+12-07-2026 23:49:53 INFO  Browser : edge
+12-07-2026 23:49:53 INFO  TC_04 - Under 4 Lakhs Bikes Validation Started
+12-07-2026 23:49:57 INFO  Browser : chrome
+12-07-2026 23:49:57 INFO  TC_04 - Under 4 Lakhs Bikes Validation Started
+12-07-2026 23:50:04 INFO  TC_04 - Honda Bike Details Retrieved Successfully
+12-07-2026 23:50:05 INFO  TC_04 - Honda Bike Details Retrieved Successfully
+12-07-2026 23:50:10 INFO  Honda Bike Details Written To Excel
+12-07-2026 23:50:10 INFO  Honda Bike Details Written To Excel
+12-07-2026 23:50:16 INFO  TC_04 - Under 4 Lakhs Bikes Validation Completed
+12-07-2026 23:50:28 INFO  Browser : chrome
+12-07-2026 23:50:28 INFO  TC_05 - Popular Bikes Validation Started
+12-07-2026 23:50:35 INFO  TC_05 - Popular Bikes Retrieved Successfully
+12-07-2026 23:50:35 INFO  Hero Splendor Plus - Rs. 77,557
+12-07-2026 23:50:35 INFO  Yamaha R15 V4 - Rs. 1.73 Lakh
+12-07-2026 23:50:35 INFO  Royal Enfield Classic 350 - Rs. 1.87 Lakh
+12-07-2026 23:50:35 INFO  TVS Raider - Rs. 82,860
+12-07-2026 23:50:35 INFO  Royal Enfield Bullet 350 - Rs. 1.66 Lakh
+12-07-2026 23:50:35 INFO  TC_05 - Popular Bikes Validation Completed
+12-07-2026 23:50:36 INFO  TC_04 - Under 4 Lakhs Bikes Validation Completed
+12-07-2026 23:50:49 INFO  Browser : chrome
+12-07-2026 23:50:49 INFO  TC_06 - Scooters Only Validation Started
+12-07-2026 23:50:54 INFO  Browser : edge
+12-07-2026 23:50:54 INFO  TC_05 - Popular Bikes Validation Started
+12-07-2026 23:50:56 INFO  TC_06 - Scooter Details Retrieved Successfully
+12-07-2026 23:50:56 INFO  Honda ADV 160
+Rs. 1.55 Lakh
+Expected Launch : Dec 2026
+Alert Me When Launched
+12-07-2026 23:50:56 INFO  Honda Forza 350
+Rs. 3.70 Lakh
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 23:50:57 INFO  Honda PCX160
+Rs. 1.20 Lakh
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 23:50:57 INFO  Honda Motocompacto
+Price To Be Announced
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 23:50:57 INFO  Honda Activa 7G
+Rs. 79,000
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 23:50:57 INFO  Honda SH125i
+Price To Be Announced
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 23:50:57 INFO  TC_06 - Scooters Only Validation Completed
+12-07-2026 23:51:02 INFO  TC_05 - Popular Bikes Retrieved Successfully
+12-07-2026 23:51:02 INFO  Hero Splendor Plus - Rs. 77,557
+12-07-2026 23:51:03 INFO  Yamaha R15 V4 - Rs. 1.73 Lakh
+12-07-2026 23:51:03 INFO  Royal Enfield Classic 350 - Rs. 1.87 Lakh
+12-07-2026 23:51:03 INFO  TVS Raider - Rs. 82,860
+12-07-2026 23:51:03 INFO  Royal Enfield Bullet 350 - Rs. 1.66 Lakh
+12-07-2026 23:51:03 INFO  TC_05 - Popular Bikes Validation Completed
+12-07-2026 23:51:14 INFO  Browser : chrome
+12-07-2026 23:51:14 INFO  TC_07 - Alert Me Button Validation Started
+12-07-2026 23:51:19 INFO  Browser : edge
+12-07-2026 23:51:19 INFO  TC_06 - Scooters Only Validation Started
+12-07-2026 23:51:24 INFO  TC_06 - Scooter Details Retrieved Successfully
+12-07-2026 23:51:24 INFO  Honda ADV 160
+Rs. 1.55 Lakh
+Expected Launch : Dec 2026
+Alert Me When Launched
+12-07-2026 23:51:24 INFO  Honda Forza 350
+Rs. 3.70 Lakh
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 23:51:24 INFO  Honda PCX160
+Rs. 1.20 Lakh
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 23:51:24 INFO  Honda Motocompacto
+Price To Be Announced
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 23:51:24 INFO  Honda Activa 7G
+Rs. 79,000
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 23:51:24 INFO  Honda SH125i
+Price To Be Announced
+Expected Launch : Unrevealed
+Alert Me When Launched
+12-07-2026 23:51:24 INFO  TC_06 - Scooters Only Validation Completed
+12-07-2026 23:51:26 INFO  TC_07 - Alert Me Button Validation Passed
+12-07-2026 23:51:36 INFO  Browser : edge
+12-07-2026 23:51:36 INFO  TC_07 - Alert Me Button Validation Started
+12-07-2026 23:51:38 INFO  Browser : chrome
+12-07-2026 23:51:38 INFO  TC_08 - Upcoming Bikes By Body Type Validation Started
+12-07-2026 23:51:46 INFO  Total Body Types Found: 4
+12-07-2026 23:51:46 INFO  Body Type 1: Cruiser
+12-07-2026 23:51:47 INFO  Body Type 2: Commuter
+12-07-2026 23:51:47 INFO  Body Type 3: Scooters
+12-07-2026 23:51:47 INFO  Body Type 4: Sports
+12-07-2026 23:51:47 INFO  TC_08 - Upcoming Bikes By Body Type Validation Completed
+12-07-2026 23:51:52 INFO  TC_07 - Alert Me Button Validation Passed
+12-07-2026 23:52:01 INFO  Browser : chrome
+12-07-2026 23:52:01 INFO  TC_09 - Used Cars Section Validation Started
+12-07-2026 23:52:06 INFO  Browser : edge
+12-07-2026 23:52:06 INFO  TC_08 - Upcoming Bikes By Body Type Validation Started
+12-07-2026 23:52:10 INFO  TC_09 - Used Cars Section Validation Passed
+12-07-2026 23:52:14 INFO  Total Body Types Found: 4
+12-07-2026 23:52:14 INFO  Body Type 1: Cruiser
+12-07-2026 23:52:14 INFO  Body Type 2: Commuter
+12-07-2026 23:52:14 INFO  Body Type 3: Scooters
+12-07-2026 23:52:14 INFO  Body Type 4: Sports
+12-07-2026 23:52:14 INFO  TC_08 - Upcoming Bikes By Body Type Validation Completed
+12-07-2026 23:52:25 INFO  Browser : chrome
+12-07-2026 23:52:25 INFO  TC_10 - Chennai City Selection Validation Started
+12-07-2026 23:52:31 INFO  Browser : edge
+12-07-2026 23:52:31 INFO  TC_09 - Used Cars Section Validation Started
+12-07-2026 23:52:36 INFO  TC_09 - Used Cars Section Validation Passed
+12-07-2026 23:52:37 INFO  TC_10 - Chennai City Selection Validation Passed
+12-07-2026 23:52:47 INFO  Browser : edge
+12-07-2026 23:52:47 INFO  TC_10 - Chennai City Selection Validation Started
+12-07-2026 23:52:49 INFO  Browser : chrome
+12-07-2026 23:52:49 INFO  TC_11 - Popular Models Validation Started
+12-07-2026 23:53:01 INFO  TC_10 - Chennai City Selection Validation Passed
+12-07-2026 23:53:17 INFO  Browser : edge
+12-07-2026 23:53:17 INFO  TC_11 - Popular Models Validation Started
+12-07-2026 23:53:32 INFO  TC_11 - Popular Models Loaded Successfully
+12-07-2026 23:53:46 INFO  TC_11 - Popular Models Loaded Successfully
+12-07-2026 23:53:57 INFO  TC_11 - Car Details Written To Excel
+12-07-2026 23:54:15 INFO  Browser : chrome
+12-07-2026 23:54:15 INFO  TC_12 - Under 3 Lakh Cars Validation Started
+12-07-2026 23:54:16 INFO  TC_11 - Car Details Written To Excel
+12-07-2026 23:54:37 INFO  Browser : edge
+12-07-2026 23:54:37 INFO  TC_12 - Under 3 Lakh Cars Validation Started
+12-07-2026 23:55:08 INFO  TC_12 - Popular Models Loaded Successfully
+12-07-2026 23:55:21 INFO  TC_12 - Popular Models Loaded Successfully
+12-07-2026 23:55:39 INFO  Car Details Written To Excel
+12-07-2026 23:55:41 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+12-07-2026 23:55:42 INFO  Under 3 Lakh Car: Hyundai i10 Magna 1.2
+12-07-2026 23:55:42 INFO  Under 3 Lakh Car: Hyundai i10 Asta
+12-07-2026 23:55:43 INFO  Under 3 Lakh Car: Honda City 1.5 EXI S
+12-07-2026 23:55:43 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+12-07-2026 23:55:44 INFO  Under 3 Lakh Car: Honda City 1.5 GXI
+12-07-2026 23:55:45 INFO  Under 3 Lakh Car: Honda City 1.5 V AT
+12-07-2026 23:55:46 INFO  Under 3 Lakh Car: Hyundai Santro Xing XO eRLX Euro II
+12-07-2026 23:55:46 INFO  Under 3 Lakh Car: Hyundai i10 Sportz 1.2 AT
+12-07-2026 23:55:46 INFO  Under 3 Lakh Car: Hyundai i10 Magna
+12-07-2026 23:55:49 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+12-07-2026 23:55:49 INFO  Under 3 Lakh Car: Hyundai i10 Sportz AT
+12-07-2026 23:55:50 INFO  Under 3 Lakh Car: Hyundai Santro Xing GLS
+12-07-2026 23:55:51 INFO  Under 3 Lakh Car: Hyundai i10 Magna 1.2
+12-07-2026 23:55:51 INFO  Under 3 Lakh Car: Hyundai i10 Asta
+12-07-2026 23:55:51 INFO  Car Details Written To Excel
+12-07-2026 23:55:52 INFO  Under 3 Lakh Car: Honda City 1.5 EXI S
+12-07-2026 23:55:52 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+12-07-2026 23:55:53 INFO  Under 3 Lakh Car: Honda City 1.5 GXI
+12-07-2026 23:55:53 INFO  Under 3 Lakh Car: Honda City 1.5 V AT
+12-07-2026 23:55:54 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+12-07-2026 23:55:54 INFO  Under 3 Lakh Car: Hyundai Santro Xing XO eRLX Euro II
+12-07-2026 23:55:54 INFO  Under 3 Lakh Car: Hyundai i10 Sportz AT
+12-07-2026 23:55:54 INFO  Under 3 Lakh Car: Hyundai i10 Sportz 1.2 AT
+12-07-2026 23:55:54 INFO  Under 3 Lakh Car: Hyundai i10 Magna
+12-07-2026 23:55:54 INFO  Under 3 Lakh Car: Hyundai Santro Xing GLS
+12-07-2026 23:55:54 INFO  TC_12 - Under 3 Lakh Cars Validation Completed
+12-07-2026 23:55:55 INFO  Under 3 Lakh Car: Hyundai i10 Magna 1.2
+12-07-2026 23:55:55 INFO  Under 3 Lakh Car: Hyundai i10 Asta
+12-07-2026 23:55:56 INFO  Under 3 Lakh Car: Honda City 1.5 GXI
+12-07-2026 23:55:57 INFO  Under 3 Lakh Car: Honda City 1.5 EXI S
+12-07-2026 23:55:57 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+12-07-2026 23:55:58 INFO  Under 3 Lakh Car: Honda City 1.5 V AT
+12-07-2026 23:55:59 INFO  Under 3 Lakh Car: Hyundai Santro Xing XO eRLX Euro II
+12-07-2026 23:55:59 INFO  Under 3 Lakh Car: Hyundai i10 Sportz 1.2 AT
+12-07-2026 23:55:59 INFO  Under 3 Lakh Car: Hyundai i10 Magna
+12-07-2026 23:56:04 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+12-07-2026 23:56:04 INFO  Under 3 Lakh Car: Hyundai i10 Sportz AT
+12-07-2026 23:56:04 INFO  Under 3 Lakh Car: Hyundai Santro Xing GLS
+12-07-2026 23:56:06 INFO  Under 3 Lakh Car: Hyundai i10 Magna 1.2
+12-07-2026 23:56:07 INFO  Under 3 Lakh Car: Hyundai i10 Asta
+12-07-2026 23:56:08 INFO  Under 3 Lakh Car: Honda City 1.5 EXI S
+12-07-2026 23:56:08 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+12-07-2026 23:56:09 INFO  Under 3 Lakh Car: Honda City 1.5 GXI
+12-07-2026 23:56:10 INFO  Under 3 Lakh Car: Honda City 1.5 V AT
+12-07-2026 23:56:11 INFO  Browser : chrome
+12-07-2026 23:56:11 INFO  TC_13 - Price Low To High Sorting Validation Started
+12-07-2026 23:56:11 INFO  Under 3 Lakh Car: Hyundai Santro Xing XO eRLX Euro II
+12-07-2026 23:56:11 INFO  Under 3 Lakh Car: Hyundai i10 Sportz 1.2 AT
+12-07-2026 23:56:11 INFO  Under 3 Lakh Car: Hyundai i10 Magna
+12-07-2026 23:56:15 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+12-07-2026 23:56:16 INFO  Under 3 Lakh Car: Honda City 1.5 EXI S
+12-07-2026 23:56:16 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+12-07-2026 23:56:17 INFO  Under 3 Lakh Car: Hyundai i10 Sportz AT
+12-07-2026 23:56:17 INFO  Under 3 Lakh Car: Hyundai Santro Xing GLS
+12-07-2026 23:56:19 INFO  Under 3 Lakh Car: Hyundai i10 Magna 1.2
+12-07-2026 23:56:19 INFO  Under 3 Lakh Car: Hyundai i10 Asta
+12-07-2026 23:56:20 INFO  Under 3 Lakh Car: Honda City 1.5 V AT
+12-07-2026 23:56:21 INFO  Under 3 Lakh Car: Honda City 1.5 GXI
+12-07-2026 23:56:22 INFO  Under 3 Lakh Car: Hyundai Santro Xing XO eRLX Euro II
+12-07-2026 23:56:22 INFO  Under 3 Lakh Car: Hyundai i10 Sportz 1.2 AT
+12-07-2026 23:56:22 INFO  Under 3 Lakh Car: Hyundai i10 Magna
+12-07-2026 23:56:27 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+12-07-2026 23:56:27 INFO  Under 3 Lakh Car: Hyundai i10 Sportz AT
+12-07-2026 23:56:27 INFO  Under 3 Lakh Car: Hyundai Santro Xing GLS
+12-07-2026 23:56:29 INFO  Under 3 Lakh Car: Hyundai i10 Magna 1.2
+12-07-2026 23:56:29 INFO  Under 3 Lakh Car: Hyundai i10 Asta
+12-07-2026 23:56:30 INFO  Under 3 Lakh Car: Honda City 1.5 EXI S
+12-07-2026 23:56:30 INFO  Under 3 Lakh Car: Hyundai i10 Sportz
+12-07-2026 23:56:31 INFO  Under 3 Lakh Car: Honda City 1.5 GXI
+12-07-2026 23:56:33 INFO  Under 3 Lakh Car: Honda City 1.5 V AT
+12-07-2026 23:56:33 INFO  Under 3 Lakh Car: Hyundai Santro Xing XO eRLX Euro II
+12-07-2026 23:56:34 INFO  Under 3 Lakh Car: Hyundai i10 Sportz 1.2 AT
+12-07-2026 23:56:34 INFO  Under 3 Lakh Car: Hyundai i10 Magna
+12-07-2026 23:56:34 INFO  TC_12 - Under 3 Lakh Cars Validation Completed
+12-07-2026 23:56:49 INFO  TC_13 - Price Filter Applied Successfully
+12-07-2026 23:56:52 INFO  First 4 Cars After Sorting:
+12-07-2026 23:56:53 INFO  Honda City 1.5 GXI - Rs. 1.60 Lakh
+12-07-2026 23:56:53 INFO  Hyundai Santro Xing XO eRLX Euro II - Rs. 1.85 Lakh
+12-07-2026 23:56:53 INFO  Hyundai i10 Magna - Rs. 1.85 Lakh
+12-07-2026 23:56:53 INFO  Hyundai i10 Sportz - Rs. 2.10 Lakh
+12-07-2026 23:56:53 INFO  TC_13 - Price Low To High Sorting Validation Completed
+12-07-2026 23:56:57 INFO  Browser : edge
+12-07-2026 23:56:57 INFO  TC_13 - Price Low To High Sorting Validation Started
+12-07-2026 23:57:14 INFO  Browser : chrome
+12-07-2026 23:57:14 INFO  TC_14 - KM Driven Filter Validation Started
+12-07-2026 23:57:23 INFO  TC_13 - Price Filter Applied Successfully
+12-07-2026 23:57:26 INFO  First 4 Cars After Sorting:
+12-07-2026 23:57:27 INFO  Honda City 1.5 GXI - Rs. 1.60 Lakh
+12-07-2026 23:57:27 INFO  Hyundai Santro Xing XO eRLX Euro II - Rs. 1.85 Lakh
+12-07-2026 23:57:27 INFO  Hyundai i10 Magna - Rs. 1.85 Lakh
+12-07-2026 23:57:27 INFO  Hyundai i10 Sportz - Rs. 2.10 Lakh
+12-07-2026 23:57:27 INFO  TC_13 - Price Low To High Sorting Validation Completed
+12-07-2026 23:57:46 INFO  Browser : edge
+12-07-2026 23:57:46 INFO  TC_14 - KM Driven Filter Validation Started
+12-07-2026 23:58:08 INFO  TC_14 - KM Driven Filter Validation Passed
+12-07-2026 23:58:31 INFO  Browser : chrome
+12-07-2026 23:58:31 INFO  TC_15 - Google Login Button Validation Started
+12-07-2026 23:58:31 INFO  TC_15 - Google Login Button Validation Passed
+12-07-2026 23:58:43 INFO  TC_14 - KM Driven Filter Validation Passed
+12-07-2026 23:58:48 INFO  Browser : chrome
+12-07-2026 23:58:48 INFO  TC_16 - Invalid Email Validation Started
+12-07-2026 23:58:55 INFO  Captured Error Message: Enter a valid email or phone number
+12-07-2026 23:58:55 INFO  TC_16 - Invalid Email Validation Passed
+12-07-2026 23:59:11 INFO  Browser : edge
+12-07-2026 23:59:11 INFO  TC_15 - Google Login Button Validation Started
+12-07-2026 23:59:12 INFO  Browser : chrome
+12-07-2026 23:59:12 INFO  TC_17 - Invalid Phone Number Validation Started
+12-07-2026 23:59:13 INFO  TC_15 - Google Login Button Validation Passed
+12-07-2026 23:59:19 INFO  Captured Error Message: Enter a valid email or phone number
+12-07-2026 23:59:19 INFO  TC_17 - Invalid Phone Number Validation Passed
+12-07-2026 23:59:36 INFO  Browser : edge
+12-07-2026 23:59:36 INFO  TC_16 - Invalid Email Validation Started
+12-07-2026 23:59:38 INFO  Browser : chrome
+12-07-2026 23:59:38 INFO  TC_18 - Valid Email Validation Started
+12-07-2026 23:59:45 INFO  Captured Error Message: Enter a valid email or phone number
+12-07-2026 23:59:45 INFO  TC_16 - Invalid Email Validation Passed
+12-07-2026 23:59:46 INFO  TC_18 - Valid Email Validation Completed
+12-07-2026 23:59:57 INFO  Browser : chrome
+12-07-2026 23:59:57 INFO  TC_19 - Invalid Password Validation Started
+13-07-2026 00:00:05 INFO  Browser : edge
+13-07-2026 00:00:05 INFO  TC_17 - Invalid Phone Number Validation Started
+13-07-2026 00:00:28 INFO  Captured Error Message: Wrong password. Try again or click "Try another way" for more options.
+13-07-2026 00:00:28 INFO  TC_19 - Invalid Password Validation Passed
+13-07-2026 00:00:34 INFO  Captured Error Message: Error Message Not Found
+13-07-2026 00:00:34 INFO  TC_17 - Invalid Phone Number Validation Passed
+13-07-2026 00:00:48 INFO  Browser : chrome
+13-07-2026 00:00:48 INFO  TC_20 - Valid Password Validation Started
+13-07-2026 00:00:53 INFO  Browser : edge
+13-07-2026 00:00:53 INFO  TC_18 - Valid Email Validation Started
+13-07-2026 00:01:00 INFO  TC_20 - Valid Password Validation Passed
+13-07-2026 00:01:04 INFO  TC_18 - Valid Email Validation Completed
+13-07-2026 00:01:18 INFO  Browser : chrome
+13-07-2026 00:01:18 INFO  TC_21 - Upcoming Honda Bikes FAQs Validation Started
+13-07-2026 00:01:22 INFO  Browser : edge
+13-07-2026 00:01:22 INFO  TC_19 - Invalid Password Validation Started
+13-07-2026 00:01:25 INFO  Total FAQ Questions Found: 6
+13-07-2026 00:01:26 INFO  FAQ 1: What are the upcoming honda bikes in India 2026?
+13-07-2026 00:01:26 INFO  FAQ 2: What are the upcoming honda commuter bikes in India?
+13-07-2026 00:01:26 INFO  FAQ 3: What are the upcoming honda scooters in India?
+13-07-2026 00:01:26 INFO  FAQ 4: What are the upcoming honda sports bikes in India?
+13-07-2026 00:01:26 INFO  FAQ 5: What are the upcoming honda cruiser bikes in India?
+13-07-2026 00:01:26 INFO  FAQ 6: What are the upcoming honda bikes under 1 lakh?
+13-07-2026 00:01:26 INFO  TC_21 - Upcoming Honda Bikes FAQs Validation Completed
+13-07-2026 00:01:43 INFO  Captured Error Message: Wrong password. Try again or click "Try another way" for more options.
+13-07-2026 00:01:43 INFO  TC_19 - Invalid Password Validation Passed
+13-07-2026 00:02:02 INFO  Browser : edge
+13-07-2026 00:02:02 INFO  TC_20 - Valid Password Validation Started
+13-07-2026 00:02:11 INFO  TC_20 - Valid Password Validation Passed
+13-07-2026 00:02:29 INFO  Browser : edge
+13-07-2026 00:02:29 INFO  TC_21 - Upcoming Honda Bikes FAQs Validation Started
+13-07-2026 00:02:35 INFO  Total FAQ Questions Found: 6
+13-07-2026 00:02:35 INFO  FAQ 1: What are the upcoming honda bikes in India 2026?
+13-07-2026 00:02:35 INFO  FAQ 2: What are the upcoming honda commuter bikes in India?
+13-07-2026 00:02:35 INFO  FAQ 3: What are the upcoming honda scooters in India?
+13-07-2026 00:02:35 INFO  FAQ 4: What are the upcoming honda sports bikes in India?
+13-07-2026 00:02:35 INFO  FAQ 5: What are the upcoming honda cruiser bikes in India?
+13-07-2026 00:02:35 INFO  FAQ 6: What are the upcoming honda bikes under 1 lakh?
+13-07-2026 00:02:35 INFO  TC_21 - Upcoming Honda Bikes FAQs Validation Completed
