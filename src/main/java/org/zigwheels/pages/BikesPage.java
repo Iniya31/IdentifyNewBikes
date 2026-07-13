@@ -110,22 +110,10 @@ public class BikesPage {
 
     public void clickHondaBrand() {
 
-        wait.until(
-                ExpectedConditions.visibilityOf(hondaBrand));
-
-        ((JavascriptExecutor) driver)
-                .executeScript(
-                        "arguments[0].scrollIntoView(true);",
-                        hondaBrand);
-
-        ((JavascriptExecutor) driver)
-                .executeScript(
-                        "window.scrollBy(0,-200)");
-
-        ((JavascriptExecutor) driver)
-                .executeScript(
-                        "arguments[0].click();",
-                        hondaBrand);
+        wait.until(ExpectedConditions.visibilityOf(hondaBrand));
+        ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", hondaBrand);
+        ((JavascriptExecutor) driver).executeScript("window.scrollBy(0,-200)");
+        ((JavascriptExecutor) driver).executeScript("arguments[0].click();", hondaBrand);
     }
 
     public List<WebElement> getBikeNames() {

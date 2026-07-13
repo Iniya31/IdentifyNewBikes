@@ -39,7 +39,7 @@ public class TC_11_PopularModelSectionAndDisplayValidation extends BaseTest {
         // Fetch and store car details in Excel
         List<WebElement> carNames = cp.getCarNames();
         List<WebElement> carPrices = cp.getCarPrices();
-        int count = Math.min(carNames.size(), carPrices.size());
+        int count = Math.min(carNames.size(), carPrices.size()); //to avoid indexoutofboundexception
         String fileName = "src/test/resources/Details_" + getBrowserName() + ".xlsx";
         for (int i = 0; i < count; i++) {
             String carName = carNames.get(i).getText().trim();
